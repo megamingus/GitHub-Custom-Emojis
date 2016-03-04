@@ -1,6 +1,6 @@
 # GitHub Custom Emojis [![tag](https://img.shields.io/github/tag/StylishThemes/GitHub-Custom-Emojis.svg)](https://github.com/StylishThemes/GitHub-Custom-Emojis/tags)
 
-This script allows you to use and add custom emojis to GitHub.
+This userscript allows you to use and add custom emojis to GitHub.
 
 It replaces text that follow this template `:_{name}:`, so as not to interfere with the default GitHub emojis. Custom emojis can be added anywhere on the page, and provide an autocomplete method in issue comments.
 
@@ -12,4 +12,5 @@ Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubuse
 
 # Screenshots
 
+![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13446838/5d55b274-dfdc-11e5-8a30-087e2a7f3414.png)
 
