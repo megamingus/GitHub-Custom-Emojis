@@ -10,7 +10,10 @@ It replaces text that follow this template `:_{name}:`, so as not to interfere w
 
 Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js).
 
+# Usage
+
+See the [wiki pages](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki) for more details.
+
 # Screenshots
 
 ![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13446838/5d55b274-dfdc-11e5-8a30-087e2a7f3414.png)
-
