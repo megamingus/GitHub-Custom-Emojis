@@ -133,6 +133,7 @@
       ghe.storeVal('rangeHeight',   reset ? d : s, $panel.find('.ghe-height'));
 
       GM_setValue('collections', this.collections);
+      GM_setValue('date', s.date);
 
       if (reset) {
         // add defaults back into source list; but don't remove any new stuff
