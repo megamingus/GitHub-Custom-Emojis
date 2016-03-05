@@ -316,40 +316,51 @@
 
     // used by autocomplete (atwho) filter function
     matches : function(query, labels) {
-      var i,
+      if (query === '') {
+        return 1;
+      }
+      var i, partial,
         count = 0,
         arry = (labels || '').split(/[\s,_]+/),
         parts = query.split(/[,_]/),
         len = parts.length;
       for (i = 0; i < len; i++) {
         // full match or partial
-        if (arry.indexOf(parts[i]) > -1 || (labels || '').indexOf(parts[i]) > -1) {
+        partial = arry.join('_').indexOf(parts.join('_'));
+        if (arry.indexOf(parts[i]) > -1 || partial > -1) {
+          count++;
+        }
+        // give more weight to results with indexOf closer to zero
+        if (partial > -1 && partial < len / 2) {
           count++;
         }
       }
-      if (len) {
-        // return fraction of query matches
-        return count / len;
-      } else {
-        count = (labels || '').match(query);
-        // partial match
-        return count ? count[0].length / query.length : 0;
-      }
+      // return fraction of query matches
+      return count / len;
     },
 
     // init when comment textarea is focused
     initAutocomplete : function($el) {
-      var name, group,
-        data = [];
-      // combine data
-      for (name in ghe.collections) {
-        if (ghe.collections.hasOwnProperty(name)) {
-          group = ghe.collections[name].slice(1);
-          data = data.concat(group);
-        }
-      }
-      // add emoji autocomplete to comment textareas
       if (!$el.data('atwho')) {
+        var indx, len, name, group,
+          data = [];
+        // combine data
+        for (name in ghe.collections) {
+          if (ghe.collections.hasOwnProperty(name)) {
+            group = ghe.collections[name].slice(1);
+            data = data.concat(group);
+          }
+        }
+        len = data.length;
+        // alphabetic sort
+        data = data.sort(function(a, b) {
+          return a.name > b.name ? 1 : a.name < b.name ? -1 : 0;
+        });
+        // add prepend name to labels
+        for (indx = 0; indx < len; indx++) {
+          data[indx].labels = data[indx].name.replace(/_/g, ' ') + ' ' + data[indx].labels;
+        }
+        // add emoji autocomplete to comment textareas
         $el.atwho({
           at : ':_', // first two characters from emojiTemplate
           data : data,
@@ -382,7 +393,7 @@
                   _results[_results.length] = item;
                 }
               }
-              return _results.sort(function(a, b) {
+              return query === '' ? _results : _results.sort(function(a, b) {
                 // descending sort
                 return b.atwho_order - a.atwho_order;
               });
