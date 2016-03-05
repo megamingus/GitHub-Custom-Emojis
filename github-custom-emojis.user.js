@@ -54,7 +54,7 @@
     defaults : {
       activeZoom    : 1.8,
       caseSensitive : false,
-      rangeHeight   : '30;40', // min;max as set by ion.rangeSlider
+      rangeHeight   : '20;40', // min;max as set by ion.rangeSlider
       insertAsImage : false,
       // emoji json sources
       sources : [
