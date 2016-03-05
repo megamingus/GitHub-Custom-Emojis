@@ -77,6 +77,8 @@
 
     // mutant observers to disconnect after ajax load
     previewObserver : [],
+    // promises used when loading JSON
+    promises : {},
 
     getStoredValues : function() {
       var defaults = this.defaults;
@@ -190,35 +192,47 @@
       // only load emoji.json once a day, or after a forced update
       if (update || (new Date().getTime() > this.settings.date + this.vars.delay)) {
         var indx,
+          promises = [],
           sources = this.settings.sources,
           len = sources.length;
         for (indx = 0; indx < len; indx++) {
-          this.fetchCustomEmojis(sources[indx]);
+          promises[promises.length] = this.fetchCustomEmojis(sources[indx]);
         }
-        this.settings.date = new Date().getTime();
+        $.when.apply(null, promises).done(function(){
+          ghe.checkPage();
+          ghe.promises = [];
+          ghe.settings.date = new Date().getTime();
+        });
       }
     },
 
     fetchCustomEmojis : function(url) {
-      debug('Fetching custom emoji list', url);
-      GM_xmlhttpRequest({
-        method : 'GET',
-        url : url,
-        onload : function(response) {
-          var json = false;
-          try {
-            json = JSON.parse(response.responseText);
-          } catch (err) {
-            debug('Invalid JSON', url);
-          }
-          if (json && json[0].name) {
-            // save url to make removing the entry easier
-            json[0].url = url;
-            ghe.collections[json[0].name] = json;
-            debug('Adding "' + json[0].name + '" Emoji Collection');
-          }
-        }
-      });
+      if (!this.promises[url]) {
+        this.promises[url] = $.Deferred(function(defer) {
+          debug('Fetching custom emoji list', url);
+          GM_xmlhttpRequest({
+            method : 'GET',
+            url : url,
+            onload : function(response) {
+              var json = false;
+              try {
+                json = JSON.parse(response.responseText);
+              } catch (err) {
+                debug('Invalid JSON', url);
+                return defer.reject();
+              }
+              if (json && json[0].name) {
+                // save url to make removing the entry easier
+                json[0].url = url;
+                ghe.collections[json[0].name] = json;
+                debug('Adding "' + json[0].name + '" Emoji Collection');
+              }
+              return defer.resolve();
+            }
+          });
+        }).promise();
+      }
+      return this.promises[url];
     },
 
     // Using: document.evaluate('//*[text()="tuzki"]', document.body, null,
