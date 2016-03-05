@@ -18,4 +18,4 @@ See the [wiki pages](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki)
 
 ![start typing](https://cloud.githubusercontent.com/assets/136959/13545878/262057ba-e260-11e5-864c-377d63f2065a.gif)
 
-![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13446838/5d55b274-dfdc-11e5-8a30-087e2a7f3414.png)
+![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13548428/ca089004-e2b5-11e5-8718-61343908bf15.png)
