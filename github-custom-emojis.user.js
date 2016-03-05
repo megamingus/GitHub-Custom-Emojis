@@ -89,6 +89,9 @@
 
         date          : GM_getValue('date', 0)
       };
+
+      this.collections = GM_getValue('collections', {});
+
       debug('Retrieved stored values', this.settings);
     },
 
@@ -126,6 +129,8 @@
       ghe.storeVal('insertAsImage', reset ? d : s, $panel.find('.ghe-image'));
       ghe.storeVal('activeZoom',    reset ? d : s, $panel.find('.ghe-zoom'));
       ghe.storeVal('rangeHeight',   reset ? d : s, $panel.find('.ghe-height'));
+
+      GM_setValue('collections', this.collections);
 
       if (reset) {
         // add defaults back into source list; but don't remove any new stuff
