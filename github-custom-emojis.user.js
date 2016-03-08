@@ -33,7 +33,8 @@
       // base url to fetch package.json
       root : 'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/',
       emojiClass : 'ghe-custom-emoji',
-      emojiTemplate : ':_${name}:',
+      emojiTxtTemplate : '~${name}',
+      emojiImgTemplate : ':_${name}:',
       maxEmojiZoom : 3,
       maxEmojiHeight : 150,
 
@@ -60,7 +61,9 @@
       sources : [
         'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-custom.json',
         'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-crazy-rabbit.json',
-        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-onion-head.json'
+        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-onion-head.json',
+        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-unicode.json',
+        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-custom-text.json'
       ]
     },
 
@@ -94,7 +97,7 @@
 
       this.collections = GM_getValue('collections', {});
 
-      debug('Retrieved stored values', this.settings);
+      debug('Retrieved stored values & collections', this.settings, this.collections);
     },
 
     storeVal : function(key, set, $el) {
@@ -251,12 +254,11 @@
     // Using: document.evaluate('//*[text()[contains(.,":_")]]', document.body, null,
     //   XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null).snapshotItem(0);
     // to find matching content as it is much faster than scanning each node
-    // sometimes it misses things...
     checkPage : function() {
       this.isUpdating = true;
       var node,
         indx = 0,
-        parts = this.vars.emojiTemplate.split('${name}'), // parts = [':_', ':']
+        parts = this.vars.emojiImgTemplate.split('${name}'), // parts = [':_', ':']
         // adding "//" starts from document, so if node is defined, don't
         // include it so the search starts from the node
         path = '//*[text()[contains(.,"' + parts[0] + '")]]',
@@ -288,7 +290,8 @@
       if (matches && matches[0]) {
         matchesLen = matches.length;
         for (group in emojis) {
-          if (emojis.hasOwnProperty(group)) {
+          // cycle through the collections (except text type)
+          if (emojis.hasOwnProperty(group) && emojis[group][0].type !== 'text') {
             len = emojis[group].length;
             for (indx = 1; indx < len; indx++) {
               name = emojis[group][indx].name;
@@ -307,7 +310,7 @@
     replaceText : function(node, emoji) {
       var data, pos, imgnode, middlebit, endbit,
         isCased = this.settings.caseSensitive,
-        name = this.vars.emojiTemplate.replace(ghe.regex.template, emoji.name),
+        name = this.vars.emojiImgTemplate.replace(ghe.regex.template, emoji.name),
         skip = 0;
       name = isCased ? name : name.toUpperCase();
       // Code modified from highlight-5 (MIT license)
@@ -338,7 +341,7 @@
       var el = document.createElement('img');
       el.src = emoji.url;
       el.className = ghe.vars.emojiClass + ' emoji';
-      el.title = el.alt = ghe.vars.emojiTemplate.replace(ghe.regex.template, emoji.name);
+      el.title = el.alt = ghe.vars.emojiImgTemplate.replace(ghe.regex.template, emoji.name);
       // el.align = 'absmiddle'; // deprecated attribute
       return el;
     },
@@ -370,81 +373,144 @@
       return count / len;
     },
 
+    emojiSort : function(a, b) {
+      return a.name > b.name ? 1 : a.name < b.name ? -1 : 0;
+    },
+
     // init when comment textarea is focused
     initAutocomplete : function($el) {
       if (!$el.data('atwho')) {
-        var indx, len, name, group,
+        var indx, imgLen, txtLen, name, group,
+          text = [],
           data = [];
         // combine data
         for (name in ghe.collections) {
           if (ghe.collections.hasOwnProperty(name)) {
             group = ghe.collections[name].slice(1);
-            data = data.concat(group);
-          }
-        }
-        len = data.length;
-        // alphabetic sort
-        data = data.sort(function(a, b) {
-          return a.name > b.name ? 1 : a.name < b.name ? -1 : 0;
-        });
-        // add prepend name to labels
-        for (indx = 0; indx < len; indx++) {
-          data[indx].labels = data[indx].name.replace(/_/g, ' ') + ' ' + data[indx].labels;
-        }
-        // add emoji autocomplete to comment textareas
-        $el.atwho({
-          at : ':_', // first two characters from emojiTemplate
-          data : data,
-          searchKey: 'labels',
-          displayTpl : '<li><span><img src="${url}" height="30" /></span>${name}</li>',
-          insertTpl : ghe.vars.emojiTemplate,
-          delay : 400,
-          callbacks : {
-            matcher: function(flag, subtext) {
-              var regexp = ghe.regex.emojiFilter,
-                match = regexp.exec(subtext);
-              // this next line does some magic...
-              // for some reason, without it, moving the caret from "p" to "r" in
-              // ":_people,fear," opens & closes the popup with each letter typed
-              subtext.match(regexp);
-              if (match) {
-                return match[2] || match[1];
-              } else {
-                return null;
-              }
-            },
-            filter: function(query, data, searchKey) {
-              var i, item,
-                len = data.length,
-                _results = [];
-              for (i = 0; i < len; i++) {
-                item = data[i];
-                item.atwho_order = ghe.matches(query, item[searchKey]);
-                if (item.atwho_order > 0.9) {
-                  _results[_results.length] = item;
-                }
-              }
-              return query === '' ? _results : _results.sort(function(a, b) {
-                // descending sort
-                return b.atwho_order - a.atwho_order;
-              });
-            },
-            sorter: function(query, items) {
-              // sorted by filter
-              return items;
-            },
-            // event parameter adding in atwho.js mod
-            beforeInsert: function(value, $li, event) {
-              if (event.shiftKey || ghe.settings.insertAsImage) {
-                // add image tag directly if shift is held
-                return '<img title="' +
-                  ghe.vars.emojiTemplate.replace(ghe.regex.template, $li.text()) +
-                  '" src="' + $li.find('img').attr('src') + '">';
-              }
-              return value;
+            if (ghe.collections[name][0].type === 'text') {
+              text = text.concat(group);
+            } else {
+              data = data.concat(group);
             }
           }
-        });
+        }
+        imgLen = data.length;
+        if (imgLen) {
+          // alphabetic sort
+          data = data.sort(ghe.emojiSort);
+          // add prepend name to labels
+          for (indx = 0; indx < imgLen; indx++) {
+            data[indx].labels = data[indx].name.replace(/_/g, ' ') + ' ' + data[indx].labels;
+          }
+          // add emoji autocomplete to comment textareas
+          $el.atwho({
+            // first two characters from emojiImgTemplate
+            at : ghe.vars.emojiImgTemplate.split('${name}')[0],
+            data : data,
+            searchKey: 'labels',
+            displayTpl : '<li><span><img src="${url}" height="30" /></span>${name}</li>',
+            insertTpl : ghe.vars.emojiImgTemplate,
+            delay : 400,
+            callbacks : {
+              matcher: function(flag, subtext) {
+                var regexp = ghe.regex.emojiImgFilter,
+                  match = regexp.exec(subtext);
+                // this next line does some magic...
+                // for some reason, without it, moving the caret from "p" to "r" in
+                // ":_people,fear," opens & closes the popup with each letter typed
+                subtext.match(regexp);
+                if (match) {
+                  return match[2] || match[1];
+                } else {
+                  return null;
+                }
+              },
+              filter: function(query, data, searchKey) {
+                var i, item,
+                  len = data.length,
+                  _results = [];
+                for (i = 0; i < len; i++) {
+                  item = data[i];
+                  item.atwho_order = ghe.matches(query, item[searchKey]);
+                  if (item.atwho_order > 0.9) {
+                    _results[_results.length] = item;
+                  }
+                }
+                return query === '' ? _results : _results.sort(function(a, b) {
+                  // descending sort
+                  return b.atwho_order - a.atwho_order;
+                });
+              },
+              sorter: function(query, items) {
+                // sorted by filter
+                return items;
+              },
+              // event parameter adding in atwho.js mod
+              beforeInsert: function(value, $li, event) {
+                if (event.shiftKey || ghe.settings.insertAsImage) {
+                  // add image tag directly if shift is held
+                  return '<img title="' +
+                    ghe.vars.emojiImgTemplate.replace(ghe.regex.template, $li.text()) +
+                    '" src="' + $li.find('img').attr('src') + '">';
+                }
+                return value;
+              }
+            }
+          });
+        }
+
+        txtLen = text.length;
+        if (txtLen) {
+          // alphabetic sort
+          text = text.sort(ghe.emojiSort);
+          $el.atwho({
+            at : ghe.vars.emojiTxtTemplate.split('${name}')[0],
+            data : text,
+            searchKey: 'name',
+            // add data-emoji because of Emoji-One Chrome extension adds
+            // hidden text and an svg image inside the span
+            displayTpl : '<li data-emoji="${text}"><span class="ghe-text">${text}</span>${name}</li>',
+            insertTpl : ghe.vars.emojiTxtTemplate,
+            delay : 400,
+            callbacks : {
+              matcher: function(flag, subtext) {
+                var regexp = ghe.regex.emojiTxtFilter,
+                  match = regexp.exec(subtext);
+                // this next line does some magic...
+                subtext.match(regexp);
+                if (match) {
+                  return match[2] || match[1];
+                } else {
+                  return null;
+                }
+              },
+              filter: function(query, data, searchKey) {
+                var i, item,
+                  len = data.length,
+                  _results = [];
+                for (i = 0; i < len; i++) {
+                  item = data[i];
+                  item.atwho_order = ghe.matches(query, item[searchKey]);
+                  if (item.atwho_order > 0.9) {
+                    _results[_results.length] = item;
+                  }
+                }
+                return query === '' ? _results : _results.sort(function(a, b) {
+                  // descending sort
+                  return b.atwho_order - a.atwho_order;
+                });
+              },
+              sorter: function(query, items) {
+                // sorted by filter
+                return items;
+              },
+              // event parameter adding in atwho.js mod
+              beforeInsert: function(value, $li, event) {
+                return $li.attr('data-emoji');
+              }
+            }
+          });
+        }
         // use classes from GitHub-Dark to make theme match GitHub-Dark
         $('.atwho-view').addClass('popover suggester');
       }
@@ -721,7 +787,7 @@
     },
 
     addCollections : function() {
-      var indx, len, key, group, img,
+      var indx, len, key, group, item, emoji,
         collections = ghe.collections,
         range = ghe.settings.rangeHeight.split(';'),
         list = [],
@@ -740,35 +806,53 @@
       for (indx = 0; indx < len; indx++) {
         group = collections[list[indx]];
         // random image (skip first entry)
-        img = Math.round(Math.random() * (group.length - 2)) + 1;
-        items[items.length] = '<div class="select-menu-item js-navigation-item ghe-collection" ' +
-          'data-group="' + list[indx] + '">' +
+        item = Math.round(Math.random() * (group.length - 2)) + 1;
+        emoji = group[item];
+        items[items.length] = '<div class="select-menu-item js-navigation-item ghe-collection' +
+          (emoji.url ? '' : ' ghe-text-collection') +
+          '" data-group="' + list[indx] + '">' +
           // collection info stored in first entry
-          group[0].name + ' <span class="ghe-right"><img src="' +
-          group[img].url + '" title="' +
-           ghe.vars.emojiTemplate.replace(ghe.regex.template, group[img].name) + '" style="' +
-           'min-height:' + (range[0] || 'none') + 'px;' +
-           'max-height:' + (range[1] || 'none') + 'px;">' +
-           '</span></div>';
+          group[0].name + ' <span class="ghe-right' +
+          (emoji.url ?
+            // images
+            '"><img src="' + emoji.url + '" title="' +
+            ghe.vars.emojiImgTemplate.replace(ghe.regex.template, emoji.name) + '" style="' +
+            'min-height:' + (range[0] || 'none') + 'px;' +
+            'max-height:' + (range[1] || 'none') + 'px;">' :
+            // text
+            ' ghe-text" title="' + emoji.name + '" style="font-size:' + group[0].previewSize +
+            '">' + emoji.text
+           ) + '</span></div>';
       }
       $('.ghe-single-collection, .ghe-back').hide();
       $('.ghe-all-collections').html(items.join('')).show();
     },
 
     showCollection : function(name) {
-      var indx,
+      var indx, emoji,
         range = ghe.settings.rangeHeight.split(';'),
-        group = ghe.collections[name].sort(function(a, b) {
+        group = ghe.collections[name].slice(1).sort(function(a, b) {
           return a.name > b.name ? 1 : ( a.name < b.name ? -1 : 0 );
         }),
         list = [],
         len = group.length;
       for (indx = 1; indx < len; indx++) {
-        list[indx - 1] = '<div class="select-menu-item js-navigation-item ghe-emoji" ' +
-          'data-name="' + group[indx].name + '">' +
-          group[indx].name + '<span class="ghe-right"><img src="' +
-          group[indx].url + '" style="min-height:' + (range[0] || 'none') + 'px;' +
-            'max-height:' + (range[1] || 'none') + 'px"></span></div>';
+        emoji = group[indx];
+        list[indx - 1] = '<div class="select-menu-item js-navigation-item ghe-emoji' +
+          (emoji.url ? '' : ' ghe-text-emoji') +
+          '" data-name="' + emoji.name + '">' +
+          emoji.name + '<span class="ghe-right' +
+          (emoji.url ?
+            // images
+            '"><img src="' + emoji.url + '" style="' +
+            'min-height:' + (range[0] || 'none') + 'px;' +
+            'max-height:' + (range[1] || 'none') + 'px">' :
+            // text type
+            ' ghe-text" style="font-size:' + ghe.collections[name][0].previewSize +
+            // data-emoji needed because Chrome emoji-one extension adds hidden
+            // text inside the span when it replaces the text with an svg
+            '" data-emoji="' + emoji.text + '">' + emoji.text
+          ) + '</span></div>';
       }
       $('.ghe-all-collections').hide();
       $('.ghe-single-collection').html(list.join('')).show();
@@ -778,17 +862,23 @@
     // add emoji from collection
     addEmoji : function(e, $el) {
       var val, emoji,
+        $img = $el.find('img'),
         name = $el.attr('data-name'),
         caretPos = ghe.$currentInput.caret('pos');
-      // insert into textarea
-      if (e.shiftKey || ghe.settings.insertAsImage) {
-        // add image tag directly if shift is held;
-        // GitHub does NOT allow class names so we are forced to use alt
-        emoji = '<img alt="ghe-emoji" title="' +
-          ghe.vars.emojiTemplate.replace(ghe.regex.template, name) +
-          '" src="' + $el.find('img').attr('src') + '">';
+      if ($img.length) {
+        // insert into textarea
+        if (e.shiftKey || ghe.settings.insertAsImage) {
+          // add image tag directly if shift is held;
+          // GitHub does NOT allow class names so we are forced to use alt
+          emoji = '<img alt="ghe-emoji" title="' +
+            ghe.vars.emojiImgTemplate.replace(ghe.regex.template, name) +
+            '" src="' + $el.find('img').attr('src') + '">';
+        } else {
+          emoji = ghe.vars.emojiImgTemplate.replace(ghe.regex.template, name);
+        }
       } else {
-        emoji = ghe.vars.emojiTemplate.replace(ghe.regex.template, name);
+        // insert text emoji
+        emoji = $el.find('span').attr('data-emoji');
       }
       val = ghe.$currentInput.val();
       ghe.$currentInput
@@ -859,6 +949,9 @@
         '#ghe-popup .octicon-gear { margin-left:4px }',
         '#ghe-popup .ghe-back svg { height:20px; padding:4px 14px 4px 4px }',
         '#ghe-popup .select-menu-item { font-size:1.1em; font-weight:bold; line-height:40px; padding:8px }',
+        '#ghe-popup .select-menu-item.ghe-text-emoji { line-height:inherit; position:relative; padding-right:45px }',
+        '#ghe-popup .select-menu-item.ghe-text-emoji .ghe-text { position:absolute; right:10px; top:0 }',
+        '#ghe-popup .select-menu-item .ghe-text, .atwho-view .ghe-text { font-size:1.6em }',
         '.ghe-settings-icon, #ghe-popup.in { display:inline-block }',
 
         // autocomplete popup in comment
@@ -985,18 +1078,26 @@
     setRegex : function() {
       var isCS = this.settings.caseSensitive,
         // parts = [':_', ':']
-        parts = this.vars.emojiTemplate.split('${name}');
+        imgParts = this.vars.emojiImgTemplate.split('${name}'),
+        txtParts = this.vars.emojiTxtTemplate.split('${name}');
 
-      // emojiFilter = /:_([a-zA-Z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
+      // filter = /:_([a-zA-Z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
       // used by atwho.js autocomplete
-      this.regex.emojiFilter = new RegExp(
-        parts[0] + '([a-zA-Z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
-        parts[0] + '([^\\x00-\\xff]*)$',
+      this.regex.emojiImgFilter = new RegExp(
+        imgParts[0] + '([a-zA-Z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
+        imgParts[0] + '([^\\x00-\\xff]*)$',
         (isCS ? 'g' : 'gi')
       );
 
+      this.regex.emojiTxtFilter = new RegExp(
+        txtParts[0] + '([a-zA-Z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
+        txtParts[0] + '([^\\x00-\\xff]*)$',
+        (isCS ? 'g' : 'gi')
+      );
+
+      // used by search & replace
       this.regex.nameRegex = new RegExp(
-        parts[0] + '([\\w_]+)' + parts[1],
+        imgParts[0] + '([\\w_]+)' + imgParts[1],
         (isCS ? 'g' : 'gi')
       );
     },

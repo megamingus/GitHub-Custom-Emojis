@@ -1,0 +1,4729 @@
+[{
+  "name": "Unicode Emojis",
+  "type": "text",
+  "source": "http://emojipedia.org/",
+  "details": "",
+  "previewSize": "1.6em"
+},{
+  "text":"\ud83d\ude00",
+  "name":"Grinning Face"
+},{
+  "text":"\ud83d\ude01",
+  "name":"Grinning Face With Smiling Eyes"
+},{
+  "text":"\ud83d\ude02",
+  "name":"Face With Tears of Joy"
+},{
+  "text":"\ud83d\ude03",
+  "name":"Smiling Face With Open Mouth"
+},{
+  "text":"\ud83d\ude04",
+  "name":"Smiling Face With Open Mouth and Smiling Eyes"
+},{
+  "text":"\ud83d\ude05",
+  "name":"Smiling Face With Open Mouth and Cold Sweat"
+},{
+  "text":"\ud83d\ude06",
+  "name":"Smiling Face With Open Mouth and Tightly-Closed Eyes"
+},{
+  "text":"\ud83d\ude09",
+  "name":"Winking Face"
+},{
+  "text":"\ud83d\ude0a",
+  "name":"Smiling Face With Smiling Eyes"
+},{
+  "text":"\ud83d\ude0b",
+  "name":"Face Savouring Delicious Food"
+},{
+  "text":"\ud83d\ude0e",
+  "name":"Smiling Face With Sunglasses"
+},{
+  "text":"\ud83d\ude0d",
+  "name":"Smiling Face With Heart-Shaped Eyes"
+},{
+  "text":"\ud83d\ude18",
+  "name":"Face Throwing a Kiss"
+},{
+  "text":"\ud83d\ude17",
+  "name":"Kissing Face"
+},{
+  "text":"\ud83d\ude19",
+  "name":"Kissing Face With Smiling Eyes"
+},{
+  "text":"\ud83d\ude1a",
+  "name":"Kissing Face With Closed Eyes"
+},{
+  "text":"\u263a",
+  "name":"White Smiling Face"
+},{
+  "text":"\ud83d\ude42",
+  "name":"Slightly Smiling Face"
+},{
+  "text":"\ud83e\udd17",
+  "name":"Hugging Face"
+},{
+  "text":"\ud83d\ude07",
+  "name":"Smiling Face With Halo"
+},{
+  "text":"\ud83e\udd14",
+  "name":"Thinking Face"
+},{
+  "text":"\ud83d\ude10",
+  "name":"Neutral Face"
+},{
+  "text":"\ud83d\ude11",
+  "name":"Expressionless Face"
+},{
+  "text":"\ud83d\ude36",
+  "name":"Face Without Mouth"
+},{
+  "text":"\ud83d\ude44",
+  "name":"Face With Rolling Eyes"
+},{
+  "text":"\ud83d\ude0f",
+  "name":"Smirking Face"
+},{
+  "text":"\ud83d\ude23",
+  "name":"Persevering Face"
+},{
+  "text":"\ud83d\ude25",
+  "name":"Disappointed but Relieved Face"
+},{
+  "text":"\ud83d\ude2e",
+  "name":"Face With Open Mouth"
+},{
+  "text":"\ud83e\udd10",
+  "name":"Zipper-Mouth Face"
+},{
+  "text":"\ud83d\ude2f",
+  "name":"Hushed Face"
+},{
+  "text":"\ud83d\ude2a",
+  "name":"Sleepy Face"
+},{
+  "text":"\ud83d\ude2b",
+  "name":"Tired Face"
+},{
+  "text":"\ud83d\ude34",
+  "name":"Sleeping Face"
+},{
+  "text":"\ud83d\ude0c",
+  "name":"Relieved Face"
+},{
+  "text":"\ud83e\udd13",
+  "name":"Nerd Face"
+},{
+  "text":"\ud83d\ude1b",
+  "name":"Face With Stuck-Out Tongue"
+},{
+  "text":"\ud83d\ude1c",
+  "name":"Face With Stuck-Out Tongue and Winking Eye"
+},{
+  "text":"\ud83d\ude1d",
+  "name":"Face With Stuck-Out Tongue and Tightly-Closed Eyes"
+},{
+  "text":"\u2639",
+  "name":"White Frowning Face"
+},{
+  "text":"\ud83d\ude41",
+  "name":"Slightly Frowning Face"
+},{
+  "text":"\ud83d\ude12",
+  "name":"Unamused Face"
+},{
+  "text":"\ud83d\ude13",
+  "name":"Face With Cold Sweat"
+},{
+  "text":"\ud83d\ude14",
+  "name":"Pensive Face"
+},{
+  "text":"\ud83d\ude15",
+  "name":"Confused Face"
+},{
+  "text":"\ud83d\ude16",
+  "name":"Confounded Face"
+},{
+  "text":"\ud83d\ude43",
+  "name":"Upside-Down Face"
+},{
+  "text":"\ud83d\ude37",
+  "name":"Face With Medical Mask"
+},{
+  "text":"\ud83e\udd12",
+  "name":"Face With Thermometer"
+},{
+  "text":"\ud83e\udd15",
+  "name":"Face With Head-Bandage"
+},{
+  "text":"\ud83e\udd11",
+  "name":"Money-Mouth Face"
+},{
+  "text":"\ud83d\ude32",
+  "name":"Astonished Face"
+},{
+  "text":"\ud83d\ude1e",
+  "name":"Disappointed Face"
+},{
+  "text":"\ud83d\ude1f",
+  "name":"Worried Face"
+},{
+  "text":"\ud83d\ude24",
+  "name":"Face With Look of Triumph"
+},{
+  "text":"\ud83d\ude22",
+  "name":"Crying Face"
+},{
+  "text":"\ud83d\ude2d",
+  "name":"Loudly Crying Face"
+},{
+  "text":"\ud83d\ude26",
+  "name":"Frowning Face With Open Mouth"
+},{
+  "text":"\ud83d\ude27",
+  "name":"Anguished Face"
+},{
+  "text":"\ud83d\ude28",
+  "name":"Fearful Face"
+},{
+  "text":"\ud83d\ude29",
+  "name":"Weary Face"
+},{
+  "text":"\ud83d\ude2c",
+  "name":"Grimacing Face"
+},{
+  "text":"\ud83d\ude30",
+  "name":"Face With Open Mouth and Cold Sweat"
+},{
+  "text":"\ud83d\ude31",
+  "name":"Face Screaming in Fear"
+},{
+  "text":"\ud83d\ude33",
+  "name":"Flushed Face"
+},{
+  "text":"\ud83d\ude35",
+  "name":"Dizzy Face"
+},{
+  "text":"\ud83d\ude21",
+  "name":"Pouting Face"
+},{
+  "text":"\ud83d\ude20",
+  "name":"Angry Face"
+},{
+  "text":"\ud83d\udc7f",
+  "name":"Imp"
+},{
+  "text":"\ud83d\ude08",
+  "name":"Smiling Face With Horns"
+},{
+  "text":"\ud83d\udc66",
+  "name":"Boy"
+},{
+  "text":"\ud83d\udc66\ud83c\udffb",
+  "name":"Boy, type-1-2"
+},{
+  "text":"\ud83d\udc66\ud83c\udffc",
+  "name":"Boy, type3"
+},{
+  "text":"\ud83d\udc66\ud83c\udffd",
+  "name":"Boy, type4"
+},{
+  "text":"\ud83d\udc66\ud83c\udffe",
+  "name":"Boy, type5"
+},{
+  "text":"\ud83d\udc66\ud83c\udfff",
+  "name":"Boy, type6"
+},{
+  "text":"\ud83d\udc67",
+  "name":"Girl"
+},{
+  "text":"\ud83d\udc67\ud83c\udffb",
+  "name":"Girl, type1-2"
+},{
+  "text":"\ud83d\udc67\ud83c\udffc",
+  "name":"Girl, type3"
+},{
+  "text":"\ud83d\udc67\ud83c\udffd",
+  "name":"Girl, type4"
+},{
+  "text":"\ud83d\udc67\ud83c\udffe",
+  "name":"Girl, type5"
+},{
+  "text":"\ud83d\udc67\ud83c\udfff",
+  "name":"Girl, type6"
+},{
+  "text":"\ud83d\udc68",
+  "name":"Man"
+},{
+  "text":"\ud83d\udc68\ud83c\udffb",
+  "name":"Man, type1-2"
+},{
+  "text":"\ud83d\udc68\ud83c\udffc",
+  "name":"Man, type3"
+},{
+  "text":"\ud83d\udc68\ud83c\udffd",
+  "name":"Man, type4"
+},{
+  "text":"\ud83d\udc68\ud83c\udffe",
+  "name":"Man, type5"
+},{
+  "text":"\ud83d\udc68\ud83c\udfff",
+  "name":"Man, type6"
+},{
+  "text":"\ud83d\udc69",
+  "name":"Woman"
+},{
+  "text":"\ud83d\udc69\ud83c\udffb",
+  "name":"Woman, type1-2"
+},{
+  "text":"\ud83d\udc69\ud83c\udffc",
+  "name":"Woman, type3"
+},{
+  "text":"\ud83d\udc69\ud83c\udffd",
+  "name":"Woman, type4"
+},{
+  "text":"\ud83d\udc69\ud83c\udffe",
+  "name":"Woman, type5"
+},{
+  "text":"\ud83d\udc69\ud83c\udfff",
+  "name":"Woman, type6"
+},{
+  "text":"\ud83d\udc74",
+  "name":"Older Man"
+},{
+  "text":"\ud83d\udc74\ud83c\udffb",
+  "name":"Older Man, type1-2"
+},{
+  "text":"\ud83d\udc74\ud83c\udffc",
+  "name":"Older Man, type3"
+},{
+  "text":"\ud83d\udc74\ud83c\udffd",
+  "name":"Older Man, type4"
+},{
+  "text":"\ud83d\udc74\ud83c\udffe",
+  "name":"Older Man, type5"
+},{
+  "text":"\ud83d\udc74\ud83c\udfff",
+  "name":"Older Man, type6"
+},{
+  "text":"\ud83d\udc75",
+  "name":"Older Woman"
+},{
+  "text":"\ud83d\udc75\ud83c\udffb",
+  "name":"Older Woman, type1-2"
+},{
+  "text":"\ud83d\udc75\ud83c\udffc",
+  "name":"Older Woman, type3"
+},{
+  "text":"\ud83d\udc75\ud83c\udffd",
+  "name":"Older Woman, type4"
+},{
+  "text":"\ud83d\udc75\ud83c\udffe",
+  "name":"Older Woman, type5"
+},{
+  "text":"\ud83d\udc75\ud83c\udfff",
+  "name":"Older Woman, type6"
+},{
+  "text":"\ud83d\udc76",
+  "name":"Baby"
+},{
+  "text":"\ud83d\udc76\ud83c\udffb",
+  "name":"Baby, type1-2"
+},{
+  "text":"\ud83d\udc76\ud83c\udffc",
+  "name":"Baby, type3"
+},{
+  "text":"\ud83d\udc76\ud83c\udffd",
+  "name":"Baby, type4"
+},{
+  "text":"\ud83d\udc76\ud83c\udffe",
+  "name":"Baby, type5"
+},{
+  "text":"\ud83d\udc76\ud83c\udfff",
+  "name":"Baby, type6"
+},{
+  "text":"\ud83d\udc71",
+  "name":"Person With Blond Hair"
+},{
+  "text":"\ud83d\udc71\ud83c\udffb",
+  "name":"Person With Blond Hair, type1-2"
+},{
+  "text":"\ud83d\udc71\ud83c\udffc",
+  "name":"Person With Blond Hair, type3"
+},{
+  "text":"\ud83d\udc71\ud83c\udffd",
+  "name":"Person With Blond Hair, type4"
+},{
+  "text":"\ud83d\udc71\ud83c\udffe",
+  "name":"Person With Blond Hair, type5"
+},{
+  "text":"\ud83d\udc71\ud83c\udfff",
+  "name":"Person With Blond Hair, type6"
+},{
+  "text":"\ud83d\udc6e",
+  "name":"Police Officer"
+},{
+  "text":"\ud83d\udc6e\ud83c\udffb",
+  "name":"Police Officer, type1-2"
+},{
+  "text":"\ud83d\udc6e\ud83c\udffc",
+  "name":"Police Officer, type3"
+},{
+  "text":"\ud83d\udc6e\ud83c\udffd",
+  "name":"Police Officer, type4"
+},{
+  "text":"\ud83d\udc6e\ud83c\udffe",
+  "name":"Police Officer, type5"
+},{
+  "text":"\ud83d\udc6e\ud83c\udfff",
+  "name":"Police Officer, type6"
+},{
+  "text":"\ud83d\udc72",
+  "name":"Man With Gua Pi Mao"
+},{
+  "text":"\ud83d\udc72\ud83c\udffb",
+  "name":"Man With Gua Pi Mao, type1-2"
+},{
+  "text":"\ud83d\udc72\ud83c\udffc",
+  "name":"Man With Gua Pi Mao, type3"
+},{
+  "text":"\ud83d\udc72\ud83c\udffd",
+  "name":"Man With Gua Pi Mao, type4"
+},{
+  "text":"\ud83d\udc72\ud83c\udffe",
+  "name":"Man With Gua Pi Mao, type5"
+},{
+  "text":"\ud83d\udc72\ud83c\udfff",
+  "name":"Man With Gua Pi Mao, type6"
+},{
+  "text":"\ud83d\udc73",
+  "name":"Man With Turban"
+},{
+  "text":"\ud83d\udc73\ud83c\udffb",
+  "name":"Man With Turban, type1-2"
+},{
+  "text":"\ud83d\udc73\ud83c\udffc",
+  "name":"Man With Turban, type3"
+},{
+  "text":"\ud83d\udc73\ud83c\udffd",
+  "name":"Man With Turban, type4"
+},{
+  "text":"\ud83d\udc73\ud83c\udffe",
+  "name":"Man With Turban, type5"
+},{
+  "text":"\ud83d\udc73\ud83c\udfff",
+  "name":"Man With Turban, type6"
+},{
+  "text":"\ud83d\udc77",
+  "name":"Construction Worker"
+},{
+  "text":"\ud83d\udc77\ud83c\udffb",
+  "name":"Construction Worker, type1-2"
+},{
+  "text":"\ud83d\udc77\ud83c\udffc",
+  "name":"Construction Worker, type3"
+},{
+  "text":"\ud83d\udc77\ud83c\udffd",
+  "name":"Construction Worker, type4"
+},{
+  "text":"\ud83d\udc77\ud83c\udffe",
+  "name":"Construction Worker, type5"
+},{
+  "text":"\ud83d\udc77\ud83c\udfff",
+  "name":"Construction Worker, type6"
+},{
+  "text":"\ud83d\udc78",
+  "name":"Princess"
+},{
+  "text":"\ud83d\udc78\ud83c\udffb",
+  "name":"Princess, type1-2"
+},{
+  "text":"\ud83d\udc78\ud83c\udffc",
+  "name":"Princess, type3"
+},{
+  "text":"\ud83d\udc78\ud83c\udffd",
+  "name":"Princess, type4"
+},{
+  "text":"\ud83d\udc78\ud83c\udffe",
+  "name":"Princess, type5"
+},{
+  "text":"\ud83d\udc78\ud83c\udfff",
+  "name":"Princess, type6"
+},{
+  "text":"\ud83d\udc82",
+  "name":"Guardsman"
+},{
+  "text":"\ud83d\udc82\ud83c\udffb",
+  "name":"Guardsman, type1-2"
+},{
+  "text":"\ud83d\udc82\ud83c\udffc",
+  "name":"Guardsman, type3"
+},{
+  "text":"\ud83d\udc82\ud83c\udffd",
+  "name":"Guardsman, type4"
+},{
+  "text":"\ud83d\udc82\ud83c\udffe",
+  "name":"Guardsman, type5"
+},{
+  "text":"\ud83d\udc82\ud83c\udfff",
+  "name":"Guardsman, type6"
+},{
+  "text":"\ud83d\udd75",
+  "name":"Sleuth or Spy"
+},{
+  "text":"\ud83d\udd75\ud83c\udffb",
+  "name":"Sleuth or Spy, type1-2"
+},{
+  "text":"\ud83d\udd75\ud83c\udffc",
+  "name":"Sleuth or Spy, type3"
+},{
+  "text":"\ud83d\udd75\ud83c\udffd",
+  "name":"Sleuth or Spy, type4"
+},{
+  "text":"\ud83d\udd75\ud83c\udffe",
+  "name":"Sleuth or Spy, type5"
+},{
+  "text":"\ud83d\udd75\ud83c\udfff",
+  "name":"Sleuth or Spy, type6"
+},{
+  "text":"\ud83c\udf85",
+  "name":"Father Christmas"
+},{
+  "text":"\ud83c\udf85\ud83c\udffb",
+  "name":"Father Christmas, type1-2"
+},{
+  "text":"\ud83c\udf85\ud83c\udffc",
+  "name":"Father Christmas, type3"
+},{
+  "text":"\ud83c\udf85\ud83c\udffd",
+  "name":"Father Christmas, type4"
+},{
+  "text":"\ud83c\udf85\ud83c\udffe",
+  "name":"Father Christmas, type5"
+},{
+  "text":"\ud83c\udf85\ud83c\udfff",
+  "name":"Father Christmas, type6"
+},{
+  "text":"\ud83d\udc70",
+  "name":"Bride With Veil"
+},{
+  "text":"\ud83d\udc70\ud83c\udffb",
+  "name":"Bride With Veil, type1-2"
+},{
+  "text":"\ud83d\udc70\ud83c\udffc",
+  "name":"Bride With Veil, type3"
+},{
+  "text":"\ud83d\udc70\ud83c\udffd",
+  "name":"Bride With Veil, type4"
+},{
+  "text":"\ud83d\udc70\ud83c\udffe",
+  "name":"Bride With Veil, type5"
+},{
+  "text":"\ud83d\udc70\ud83c\udfff",
+  "name":"Bride With Veil, type6"
+},{
+  "text":"\ud83d\udc7c",
+  "name":"Baby Angel"
+},{
+  "text":"\ud83d\udc7c\ud83c\udffb",
+  "name":"Baby Angel, type1-2"
+},{
+  "text":"\ud83d\udc7c\ud83c\udffc",
+  "name":"Baby Angel, type3"
+},{
+  "text":"\ud83d\udc7c\ud83c\udffd",
+  "name":"Baby Angel, type4"
+},{
+  "text":"\ud83d\udc7c\ud83c\udffe",
+  "name":"Baby Angel, type5"
+},{
+  "text":"\ud83d\udc7c\ud83c\udfff",
+  "name":"Baby Angel, type6"
+},{
+  "text":"\ud83d\udc86",
+  "name":"Face Massage"
+},{
+  "text":"\ud83d\udc86\ud83c\udffb",
+  "name":"Face Massage, type1-2"
+},{
+  "text":"\ud83d\udc86\ud83c\udffc",
+  "name":"Face Massage, type3"
+},{
+  "text":"\ud83d\udc86\ud83c\udffd",
+  "name":"Face Massage, type4"
+},{
+  "text":"\ud83d\udc86\ud83c\udffe",
+  "name":"Face Massage, type5"
+},{
+  "text":"\ud83d\udc86\ud83c\udfff",
+  "name":"Face Massage, type6"
+},{
+  "text":"\ud83d\udc87",
+  "name":"Haircut"
+},{
+  "text":"\ud83d\udc87\ud83c\udffb",
+  "name":"Haircut, type1-2"
+},{
+  "text":"\ud83d\udc87\ud83c\udffc",
+  "name":"Haircut, type3"
+},{
+  "text":"\ud83d\udc87\ud83c\udffd",
+  "name":"Haircut, type4"
+},{
+  "text":"\ud83d\udc87\ud83c\udffe",
+  "name":"Haircut, type5"
+},{
+  "text":"\ud83d\udc87\ud83c\udfff",
+  "name":"Haircut, type6"
+},{
+  "text":"\ud83d\ude4d",
+  "name":"Person Frowning"
+},{
+  "text":"\ud83d\ude4d\ud83c\udffb",
+  "name":"Person Frowning, type1-2"
+},{
+  "text":"\ud83d\ude4d\ud83c\udffc",
+  "name":"Person Frowning, type3"
+},{
+  "text":"\ud83d\ude4d\ud83c\udffd",
+  "name":"Person Frowning, type4"
+},{
+  "text":"\ud83d\ude4d\ud83c\udffe",
+  "name":"Person Frowning, type5"
+},{
+  "text":"\ud83d\ude4d\ud83c\udfff",
+  "name":"Person Frowning, type6"
+},{
+  "text":"\ud83d\ude4e",
+  "name":"Person With Pouting Face"
+},{
+  "text":"\ud83d\ude4e\ud83c\udffb",
+  "name":"Person With Pouting Face, type1-2"
+},{
+  "text":"\ud83d\ude4e\ud83c\udffc",
+  "name":"Person With Pouting Face, type3"
+},{
+  "text":"\ud83d\ude4e\ud83c\udffd",
+  "name":"Person With Pouting Face, type4"
+},{
+  "text":"\ud83d\ude4e\ud83c\udffe",
+  "name":"Person With Pouting Face, type5"
+},{
+  "text":"\ud83d\ude4e\ud83c\udfff",
+  "name":"Person With Pouting Face, type6"
+},{
+  "text":"\ud83d\ude45",
+  "name":"Face With No Good Gesture"
+},{
+  "text":"\ud83d\ude45\ud83c\udffb",
+  "name":"Face With No Good Gesture, type1-2"
+},{
+  "text":"\ud83d\ude45\ud83c\udffc",
+  "name":"Face With No Good Gesture, type3"
+},{
+  "text":"\ud83d\ude45\ud83c\udffd",
+  "name":"Face With No Good Gesture, type4"
+},{
+  "text":"\ud83d\ude45\ud83c\udffe",
+  "name":"Face With No Good Gesture, type5"
+},{
+  "text":"\ud83d\ude45\ud83c\udfff",
+  "name":"Face With No Good Gesture, type6"
+},{
+  "text":"\ud83d\ude46",
+  "name":"Face With OK Gesture"
+},{
+  "text":"\ud83d\ude46\ud83c\udffb",
+  "name":"Face With OK Gesture, type1-2"
+},{
+  "text":"\ud83d\ude46\ud83c\udffc",
+  "name":"Face With OK Gesture, type3"
+},{
+  "text":"\ud83d\ude46\ud83c\udffd",
+  "name":"Face With OK Gesture, type4"
+},{
+  "text":"\ud83d\ude46\ud83c\udffe",
+  "name":"Face With OK Gesture, type5"
+},{
+  "text":"\ud83d\ude46\ud83c\udfff",
+  "name":"Face With OK Gesture, type6"
+},{
+  "text":"\ud83d\udc81",
+  "name":"Information Desk Person"
+},{
+  "text":"\ud83d\udc81\ud83c\udffb",
+  "name":"Information Desk Person, type1-2"
+},{
+  "text":"\ud83d\udc81\ud83c\udffc",
+  "name":"Information Desk Person, type3"
+},{
+  "text":"\ud83d\udc81\ud83c\udffd",
+  "name":"Information Desk Person, type4"
+},{
+  "text":"\ud83d\udc81\ud83c\udffe",
+  "name":"Information Desk Person, type5"
+},{
+  "text":"\ud83d\udc81\ud83c\udfff",
+  "name":"Information Desk Person, type6"
+},{
+  "text":"\ud83d\ude4b",
+  "name":"Happy Person Raising One Hand"
+},{
+  "text":"\ud83d\ude4b\ud83c\udffb",
+  "name":"Happy Person Raising One Hand, type1-2"
+},{
+  "text":"\ud83d\ude4b\ud83c\udffc",
+  "name":"Happy Person Raising One Hand, type3"
+},{
+  "text":"\ud83d\ude4b\ud83c\udffd",
+  "name":"Happy Person Raising One Hand, type4"
+},{
+  "text":"\ud83d\ude4b\ud83c\udffe",
+  "name":"Happy Person Raising One Hand, type5"
+},{
+  "text":"\ud83d\ude4b\ud83c\udfff",
+  "name":"Happy Person Raising One Hand, type6"
+},{
+  "text":"\ud83d\ude47",
+  "name":"Person Bowing Deeply"
+},{
+  "text":"\ud83d\ude47\ud83c\udffb",
+  "name":"Person Bowing Deeply, type1-2"
+},{
+  "text":"\ud83d\ude47\ud83c\udffc",
+  "name":"Person Bowing Deeply, type3"
+},{
+  "text":"\ud83d\ude47\ud83c\udffd",
+  "name":"Person Bowing Deeply, type4"
+},{
+  "text":"\ud83d\ude47\ud83c\udffe",
+  "name":"Person Bowing Deeply, type5"
+},{
+  "text":"\ud83d\ude47\ud83c\udfff",
+  "name":"Person Bowing Deeply, type6"
+},{
+  "text":"\ud83d\ude4c",
+  "name":"Person Raising Both Hands in Celebration"
+},{
+  "text":"\ud83d\ude4c\ud83c\udffb",
+  "name":"Person Raising Both Hands in Celebration, type1-2"
+},{
+  "text":"\ud83d\ude4c\ud83c\udffc",
+  "name":"Person Raising Both Hands in Celebration, type3"
+},{
+  "text":"\ud83d\ude4c\ud83c\udffd",
+  "name":"Person Raising Both Hands in Celebration, type4"
+},{
+  "text":"\ud83d\ude4c\ud83c\udffe",
+  "name":"Person Raising Both Hands in Celebration, type5"
+},{
+  "text":"\ud83d\ude4c\ud83c\udfff",
+  "name":"Person Raising Both Hands in Celebration, type6"
+},{
+  "text":"\ud83d\ude4f",
+  "name":"Person With Folded Hands"
+},{
+  "text":"\ud83d\ude4f\ud83c\udffb",
+  "name":"Person With Folded Hands, type1-2"
+},{
+  "text":"\ud83d\ude4f\ud83c\udffc",
+  "name":"Person With Folded Hands, type3"
+},{
+  "text":"\ud83d\ude4f\ud83c\udffd",
+  "name":"Person With Folded Hands, type4"
+},{
+  "text":"\ud83d\ude4f\ud83c\udffe",
+  "name":"Person With Folded Hands, type5"
+},{
+  "text":"\ud83d\ude4f\ud83c\udfff",
+  "name":"Person With Folded Hands, type6"
+},{
+  "text":"\ud83d\udeb6",
+  "name":"Pedestrian"
+},{
+  "text":"\ud83d\udeb6\ud83c\udffb",
+  "name":"Pedestrian, type1-2"
+},{
+  "text":"\ud83d\udeb6\ud83c\udffc",
+  "name":"Pedestrian, type3"
+},{
+  "text":"\ud83d\udeb6\ud83c\udffd",
+  "name":"Pedestrian, type4"
+},{
+  "text":"\ud83d\udeb6\ud83c\udffe",
+  "name":"Pedestrian, type5"
+},{
+  "text":"\ud83d\udeb6\ud83c\udfff",
+  "name":"Pedestrian, type6"
+},{
+  "text":"\ud83c\udfc3",
+  "name":"Runner"
+},{
+  "text":"\ud83c\udfc3\ud83c\udffb",
+  "name":"Runner, type1-2"
+},{
+  "text":"\ud83c\udfc3\ud83c\udffc",
+  "name":"Runner, type3"
+},{
+  "text":"\ud83c\udfc3\ud83c\udffd",
+  "name":"Runner, type4"
+},{
+  "text":"\ud83c\udfc3\ud83c\udffe",
+  "name":"Runner, type5"
+},{
+  "text":"\ud83c\udfc3\ud83c\udfff",
+  "name":"Runner, type6"
+},{
+  "text":"\ud83d\udc83",
+  "name":"Dancer"
+},{
+  "text":"\ud83d\udc83\ud83c\udffb",
+  "name":"Dancer, type1-2"
+},{
+  "text":"\ud83d\udc83\ud83c\udffc",
+  "name":"Dancer, type3"
+},{
+  "text":"\ud83d\udc83\ud83c\udffd",
+  "name":"Dancer, type4"
+},{
+  "text":"\ud83d\udc83\ud83c\udffe",
+  "name":"Dancer, type5"
+},{
+  "text":"\ud83d\udc83\ud83c\udfff",
+  "name":"Dancer, type6"
+},{
+  "text":"\ud83d\udcaa",
+  "name":"Flexed Biceps"
+},{
+  "text":"\ud83d\udcaa\ud83c\udffb",
+  "name":"Flexed Biceps, type1-2"
+},{
+  "text":"\ud83d\udcaa\ud83c\udffc",
+  "name":"Flexed Biceps, type3"
+},{
+  "text":"\ud83d\udcaa\ud83c\udffd",
+  "name":"Flexed Biceps, type4"
+},{
+  "text":"\ud83d\udcaa\ud83c\udffe",
+  "name":"Flexed Biceps, type5"
+},{
+  "text":"\ud83d\udcaa\ud83c\udfff",
+  "name":"Flexed Biceps, type6"
+},{
+  "text":"\ud83d\udc48",
+  "name":"White Left Pointing Backhand Index"
+},{
+  "text":"\ud83d\udc48\ud83c\udffb",
+  "name":"White Left Pointing Backhand Index, type1-2"
+},{
+  "text":"\ud83d\udc48\ud83c\udffc",
+  "name":"White Left Pointing Backhand Index, type3"
+},{
+  "text":"\ud83d\udc48\ud83c\udffd",
+  "name":"White Left Pointing Backhand Index, type4"
+},{
+  "text":"\ud83d\udc48\ud83c\udffe",
+  "name":"White Left Pointing Backhand Index, type5"
+},{
+  "text":"\ud83d\udc48\ud83c\udfff",
+  "name":"White Left Pointing Backhand Index, type6"
+},{
+  "text":"\ud83d\udc49",
+  "name":"White Right Pointing Backhand Index"
+},{
+  "text":"\ud83d\udc49\ud83c\udffb",
+  "name":"White Right Pointing Backhand Index, type1-2"
+},{
+  "text":"\ud83d\udc49\ud83c\udffc",
+  "name":"White Right Pointing Backhand Index, type3"
+},{
+  "text":"\ud83d\udc49\ud83c\udffd",
+  "name":"White Right Pointing Backhand Index, type4"
+},{
+  "text":"\ud83d\udc49\ud83c\udffe",
+  "name":"White Right Pointing Backhand Index, type5"
+},{
+  "text":"\ud83d\udc49\ud83c\udfff",
+  "name":"White Right Pointing Backhand Index, type6"
+},{
+  "text":"\u261d",
+  "name":"White Up Pointing Index"
+},{
+  "text":"\u261d\ud83c\udffb",
+  "name":"White Up Pointing Index, type1-2"
+},{
+  "text":"\u261d\ud83c\udffc",
+  "name":"White Up Pointing Index, type3"
+},{
+  "text":"\u261d\ud83c\udffd",
+  "name":"White Up Pointing Index, type4"
+},{
+  "text":"\u261d\ud83c\udffe",
+  "name":"White Up Pointing Index, type5"
+},{
+  "text":"\u261d\ud83c\udfff",
+  "name":"White Up Pointing Index, type6"
+},{
+  "text":"\ud83d\udc46",
+  "name":"White Up Pointing Backhand Index"
+},{
+  "text":"\ud83d\udc46\ud83c\udffb",
+  "name":"White Up Pointing Backhand Index, type1-2"
+},{
+  "text":"\ud83d\udc46\ud83c\udffc",
+  "name":"White Up Pointing Backhand Index, type3"
+},{
+  "text":"\ud83d\udc46\ud83c\udffd",
+  "name":"White Up Pointing Backhand Index, type4"
+},{
+  "text":"\ud83d\udc46\ud83c\udffe",
+  "name":"White Up Pointing Backhand Index, type5"
+},{
+  "text":"\ud83d\udc46\ud83c\udfff",
+  "name":"White Up Pointing Backhand Index, type6"
+},{
+  "text":"\ud83d\udd95",
+  "name":"Reversed Hand With Middle Finger Extended"
+},{
+  "text":"\ud83d\udd95\ud83c\udffb",
+  "name":"Reversed Hand With Middle Finger Extended, type1-2"
+},{
+  "text":"\ud83d\udd95\ud83c\udffc",
+  "name":"Reversed Hand With Middle Finger Extended, type3"
+},{
+  "text":"\ud83d\udd95\ud83c\udffd",
+  "name":"Reversed Hand With Middle Finger Extended, type4"
+},{
+  "text":"\ud83d\udd95\ud83c\udffe",
+  "name":"Reversed Hand With Middle Finger Extended, type5"
+},{
+  "text":"\ud83d\udd95\ud83c\udfff",
+  "name":"Reversed Hand With Middle Finger Extended, type6"
+},{
+  "text":"\ud83d\udc47",
+  "name":"White Down Pointing Backhand Index"
+},{
+  "text":"\ud83d\udc47\ud83c\udffb",
+  "name":"White Down Pointing Backhand Index, type1-2"
+},{
+  "text":"\ud83d\udc47\ud83c\udffc",
+  "name":"White Down Pointing Backhand Index, type3"
+},{
+  "text":"\ud83d\udc47\ud83c\udffd",
+  "name":"White Down Pointing Backhand Index, type4"
+},{
+  "text":"\ud83d\udc47\ud83c\udffe",
+  "name":"White Down Pointing Backhand Index, type5"
+},{
+  "text":"\ud83d\udc47\ud83c\udfff",
+  "name":"White Down Pointing Backhand Index, type6"
+},{
+  "text":"\u270c",
+  "name":"Victory Hand"
+},{
+  "text":"\u270c\ud83c\udffb",
+  "name":"Victory Hand, type1-2"
+},{
+  "text":"\u270c\ud83c\udffc",
+  "name":"Victory Hand, type3"
+},{
+  "text":"\u270c\ud83c\udffd",
+  "name":"Victory Hand, type4"
+},{
+  "text":"\u270c\ud83c\udffe",
+  "name":"Victory Hand, type5"
+},{
+  "text":"\u270c\ud83c\udfff",
+  "name":"Victory Hand, type6"
+},{
+  "text":"\ud83d\udd96",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers"
+},{
+  "text":"\ud83d\udd96\ud83c\udffb",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers, type1-2"
+},{
+  "text":"\ud83d\udd96\ud83c\udffc",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers, type3"
+},{
+  "text":"\ud83d\udd96\ud83c\udffd",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers, type4"
+},{
+  "text":"\ud83d\udd96\ud83c\udffe",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers, type5"
+},{
+  "text":"\ud83d\udd96\ud83c\udfff",
+  "name":"Raised Hand With Part Between Middle and Ring Fingers, type6"
+},{
+  "text":"\ud83e\udd18",
+  "name":"Sign of the Horns"
+},{
+  "text":"\ud83e\udd18\ud83c\udffb",
+  "name":"Sign of the Horns, type1-2"
+},{
+  "text":"\ud83e\udd18\ud83c\udffc",
+  "name":"Sign of the Horns, type3"
+},{
+  "text":"\ud83e\udd18\ud83c\udffd",
+  "name":"Sign of the Horns, type4"
+},{
+  "text":"\ud83e\udd18\ud83c\udffe",
+  "name":"Sign of the Horns, type5"
+},{
+  "text":"\ud83e\udd18\ud83c\udfff",
+  "name":"Sign of the Horns, type6"
+},{
+  "text":"\ud83d\udd90",
+  "name":"Raised Hand With Fingers Splayed"
+},{
+  "text":"\ud83d\udd90\ud83c\udffb",
+  "name":"Raised Hand With Fingers Splayed, type1-2"
+},{
+  "text":"\ud83d\udd90\ud83c\udffc",
+  "name":"Raised Hand With Fingers Splayed, type3"
+},{
+  "text":"\ud83d\udd90\ud83c\udffd",
+  "name":"Raised Hand With Fingers Splayed, type4"
+},{
+  "text":"\ud83d\udd90\ud83c\udffe",
+  "name":"Raised Hand With Fingers Splayed, type5"
+},{
+  "text":"\ud83d\udd90\ud83c\udfff",
+  "name":"Raised Hand With Fingers Splayed, type6"
+},{
+  "text":"\u270b",
+  "name":"Raised Hand"
+},{
+  "text":"\u270b\ud83c\udffb",
+  "name":"Raised Hand, type1-2"
+},{
+  "text":"\u270b\ud83c\udffc",
+  "name":"Raised Hand, type3"
+},{
+  "text":"\u270b\ud83c\udffd",
+  "name":"Raised Hand, type4"
+},{
+  "text":"\u270b\ud83c\udffe",
+  "name":"Raised Hand, type5"
+},{
+  "text":"\u270b\ud83c\udfff",
+  "name":"Raised Hand, type6"
+},{
+  "text":"\ud83d\udc4c",
+  "name":"OK Hand Sign"
+},{
+  "text":"\ud83d\udc4c\ud83c\udffb",
+  "name":"OK Hand Sign, type1-2"
+},{
+  "text":"\ud83d\udc4c\ud83c\udffc",
+  "name":"OK Hand Sign, type3"
+},{
+  "text":"\ud83d\udc4c\ud83c\udffd",
+  "name":"OK Hand Sign, type4"
+},{
+  "text":"\ud83d\udc4c\ud83c\udffe",
+  "name":"OK Hand Sign, type5"
+},{
+  "text":"\ud83d\udc4c\ud83c\udfff",
+  "name":"OK Hand Sign, type6"
+},{
+  "text":"\ud83d\udc4d",
+  "name":"Thumbs Up Sign"
+},{
+  "text":"\ud83d\udc4d\ud83c\udffb",
+  "name":"Thumbs Up Sign, type1-2"
+},{
+  "text":"\ud83d\udc4d\ud83c\udffc",
+  "name":"Thumbs Up Sign, type3"
+},{
+  "text":"\ud83d\udc4d\ud83c\udffd",
+  "name":"Thumbs Up Sign, type4"
+},{
+  "text":"\ud83d\udc4d\ud83c\udffe",
+  "name":"Thumbs Up Sign, type5"
+},{
+  "text":"\ud83d\udc4d\ud83c\udfff",
+  "name":"Thumbs Up Sign, type6"
+},{
+  "text":"\ud83d\udc4e",
+  "name":"Thumbs Down Sign"
+},{
+  "text":"\ud83d\udc4e\ud83c\udffb",
+  "name":"Thumbs Down Sign, type1-2"
+},{
+  "text":"\ud83d\udc4e\ud83c\udffc",
+  "name":"Thumbs Down Sign, type3"
+},{
+  "text":"\ud83d\udc4e\ud83c\udffd",
+  "name":"Thumbs Down Sign, type4"
+},{
+  "text":"\ud83d\udc4e\ud83c\udffe",
+  "name":"Thumbs Down Sign, type5"
+},{
+  "text":"\ud83d\udc4e\ud83c\udfff",
+  "name":"Thumbs Down Sign, type6"
+},{
+  "text":"\u270a",
+  "name":"Raised Fist"
+},{
+  "text":"\u270a\ud83c\udffb",
+  "name":"Raised Fist, type1-2"
+},{
+  "text":"\u270a\ud83c\udffc",
+  "name":"Raised Fist, type3"
+},{
+  "text":"\u270a\ud83c\udffd",
+  "name":"Raised Fist, type4"
+},{
+  "text":"\u270a\ud83c\udffe",
+  "name":"Raised Fist, type5"
+},{
+  "text":"\u270a\ud83c\udfff",
+  "name":"Raised Fist, type6"
+},{
+  "text":"\ud83d\udc4a",
+  "name":"Fisted Hand Sign"
+},{
+  "text":"\ud83d\udc4a\ud83c\udffb",
+  "name":"Fisted Hand Sign, type1-2"
+},{
+  "text":"\ud83d\udc4a\ud83c\udffc",
+  "name":"Fisted Hand Sign, type3"
+},{
+  "text":"\ud83d\udc4a\ud83c\udffd",
+  "name":"Fisted Hand Sign, type4"
+},{
+  "text":"\ud83d\udc4a\ud83c\udffe",
+  "name":"Fisted Hand Sign, type5"
+},{
+  "text":"\ud83d\udc4a\ud83c\udfff",
+  "name":"Fisted Hand Sign, type6"
+},{
+  "text":"\ud83d\udc4b",
+  "name":"Waving Hand Sign"
+},{
+  "text":"\ud83d\udc4b\ud83c\udffb",
+  "name":"Waving Hand Sign, type1-2"
+},{
+  "text":"\ud83d\udc4b\ud83c\udffc",
+  "name":"Waving Hand Sign, type3"
+},{
+  "text":"\ud83d\udc4b\ud83c\udffd",
+  "name":"Waving Hand Sign, type4"
+},{
+  "text":"\ud83d\udc4b\ud83c\udffe",
+  "name":"Waving Hand Sign, type5"
+},{
+  "text":"\ud83d\udc4b\ud83c\udfff",
+  "name":"Waving Hand Sign, type6"
+},{
+  "text":"\ud83d\udc4f",
+  "name":"Clapping Hands Sign"
+},{
+  "text":"\ud83d\udc4f\ud83c\udffb",
+  "name":"Clapping Hands Sign, type1-2"
+},{
+  "text":"\ud83d\udc4f\ud83c\udffc",
+  "name":"Clapping Hands Sign, type3"
+},{
+  "text":"\ud83d\udc4f\ud83c\udffd",
+  "name":"Clapping Hands Sign, type4"
+},{
+  "text":"\ud83d\udc4f\ud83c\udffe",
+  "name":"Clapping Hands Sign, type5"
+},{
+  "text":"\ud83d\udc4f\ud83c\udfff",
+  "name":"Clapping Hands Sign, type6"
+},{
+  "text":"\ud83d\udc50",
+  "name":"Open Hands Sign"
+},{
+  "text":"\ud83d\udc50\ud83c\udffb",
+  "name":"Open Hands Sign, type1-2"
+},{
+  "text":"\ud83d\udc50\ud83c\udffc",
+  "name":"Open Hands Sign, type3"
+},{
+  "text":"\ud83d\udc50\ud83c\udffd",
+  "name":"Open Hands Sign, type4"
+},{
+  "text":"\ud83d\udc50\ud83c\udffe",
+  "name":"Open Hands Sign, type5"
+},{
+  "text":"\ud83d\udc50\ud83c\udfff",
+  "name":"Open Hands Sign, type6"
+},{
+  "text":"\u270d",
+  "name":"Writing Hand"
+},{
+  "text":"\u270d\ud83c\udffb",
+  "name":"Writing Hand, type1-2"
+},{
+  "text":"\u270d\ud83c\udffc",
+  "name":"Writing Hand, type3"
+},{
+  "text":"\u270d\ud83c\udffd",
+  "name":"Writing Hand, type4"
+},{
+  "text":"\u270d\ud83c\udffe",
+  "name":"Writing Hand, type5"
+},{
+  "text":"\u270d\ud83c\udfff",
+  "name":"Writing Hand, type6"
+},{
+  "text":"\ud83d\udc85",
+  "name":"Nail Polish"
+},{
+  "text":"\ud83d\udc85\ud83c\udffb",
+  "name":"Nail Polish, type1-2"
+},{
+  "text":"\ud83d\udc85\ud83c\udffc",
+  "name":"Nail Polish, type3"
+},{
+  "text":"\ud83d\udc85\ud83c\udffd",
+  "name":"Nail Polish, type4"
+},{
+  "text":"\ud83d\udc85\ud83c\udffe",
+  "name":"Nail Polish, type5"
+},{
+  "text":"\ud83d\udc85\ud83c\udfff",
+  "name":"Nail Polish, type6"
+},{
+  "text":"\ud83d\udc42",
+  "name":"Ear"
+},{
+  "text":"\ud83d\udc42\ud83c\udffb",
+  "name":"Ear, type1-2"
+},{
+  "text":"\ud83d\udc42\ud83c\udffc",
+  "name":"Ear, type3"
+},{
+  "text":"\ud83d\udc42\ud83c\udffd",
+  "name":"Ear, type4"
+},{
+  "text":"\ud83d\udc42\ud83c\udffe",
+  "name":"Ear, type5"
+},{
+  "text":"\ud83d\udc42\ud83c\udfff",
+  "name":"Ear, type6"
+},{
+  "text":"\ud83d\udc43",
+  "name":"Nose"
+},{
+  "text":"\ud83d\udc43\ud83c\udffb",
+  "name":"Nose, type1-2"
+},{
+  "text":"\ud83d\udc43\ud83c\udffc",
+  "name":"Nose, type3"
+},{
+  "text":"\ud83d\udc43\ud83c\udffd",
+  "name":"Nose, type4"
+},{
+  "text":"\ud83d\udc43\ud83c\udffe",
+  "name":"Nose, type5"
+},{
+  "text":"\ud83d\udc43\ud83c\udfff",
+  "name":"Nose, type6"
+},{
+  "text":"\ud83d\udea3",
+  "name":"Rowboat"
+},{
+  "text":"\ud83d\udea3\ud83c\udffb",
+  "name":"Rowboat, type1-2"
+},{
+  "text":"\ud83d\udea3\ud83c\udffc",
+  "name":"Rowboat, type3"
+},{
+  "text":"\ud83d\udea3\ud83c\udffd",
+  "name":"Rowboat, type4"
+},{
+  "text":"\ud83d\udea3\ud83c\udffe",
+  "name":"Rowboat, type5"
+},{
+  "text":"\ud83d\udea3\ud83c\udfff",
+  "name":"Rowboat, type6"
+},{
+  "text":"\ud83d\udec0",
+  "name":"Bath"
+},{
+  "text":"\ud83d\udec0\ud83c\udffb",
+  "name":"Bath, type1-2"
+},{
+  "text":"\ud83d\udec0\ud83c\udffc",
+  "name":"Bath, type3"
+},{
+  "text":"\ud83d\udec0\ud83c\udffd",
+  "name":"Bath, type4"
+},{
+  "text":"\ud83d\udec0\ud83c\udffe",
+  "name":"Bath, type5"
+},{
+  "text":"\ud83d\udec0\ud83c\udfff",
+  "name":"Bath, type6"
+},{
+  "text":"\ud83c\udfc4",
+  "name":"Surfer"
+},{
+  "text":"\ud83c\udfc4\ud83c\udffb",
+  "name":"Surfer, type1-2"
+},{
+  "text":"\ud83c\udfc4\ud83c\udffc",
+  "name":"Surfer, type3"
+},{
+  "text":"\ud83c\udfc4\ud83c\udffd",
+  "name":"Surfer, type4"
+},{
+  "text":"\ud83c\udfc4\ud83c\udffe",
+  "name":"Surfer, type5"
+},{
+  "text":"\ud83c\udfc4\ud83c\udfff",
+  "name":"Surfer, type6"
+},{
+  "text":"\ud83c\udfca",
+  "name":"Swimmer"
+},{
+  "text":"\ud83c\udfca\ud83c\udffb",
+  "name":"Swimmer, type1-2"
+},{
+  "text":"\ud83c\udfca\ud83c\udffc",
+  "name":"Swimmer, type3"
+},{
+  "text":"\ud83c\udfca\ud83c\udffd",
+  "name":"Swimmer, type4"
+},{
+  "text":"\ud83c\udfca\ud83c\udffe",
+  "name":"Swimmer, type5"
+},{
+  "text":"\ud83c\udfca\ud83c\udfff",
+  "name":"Swimmer, type6"
+},{
+  "text":"\u26f9",
+  "name":"Person With Ball"
+},{
+  "text":"\u26f9\ud83c\udffb",
+  "name":"Person With Ball, type1-2"
+},{
+  "text":"\u26f9\ud83c\udffc",
+  "name":"Person With Ball, type3"
+},{
+  "text":"\u26f9\ud83c\udffd",
+  "name":"Person With Ball, type4"
+},{
+  "text":"\u26f9\ud83c\udffe",
+  "name":"Person With Ball, type5"
+},{
+  "text":"\u26f9\ud83c\udfff",
+  "name":"Person With Ball, type6"
+},{
+  "text":"\ud83c\udfcb",
+  "name":"Weight Lifter"
+},{
+  "text":"\ud83c\udfcb\ud83c\udffb",
+  "name":"Weight Lifter, type1-2"
+},{
+  "text":"\ud83c\udfcb\ud83c\udffc",
+  "name":"Weight Lifter, type3"
+},{
+  "text":"\ud83c\udfcb\ud83c\udffd",
+  "name":"Weight Lifter, type4"
+},{
+  "text":"\ud83c\udfcb\ud83c\udffe",
+  "name":"Weight Lifter, type5"
+},{
+  "text":"\ud83c\udfcb\ud83c\udfff",
+  "name":"Weight Lifter, type6"
+},{
+  "text":"\ud83d\udeb4",
+  "name":"Bicyclist"
+},{
+  "text":"\ud83d\udeb4\ud83c\udffb",
+  "name":"Bicyclist, type1-2"
+},{
+  "text":"\ud83d\udeb4\ud83c\udffc",
+  "name":"Bicyclist, type3"
+},{
+  "text":"\ud83d\udeb4\ud83c\udffd",
+  "name":"Bicyclist, type4"
+},{
+  "text":"\ud83d\udeb4\ud83c\udffe",
+  "name":"Bicyclist, type5"
+},{
+  "text":"\ud83d\udeb4\ud83c\udfff",
+  "name":"Bicyclist, type6"
+},{
+  "text":"\ud83d\udeb5",
+  "name":"Mountain Bicyclist"
+},{
+  "text":"\ud83d\udeb5\ud83c\udffb",
+  "name":"Mountain Bicyclist, type1-2"
+},{
+  "text":"\ud83d\udeb5\ud83c\udffc",
+  "name":"Mountain Bicyclist, type3"
+},{
+  "text":"\ud83d\udeb5\ud83c\udffd",
+  "name":"Mountain Bicyclist, type4"
+},{
+  "text":"\ud83d\udeb5\ud83c\udffe",
+  "name":"Mountain Bicyclist, type5"
+},{
+  "text":"\ud83d\udeb5\ud83c\udfff",
+  "name":"Mountain Bicyclist, type6"
+},{
+  "text":"\ud83d\udc6f",
+  "name":"Woman With Bunny Ears"
+},{
+  "text":"\u26d1",
+  "name":"Helmet With White Cross"
+},{
+  "text":"\ud83d\udde3",
+  "name":"Speaking Head in Silhouette"
+},{
+  "text":"\ud83d\udc64",
+  "name":"Bust in Silhouette"
+},{
+  "text":"\ud83d\udc65",
+  "name":"Busts in Silhouette"
+},{
+  "text":"\ud83d\udc6b",
+  "name":"Man and Woman Holding Hands"
+},{
+  "text":"\ud83d\udc6c",
+  "name":"Two Men Holding Hands"
+},{
+  "text":"\ud83d\udc6d",
+  "name":"Two Women Holding Hands"
+},{
+  "text":"\ud83d\udc8f",
+  "name":"Kiss (Woman, Man)"
+},{
+  "text":"\ud83d\udc68\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc68",
+  "name":"Kiss (Man, Man)"
+},{
+  "text":"\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc69",
+  "name":"Kiss (Woman, Woman)"
+},{
+  "text":"\ud83d\udc91",
+  "name":"Couple With Heart (Woman, Man)"
+},{
+  "text":"\ud83d\udc68\u200d\u2764\ufe0f\u200d\ud83d\udc68",
+  "name":"Couple With Heart (Man, Man)"
+},{
+  "text":"\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc69",
+  "name":"Couple With Heart (Woman, Woman)"
+},{
+  "text":"\ud83d\udc6a",
+  "name":"Family (Man, Woman, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+  "name":"Family (Man, Woman, Girl)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+  "name":"Family (Man, Woman, Girl, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66\u200d\ud83d\udc66",
+  "name":"Family (Man, Woman, Boy, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
+  "name":"Family (Man, Woman, Girl, Girl)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc66",
+  "name":"Family (Man, Man, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc67",
+  "name":"Family (Man, Man, Girl)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
+  "name":"Family (Man, Man, Girl, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc66\u200d\ud83d\udc66",
+  "name":"Family (Man, Man, Boy, Boy)"
+},{
+  "text":"\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc67",
+  "name":"Family (Man, Man, Girl, Girl)"
+},{
+  "text":"\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc66",
+  "name":"Family (Woman, Woman, Boy)"
+},{
+  "text":"\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67",
+  "name":"Family (Woman, Woman, Girl)"
+},{
+  "text":"\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+  "name":"Family (Woman, Woman, Girl, Boy)"
+},{
+  "text":"\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc66\u200d\ud83d\udc66",
+  "name":"Family (Woman, Woman, Boy, Boy)"
+},{
+  "text":"\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
+  "name":"Family (Woman, Woman, Girl, Girl)"
+},{
+  "text":"\ud83d\udc63",
+  "name":"Footprints"
+},{
+  "text":"\ud83d\udc40",
+  "name":"Eyes"
+},{
+  "text":"\ud83d\udc41",
+  "name":"Eye"
+},{
+  "text":"\ud83d\udc45",
+  "name":"Tongue"
+},{
+  "text":"\ud83d\udc44",
+  "name":"Mouth"
+},{
+  "text":"\ud83d\udc8b",
+  "name":"Kiss Mark"
+},{
+  "text":"\ud83d\udc53",
+  "name":"Eyeglasses"
+},{
+  "text":"\ud83d\udd76",
+  "name":"Dark Sunglasses"
+},{
+  "text":"\ud83d\udc54",
+  "name":"Necktie"
+},{
+  "text":"\ud83d\udc55",
+  "name":"T-Shirt"
+},{
+  "text":"\ud83d\udc56",
+  "name":"Jeans"
+},{
+  "text":"\ud83d\udc57",
+  "name":"Dress"
+},{
+  "text":"\ud83d\udc58",
+  "name":"Kimono"
+},{
+  "text":"\ud83d\udc59",
+  "name":"Bikini"
+},{
+  "text":"\ud83d\udc5a",
+  "name":"Womans Clothes"
+},{
+  "text":"\ud83d\udc5b",
+  "name":"Purse"
+},{
+  "text":"\ud83d\udc5c",
+  "name":"Handbag"
+},{
+  "text":"\ud83d\udc5d",
+  "name":"Pouch"
+},{
+  "text":"\ud83c\udf92",
+  "name":"School Satchel"
+},{
+  "text":"\ud83d\udc5e",
+  "name":"Mans Shoe"
+},{
+  "text":"\ud83d\udc5f",
+  "name":"Athletic Shoe"
+},{
+  "text":"\ud83d\udc60",
+  "name":"High-Heeled Shoe"
+},{
+  "text":"\ud83d\udc61",
+  "name":"Womans Sandal"
+},{
+  "text":"\ud83d\udc62",
+  "name":"Womans Boots"
+},{
+  "text":"\ud83d\udc51",
+  "name":"Crown"
+},{
+  "text":"\ud83d\udc52",
+  "name":"Womans Hat"
+},{
+  "text":"\ud83c\udfa9",
+  "name":"Top Hat"
+},{
+  "text":"\ud83d\udc84",
+  "name":"Lipstick"
+},{
+  "text":"\ud83d\udc8d",
+  "name":"Ring"
+},{
+  "text":"\ud83d\udc79",
+  "name":"Japanese Ogre"
+},{
+  "text":"\ud83d\udc7a",
+  "name":"Japanese Goblin"
+},{
+  "text":"\ud83d\udc7b",
+  "name":"Ghost"
+},{
+  "text":"\ud83d\udc80",
+  "name":"Skull"
+},{
+  "text":"\ud83d\udc7d",
+  "name":"Extraterrestrial Alien"
+},{
+  "text":"\ud83e\udd16",
+  "name":"Robot Face"
+},{
+  "text":"\ud83d\udca9",
+  "name":"Pile of Poo"
+},{
+  "text":"\ud83d\ude38",
+  "name":"Grinning Cat Face With Smiling Eyes"
+},{
+  "text":"\ud83d\ude39",
+  "name":"Cat Face With Tears of Joy"
+},{
+  "text":"\ud83d\ude3a",
+  "name":"Smiling Cat Face With Open Mouth"
+},{
+  "text":"\ud83d\ude3b",
+  "name":"Smiling Cat Face With Heart-Shaped Eyes"
+},{
+  "text":"\ud83d\ude3c",
+  "name":"Cat Face With Wry Smile"
+},{
+  "text":"\ud83d\ude3d",
+  "name":"Kissing Cat Face With Closed Eyes"
+},{
+  "text":"\ud83d\ude3e",
+  "name":"Pouting Cat Face"
+},{
+  "text":"\ud83d\ude3f",
+  "name":"Crying Cat Face"
+},{
+  "text":"\ud83d\ude40",
+  "name":"Weary Cat Face"
+},{
+  "text":"\ud83c\udf02",
+  "name":"Closed Umbrella"
+},{
+  "text":"\ud83c\udf93",
+  "name":"Graduation Cap"
+},{
+  "text":"\ud83d\udcbc",
+  "name":"Briefcase"
+},{
+  "text":"\ud83d\udca7",
+  "name":"Droplet"
+},{
+  "text":"\ud83d\udca6",
+  "name":"Splashing Sweat Symbol"
+},{
+  "text":"\ud83d\udca8",
+  "name":"Dash Symbol"
+},{
+  "text":"\ud83d\udc35",
+  "name":"Monkey Face"
+},{
+  "text":"\ud83d\ude48",
+  "name":"See-No-Evil Monkey"
+},{
+  "text":"\ud83d\ude49",
+  "name":"Hear-No-Evil Monkey"
+},{
+  "text":"\ud83d\ude4a",
+  "name":"Speak-No-Evil Monkey"
+},{
+  "text":"\ud83d\udc12",
+  "name":"Monkey"
+},{
+  "text":"\ud83d\udc36",
+  "name":"Dog Face"
+},{
+  "text":"\ud83d\udc15",
+  "name":"Dog"
+},{
+  "text":"\ud83d\udc29",
+  "name":"Poodle"
+},{
+  "text":"\ud83d\udc3a",
+  "name":"Wolf Face"
+},{
+  "text":"\ud83d\udc31",
+  "name":"Cat Face"
+},{
+  "text":"\ud83d\udc08",
+  "name":"Cat"
+},{
+  "text":"\ud83e\udd81",
+  "name":"Lion Face"
+},{
+  "text":"\ud83d\udc2f",
+  "name":"Tiger Face"
+},{
+  "text":"\ud83d\udc05",
+  "name":"Tiger"
+},{
+  "text":"\ud83d\udc06",
+  "name":"Leopard"
+},{
+  "text":"\ud83d\udc34",
+  "name":"Horse Face"
+},{
+  "text":"\ud83d\udc0e",
+  "name":"Horse"
+},{
+  "text":"\ud83e\udd84",
+  "name":"Unicorn Face"
+},{
+  "text":"\ud83d\udc2e",
+  "name":"Cow Face"
+},{
+  "text":"\ud83d\udc02",
+  "name":"Ox"
+},{
+  "text":"\ud83d\udc03",
+  "name":"Water Buffalo"
+},{
+  "text":"\ud83d\udc04",
+  "name":"Cow"
+},{
+  "text":"\ud83d\udc37",
+  "name":"Pig Face"
+},{
+  "text":"\ud83d\udc16",
+  "name":"Pig"
+},{
+  "text":"\ud83d\udc17",
+  "name":"Boar"
+},{
+  "text":"\ud83d\udc3d",
+  "name":"Pig Nose"
+},{
+  "text":"\ud83d\udc0f",
+  "name":"Ram"
+},{
+  "text":"\ud83d\udc11",
+  "name":"Sheep"
+},{
+  "text":"\ud83d\udc10",
+  "name":"Goat"
+},{
+  "text":"\ud83d\udc2a",
+  "name":"Dromedary Camel"
+},{
+  "text":"\ud83d\udc2b",
+  "name":"Bactrian Camel"
+},{
+  "text":"\ud83d\udc18",
+  "name":"Elephant"
+},{
+  "text":"\ud83d\udc2d",
+  "name":"Mouse Face"
+},{
+  "text":"\ud83d\udc01",
+  "name":"Mouse"
+},{
+  "text":"\ud83d\udc00",
+  "name":"Rat"
+},{
+  "text":"\ud83d\udc39",
+  "name":"Hamster Face"
+},{
+  "text":"\ud83d\udc30",
+  "name":"Rabbit Face"
+},{
+  "text":"\ud83d\udc07",
+  "name":"Rabbit"
+},{
+  "text":"\ud83d\udc3f",
+  "name":"Chipmunk"
+},{
+  "text":"\ud83d\udc3b",
+  "name":"Bear Face"
+},{
+  "text":"\ud83d\udc28",
+  "name":"Koala"
+},{
+  "text":"\ud83d\udc3c",
+  "name":"Panda Face"
+},{
+  "text":"\ud83d\udc3e",
+  "name":"Paw Prints"
+},{
+  "text":"\ud83e\udd83",
+  "name":"Turkey"
+},{
+  "text":"\ud83d\udc14",
+  "name":"Chicken"
+},{
+  "text":"\ud83d\udc13",
+  "name":"Rooster"
+},{
+  "text":"\ud83d\udc23",
+  "name":"Hatching Chick"
+},{
+  "text":"\ud83d\udc24",
+  "name":"Baby Chick"
+},{
+  "text":"\ud83d\udc25",
+  "name":"Front-Facing Baby Chick"
+},{
+  "text":"\ud83d\udc26",
+  "name":"Bird"
+},{
+  "text":"\ud83d\udc27",
+  "name":"Penguin"
+},{
+  "text":"\ud83d\udd4a",
+  "name":"Dove of Peace"
+},{
+  "text":"\ud83d\udc38",
+  "name":"Frog Face"
+},{
+  "text":"\ud83d\udc0a",
+  "name":"Crocodile"
+},{
+  "text":"\ud83d\udc22",
+  "name":"Turtle"
+},{
+  "text":"\ud83d\udc0d",
+  "name":"Snake"
+},{
+  "text":"\ud83d\udc32",
+  "name":"Dragon Face"
+},{
+  "text":"\ud83d\udc09",
+  "name":"Dragon"
+},{
+  "text":"\ud83d\udc33",
+  "name":"Spouting Whale"
+},{
+  "text":"\ud83d\udc0b",
+  "name":"Whale"
+},{
+  "text":"\ud83d\udc2c",
+  "name":"Dolphin"
+},{
+  "text":"\ud83d\udc1f",
+  "name":"Fish"
+},{
+  "text":"\ud83d\udc20",
+  "name":"Tropical Fish"
+},{
+  "text":"\ud83d\udc21",
+  "name":"Blowfish"
+},{
+  "text":"\ud83d\udc19",
+  "name":"Octopus"
+},{
+  "text":"\ud83d\udc1a",
+  "name":"Spiral Shell"
+},{
+  "text":"\ud83e\udd80",
+  "name":"Crab"
+},{
+  "text":"\ud83d\udc0c",
+  "name":"Snail"
+},{
+  "text":"\ud83d\udc1b",
+  "name":"Bug"
+},{
+  "text":"\ud83d\udc1c",
+  "name":"Ant"
+},{
+  "text":"\ud83d\udc1d",
+  "name":"Honeybee"
+},{
+  "text":"\ud83d\udc1e",
+  "name":"Lady Beetle"
+},{
+  "text":"\ud83d\udd77",
+  "name":"Spider"
+},{
+  "text":"\ud83d\udd78",
+  "name":"Spider Web"
+},{
+  "text":"\ud83e\udd82",
+  "name":"Scorpion"
+},{
+  "text":"\ud83d\udc90",
+  "name":"Bouquet"
+},{
+  "text":"\ud83c\udf38",
+  "name":"Cherry Blossom"
+},{
+  "text":"\ud83d\udcae",
+  "name":"White Flower"
+},{
+  "text":"\ud83c\udff5",
+  "name":"Rosette"
+},{
+  "text":"\ud83c\udf39",
+  "name":"Rose"
+},{
+  "text":"\ud83c\udf3a",
+  "name":"Hibiscus"
+},{
+  "text":"\ud83c\udf3b",
+  "name":"Sunflower"
+},{
+  "text":"\ud83c\udf3c",
+  "name":"Blossom"
+},{
+  "text":"\ud83c\udf37",
+  "name":"Tulip"
+},{
+  "text":"\u2618",
+  "name":"Shamrock"
+},{
+  "text":"\ud83c\udf31",
+  "name":"Seedling"
+},{
+  "text":"\ud83c\udf32",
+  "name":"Evergreen Tree"
+},{
+  "text":"\ud83c\udf33",
+  "name":"Deciduous Tree"
+},{
+  "text":"\ud83c\udf34",
+  "name":"Palm Tree"
+},{
+  "text":"\ud83c\udf35",
+  "name":"Cactus"
+},{
+  "text":"\ud83c\udf3e",
+  "name":"Ear of Rice"
+},{
+  "text":"\ud83c\udf3f",
+  "name":"Herb"
+},{
+  "text":"\ud83c\udf40",
+  "name":"Four Leaf Clover"
+},{
+  "text":"\ud83c\udf41",
+  "name":"Maple Leaf"
+},{
+  "text":"\ud83c\udf42",
+  "name":"Fallen Leaf"
+},{
+  "text":"\ud83c\udf43",
+  "name":"Leaf Fluttering in Wind"
+},{
+  "text":"\ud83c\udf0d",
+  "name":"Earth Globe Europe-Africa"
+},{
+  "text":"\ud83c\udf0e",
+  "name":"Earth Globe Americas"
+},{
+  "text":"\ud83c\udf0f",
+  "name":"Earth Globe Asia-Australia"
+},{
+  "text":"\ud83c\udf10",
+  "name":"Globe With Meridians"
+},{
+  "text":"\ud83c\udf0a",
+  "name":"Water Wave"
+},{
+  "text":"\ud83c\udf11",
+  "name":"New Moon Symbol"
+},{
+  "text":"\ud83c\udf12",
+  "name":"Waxing Crescent Moon Symbol"
+},{
+  "text":"\ud83c\udf13",
+  "name":"First Quarter Moon Symbol"
+},{
+  "text":"\ud83c\udf14",
+  "name":"Waxing Gibbous Moon Symbol"
+},{
+  "text":"\ud83c\udf15",
+  "name":"Full Moon Symbol"
+},{
+  "text":"\ud83c\udf16",
+  "name":"Waning Gibbous Moon Symbol"
+},{
+  "text":"\ud83c\udf17",
+  "name":"Last Quarter Moon Symbol"
+},{
+  "text":"\ud83c\udf18",
+  "name":"Waning Crescent Moon Symbol"
+},{
+  "text":"\ud83c\udf19",
+  "name":"Crescent Moon"
+},{
+  "text":"\ud83c\udf1a",
+  "name":"New Moon With Face"
+},{
+  "text":"\ud83c\udf1b",
+  "name":"First Quarter Moon With Face"
+},{
+  "text":"\ud83c\udf1c",
+  "name":"Last Quarter Moon With Face"
+},{
+  "text":"\u2600",
+  "name":"Black Sun With Rays"
+},{
+  "text":"\ud83c\udf1d",
+  "name":"Full Moon With Face"
+},{
+  "text":"\ud83c\udf1e",
+  "name":"Sun With Face"
+},{
+  "text":"\u2601",
+  "name":"Cloud"
+},{
+  "text":"\u26c5",
+  "name":"Sun Behind Cloud"
+},{
+  "text":"\u26c8",
+  "name":"Thunder Cloud and Rain"
+},{
+  "text":"\ud83c\udf24",
+  "name":"White Sun With Small Cloud"
+},{
+  "text":"\ud83c\udf25",
+  "name":"White Sun Behind Cloud"
+},{
+  "text":"\ud83c\udf26",
+  "name":"White Sun Behind Cloud With Rain"
+},{
+  "text":"\ud83c\udf27",
+  "name":"Cloud With Rain"
+},{
+  "text":"\ud83c\udf28",
+  "name":"Cloud With Snow"
+},{
+  "text":"\ud83c\udf29",
+  "name":"Cloud With Lightning"
+},{
+  "text":"\ud83c\udf2a",
+  "name":"Cloud With Tornado"
+},{
+  "text":"\ud83c\udf2b",
+  "name":"Fog"
+},{
+  "text":"\ud83c\udf2c",
+  "name":"Wind Blowing Face"
+},{
+  "text":"\u2602",
+  "name":"Umbrella"
+},{
+  "text":"\u2614",
+  "name":"Umbrella With Rain Drops"
+},{
+  "text":"\u2744",
+  "name":"Snowflake"
+},{
+  "text":"\u2603",
+  "name":"Snowman"
+},{
+  "text":"\ud83c\udf1f",
+  "name":"Glowing Star"
+},{
+  "text":"\ud83c\udf20",
+  "name":"Shooting Star"
+},{
+  "text":"\u2604",
+  "name":"Comet"
+},{
+  "text":"\ud83d\udd25",
+  "name":"Fire"
+},{
+  "text":"\u26a1",
+  "name":"High Voltage Sign"
+},{
+  "text":"\u2b50",
+  "name":"White Medium Star"
+},{
+  "text":"\ud83c\udf47",
+  "name":"Grapes"
+},{
+  "text":"\ud83c\udf48",
+  "name":"Melon"
+},{
+  "text":"\ud83c\udf49",
+  "name":"Watermelon"
+},{
+  "text":"\ud83c\udf4a",
+  "name":"Tangerine"
+},{
+  "text":"\ud83c\udf4b",
+  "name":"Lemon"
+},{
+  "text":"\ud83c\udf4c",
+  "name":"Banana"
+},{
+  "text":"\ud83c\udf4d",
+  "name":"Pineapple"
+},{
+  "text":"\ud83c\udf4e",
+  "name":"Red Apple"
+},{
+  "text":"\ud83c\udf4f",
+  "name":"Green Apple"
+},{
+  "text":"\ud83c\udf50",
+  "name":"Pear"
+},{
+  "text":"\ud83c\udf51",
+  "name":"Peach"
+},{
+  "text":"\ud83c\udf52",
+  "name":"Cherries"
+},{
+  "text":"\ud83c\udf53",
+  "name":"Strawberry"
+},{
+  "text":"\ud83c\udf45",
+  "name":"Tomato"
+},{
+  "text":"\ud83c\udf46",
+  "name":"Aubergine"
+},{
+  "text":"\ud83c\udf3d",
+  "name":"Ear of Maize"
+},{
+  "text":"\ud83c\udf36",
+  "name":"Hot Pepper"
+},{
+  "text":"\ud83c\udf44",
+  "name":"Mushroom"
+},{
+  "text":"\ud83c\udf30",
+  "name":"Chestnut"
+},{
+  "text":"\ud83c\udf5e",
+  "name":"Bread"
+},{
+  "text":"\ud83e\uddc0",
+  "name":"Cheese Wedge"
+},{
+  "text":"\ud83c\udf56",
+  "name":"Meat on Bone"
+},{
+  "text":"\ud83c\udf57",
+  "name":"Poultry Leg"
+},{
+  "text":"\ud83c\udf54",
+  "name":"Hamburger"
+},{
+  "text":"\ud83c\udf5f",
+  "name":"French Fries"
+},{
+  "text":"\ud83c\udf55",
+  "name":"Slice of Pizza"
+},{
+  "text":"\ud83c\udf2d",
+  "name":"Hot Dog"
+},{
+  "text":"\ud83c\udf2e",
+  "name":"Taco"
+},{
+  "text":"\ud83c\udf2f",
+  "name":"Burrito"
+},{
+  "text":"\ud83c\udf7f",
+  "name":"Popcorn"
+},{
+  "text":"\ud83c\udf72",
+  "name":"Pot of Food"
+},{
+  "text":"\ud83c\udf71",
+  "name":"Bento Box"
+},{
+  "text":"\ud83c\udf58",
+  "name":"Rice Cracker"
+},{
+  "text":"\ud83c\udf59",
+  "name":"Rice Ball"
+},{
+  "text":"\ud83c\udf5a",
+  "name":"Cooked Rice"
+},{
+  "text":"\ud83c\udf5b",
+  "name":"Curry and Rice"
+},{
+  "text":"\ud83c\udf5c",
+  "name":"Steaming Bowl"
+},{
+  "text":"\ud83c\udf5d",
+  "name":"Spaghetti"
+},{
+  "text":"\ud83c\udf60",
+  "name":"Roasted Sweet Potato"
+},{
+  "text":"\ud83c\udf62",
+  "name":"Oden"
+},{
+  "text":"\ud83c\udf63",
+  "name":"Sushi"
+},{
+  "text":"\ud83c\udf64",
+  "name":"Fried Shrimp"
+},{
+  "text":"\ud83c\udf65",
+  "name":"Fish Cake With Swirl Design"
+},{
+  "text":"\ud83c\udf61",
+  "name":"Dango"
+},{
+  "text":"\ud83c\udf66",
+  "name":"Soft Ice Cream"
+},{
+  "text":"\ud83c\udf67",
+  "name":"Shaved Ice"
+},{
+  "text":"\ud83c\udf68",
+  "name":"Ice Cream"
+},{
+  "text":"\ud83c\udf69",
+  "name":"Doughnut"
+},{
+  "text":"\ud83c\udf6a",
+  "name":"Cookie"
+},{
+  "text":"\ud83c\udf82",
+  "name":"Birthday Cake"
+},{
+  "text":"\ud83c\udf70",
+  "name":"Shortcake"
+},{
+  "text":"\ud83c\udf6b",
+  "name":"Chocolate Bar"
+},{
+  "text":"\ud83c\udf6c",
+  "name":"Candy"
+},{
+  "text":"\ud83c\udf6d",
+  "name":"Lollipop"
+},{
+  "text":"\ud83c\udf6e",
+  "name":"Custard"
+},{
+  "text":"\ud83c\udf6f",
+  "name":"Honey Pot"
+},{
+  "text":"\ud83c\udf7c",
+  "name":"Baby Bottle"
+},{
+  "text":"\u2615",
+  "name":"Hot Beverage"
+},{
+  "text":"\ud83c\udf75",
+  "name":"Teacup Without Handle"
+},{
+  "text":"\ud83c\udf76",
+  "name":"Sake Bottle and Cup"
+},{
+  "text":"\ud83c\udf7e",
+  "name":"Bottle With Popping Cork"
+},{
+  "text":"\ud83c\udf77",
+  "name":"Wine Glass"
+},{
+  "text":"\ud83c\udf78",
+  "name":"Cocktail Glass"
+},{
+  "text":"\ud83c\udf79",
+  "name":"Tropical Drink"
+},{
+  "text":"\ud83c\udf7a",
+  "name":"Beer Mug"
+},{
+  "text":"\ud83c\udf7b",
+  "name":"Clinking Beer Mugs"
+},{
+  "text":"\ud83c\udf7d",
+  "name":"Fork and Knife With Plate"
+},{
+  "text":"\ud83c\udf74",
+  "name":"Fork and Knife"
+},{
+  "text":"\ud83c\udf73",
+  "name":"Cooking"
+},{
+  "text":"\ud83d\udd74",
+  "name":"Man in Business Suit Levitating"
+},{
+  "text":"\ud83d\udc7e",
+  "name":"Alien Monster"
+},{
+  "text":"\ud83c\udfaa",
+  "name":"Circus Tent"
+},{
+  "text":"\ud83c\udfad",
+  "name":"Performing Arts"
+},{
+  "text":"\ud83c\udfa8",
+  "name":"Artist Palette"
+},{
+  "text":"\ud83c\udfb0",
+  "name":"Slot Machine"
+},{
+  "text":"\ud83c\udfaf",
+  "name":"Direct Hit"
+},{
+  "text":"\ud83c\udf96",
+  "name":"Military Medal"
+},{
+  "text":"\ud83c\udf97",
+  "name":"Reminder Ribbon"
+},{
+  "text":"\ud83c\udf9f",
+  "name":"Admission Tickets"
+},{
+  "text":"\ud83c\udfab",
+  "name":"Ticket"
+},{
+  "text":"\u26bd",
+  "name":"Soccer Ball"
+},{
+  "text":"\u26be",
+  "name":"Baseball"
+},{
+  "text":"\ud83c\udfc0",
+  "name":"Basketball and Hoop"
+},{
+  "text":"\ud83c\udfc8",
+  "name":"American Football"
+},{
+  "text":"\ud83c\udfc9",
+  "name":"Rugby Football"
+},{
+  "text":"\ud83c\udfbe",
+  "name":"Tennis Racquet and Ball"
+},{
+  "text":"\ud83c\udfb1",
+  "name":"Billiards"
+},{
+  "text":"\ud83c\udfb3",
+  "name":"Bowling"
+},{
+  "text":"\u26f3",
+  "name":"Flag in Hole"
+},{
+  "text":"\ud83c\udfcc",
+  "name":"Golfer"
+},{
+  "text":"\u26f8",
+  "name":"Ice Skate"
+},{
+  "text":"\ud83c\udfa3",
+  "name":"Fishing Pole and Fish"
+},{
+  "text":"\ud83c\udfbd",
+  "name":"Running Shirt With Sash"
+},{
+  "text":"\ud83c\udfbf",
+  "name":"Ski and Ski Boot"
+},{
+  "text":"\u26f7",
+  "name":"Skier"
+},{
+  "text":"\ud83c\udfc2",
+  "name":"Snowboarder"
+},{
+  "text":"\ud83c\udfc7",
+  "name":"Horse Racing"
+},{
+  "text":"\ud83c\udfc5",
+  "name":"Sports Medal"
+},{
+  "text":"\ud83c\udfc6",
+  "name":"Trophy"
+},{
+  "text":"\ud83c\udfcf",
+  "name":"Cricket Bat and Ball"
+},{
+  "text":"\ud83c\udfd0",
+  "name":"Volleyball"
+},{
+  "text":"\ud83c\udfd1",
+  "name":"Field Hockey Stick and Ball"
+},{
+  "text":"\ud83c\udfd2",
+  "name":"Ice Hockey Stick and Puck"
+},{
+  "text":"\ud83c\udfd3",
+  "name":"Table Tennis Paddle and Ball"
+},{
+  "text":"\ud83c\udff8",
+  "name":"Badminton Racquet and Shuttlecock"
+},{
+  "text":"\ud83c\udfae",
+  "name":"Video Game"
+},{
+  "text":"\ud83c\udfb2",
+  "name":"Game Die"
+},{
+  "text":"\ud83c\udfb7",
+  "name":"Saxophone"
+},{
+  "text":"\ud83c\udfb8",
+  "name":"Guitar"
+},{
+  "text":"\ud83c\udfba",
+  "name":"Trumpet"
+},{
+  "text":"\ud83c\udfbb",
+  "name":"Violin"
+},{
+  "text":"\ud83c\udfac",
+  "name":"Clapper Board"
+},{
+  "text":"\ud83c\udff9",
+  "name":"Bow and Arrow"
+},{
+  "text":"\ud83c\udfd4",
+  "name":"Snow Capped Mountain"
+},{
+  "text":"\u26f0",
+  "name":"Mountain"
+},{
+  "text":"\ud83c\udf0b",
+  "name":"Volcano"
+},{
+  "text":"\ud83d\uddfb",
+  "name":"Mount Fuji"
+},{
+  "text":"\ud83c\udfd5",
+  "name":"Camping"
+},{
+  "text":"\ud83c\udfd6",
+  "name":"Beach With Umbrella"
+},{
+  "text":"\ud83c\udfdc",
+  "name":"Desert"
+},{
+  "text":"\ud83c\udfdd",
+  "name":"Desert Island"
+},{
+  "text":"\ud83c\udfde",
+  "name":"National Park"
+},{
+  "text":"\ud83c\udfdf",
+  "name":"Stadium"
+},{
+  "text":"\ud83c\udfdb",
+  "name":"Classical Building"
+},{
+  "text":"\ud83c\udfd7",
+  "name":"Building Construction"
+},{
+  "text":"\ud83c\udfd8",
+  "name":"House Buildings"
+},{
+  "text":"\ud83c\udfd9",
+  "name":"Cityscape"
+},{
+  "text":"\ud83c\udfda",
+  "name":"Derelict House Building"
+},{
+  "text":"\ud83c\udfe0",
+  "name":"House Building"
+},{
+  "text":"\ud83c\udfe1",
+  "name":"House With Garden"
+},{
+  "text":"\u26ea",
+  "name":"Church"
+},{
+  "text":"\ud83d\udd4b",
+  "name":"Kaaba"
+},{
+  "text":"\ud83d\udd4c",
+  "name":"Mosque"
+},{
+  "text":"\ud83d\udd4d",
+  "name":"Synagogue"
+},{
+  "text":"\ud83c\udfe2",
+  "name":"Office Building"
+},{
+  "text":"\ud83c\udfe3",
+  "name":"Japanese Post Office"
+},{
+  "text":"\ud83c\udfe4",
+  "name":"European Post Office"
+},{
+  "text":"\ud83c\udfe5",
+  "name":"Hospital"
+},{
+  "text":"\ud83c\udfe6",
+  "name":"Bank"
+},{
+  "text":"\ud83c\udfe8",
+  "name":"Hotel"
+},{
+  "text":"\ud83c\udfe9",
+  "name":"Love Hotel"
+},{
+  "text":"\ud83c\udfea",
+  "name":"Convenience Store"
+},{
+  "text":"\ud83c\udfeb",
+  "name":"School"
+},{
+  "text":"\ud83c\udfec",
+  "name":"Department Store"
+},{
+  "text":"\ud83c\udfed",
+  "name":"Factory"
+},{
+  "text":"\ud83c\udfef",
+  "name":"Japanese Castle"
+},{
+  "text":"\ud83c\udff0",
+  "name":"European Castle"
+},{
+  "text":"\ud83d\udc92",
+  "name":"Wedding"
+},{
+  "text":"\ud83d\uddfc",
+  "name":"Tokyo Tower"
+},{
+  "text":"\ud83d\uddfd",
+  "name":"Statue of Liberty"
+},{
+  "text":"\u26f2",
+  "name":"Fountain"
+},{
+  "text":"\ud83c\udf01",
+  "name":"Foggy"
+},{
+  "text":"\ud83c\udf03",
+  "name":"Night With Stars"
+},{
+  "text":"\ud83c\udf06",
+  "name":"Cityscape at Dusk"
+},{
+  "text":"\ud83c\udf07",
+  "name":"Sunset Over Buildings"
+},{
+  "text":"\ud83c\udf09",
+  "name":"Bridge at Night"
+},{
+  "text":"\ud83d\uddff",
+  "name":"Moyai"
+},{
+  "text":"\ud83c\udf0c",
+  "name":"Milky Way"
+},{
+  "text":"\ud83c\udfa0",
+  "name":"Carousel Horse"
+},{
+  "text":"\ud83c\udfa1",
+  "name":"Ferris Wheel"
+},{
+  "text":"\ud83c\udfa2",
+  "name":"Roller Coaster"
+},{
+  "text":"\ud83d\ude82",
+  "name":"Steam Locomotive"
+},{
+  "text":"\ud83d\ude83",
+  "name":"Railway Car"
+},{
+  "text":"\ud83d\ude84",
+  "name":"High-Speed Train"
+},{
+  "text":"\ud83d\ude85",
+  "name":"High-Speed Train With Bullet Nose"
+},{
+  "text":"\ud83d\ude86",
+  "name":"Train"
+},{
+  "text":"\ud83d\ude87",
+  "name":"Metro"
+},{
+  "text":"\ud83d\ude88",
+  "name":"Light Rail"
+},{
+  "text":"\ud83d\ude89",
+  "name":"Station"
+},{
+  "text":"\ud83d\ude8a",
+  "name":"Tram"
+},{
+  "text":"\ud83d\ude9d",
+  "name":"Monorail"
+},{
+  "text":"\ud83d\ude9e",
+  "name":"Mountain Railway"
+},{
+  "text":"\ud83d\ude8b",
+  "name":"Tram Car"
+},{
+  "text":"\ud83d\ude8c",
+  "name":"Bus"
+},{
+  "text":"\ud83d\ude8d",
+  "name":"Oncoming Bus"
+},{
+  "text":"\ud83d\ude8e",
+  "name":"Trolleybus"
+},{
+  "text":"\ud83d\ude8f",
+  "name":"Bus Stop"
+},{
+  "text":"\ud83d\ude90",
+  "name":"Minibus"
+},{
+  "text":"\ud83d\ude91",
+  "name":"Ambulance"
+},{
+  "text":"\ud83d\ude92",
+  "name":"Fire Engine"
+},{
+  "text":"\ud83d\ude93",
+  "name":"Police Car"
+},{
+  "text":"\ud83d\ude94",
+  "name":"Oncoming Police Car"
+},{
+  "text":"\ud83d\ude95",
+  "name":"Taxi"
+},{
+  "text":"\ud83d\ude96",
+  "name":"Oncoming Taxi"
+},{
+  "text":"\ud83d\ude97",
+  "name":"Automobile"
+},{
+  "text":"\ud83d\ude98",
+  "name":"Oncoming Automobile"
+},{
+  "text":"\ud83d\ude9a",
+  "name":"Delivery Truck"
+},{
+  "text":"\ud83d\ude9b",
+  "name":"Articulated Lorry"
+},{
+  "text":"\ud83d\ude9c",
+  "name":"Tractor"
+},{
+  "text":"\ud83d\udeb2",
+  "name":"Bicycle"
+},{
+  "text":"\u26fd",
+  "name":"Fuel Pump"
+},{
+  "text":"\ud83d\udee4",
+  "name":"Railway Track"
+},{
+  "text":"\ud83d\udea8",
+  "name":"Police Cars Revolving Light"
+},{
+  "text":"\u2693",
+  "name":"Anchor"
+},{
+  "text":"\u26f5",
+  "name":"Sailboat"
+},{
+  "text":"\ud83d\udea4",
+  "name":"Speedboat"
+},{
+  "text":"\ud83d\udef3",
+  "name":"Passenger Ship"
+},{
+  "text":"\u26f4",
+  "name":"Ferry"
+},{
+  "text":"\ud83d\udee5",
+  "name":"Motor Boat"
+},{
+  "text":"\ud83d\udea2",
+  "name":"Ship"
+},{
+  "text":"\u2708",
+  "name":"Airplane"
+},{
+  "text":"\ud83d\udee9",
+  "name":"Small Airplane"
+},{
+  "text":"\ud83d\udeeb",
+  "name":"Airplane Departure"
+},{
+  "text":"\ud83d\udeec",
+  "name":"Airplane Arriving"
+},{
+  "text":"\ud83d\udcba",
+  "name":"Seat"
+},{
+  "text":"\ud83d\ude81",
+  "name":"Helicopter"
+},{
+  "text":"\ud83d\ude9f",
+  "name":"Suspension Railway"
+},{
+  "text":"\ud83d\udea0",
+  "name":"Mountain Cableway"
+},{
+  "text":"\ud83d\udea1",
+  "name":"Aerial Tramway"
+},{
+  "text":"\ud83d\ude80",
+  "name":"Rocket"
+},{
+  "text":"\ud83d\udef0",
+  "name":"Satellite"
+},{
+  "text":"\ud83d\udea5",
+  "name":"Horizontal Traffic Light"
+},{
+  "text":"\ud83d\udea6",
+  "name":"Vertical Traffic Light"
+},{
+  "text":"\ud83d\udea7",
+  "name":"Construction Sign"
+},{
+  "text":"\ud83d\udec2",
+  "name":"Passport Control"
+},{
+  "text":"\ud83d\udec3",
+  "name":"Customs"
+},{
+  "text":"\ud83d\udec4",
+  "name":"Baggage Claim"
+},{
+  "text":"\ud83d\udec5",
+  "name":"Left Luggage"
+},{
+  "text":"\ud83c\udfce",
+  "name":"Racing Car"
+},{
+  "text":"\ud83c\udfcd",
+  "name":"Racing Motorcycle"
+},{
+  "text":"\u26e9",
+  "name":"Shinto Shrine"
+},{
+  "text":"\ud83d\udc8c",
+  "name":"Love Letter"
+},{
+  "text":"\ud83d\udca3",
+  "name":"Bomb"
+},{
+  "text":"\ud83d\udd73",
+  "name":"Hole"
+},{
+  "text":"\ud83d\udecd",
+  "name":"Shopping Bags"
+},{
+  "text":"\ud83d\udcff",
+  "name":"Prayer Beads"
+},{
+  "text":"\ud83d\udc8e",
+  "name":"Gem Stone"
+},{
+  "text":"\u2620",
+  "name":"Skull and Crossbones"
+},{
+  "text":"\ud83c\udffa",
+  "name":"Amphora"
+},{
+  "text":"\ud83d\uddfa",
+  "name":"World Map"
+},{
+  "text":"\ud83d\uddbc",
+  "name":"Frame With Picture"
+},{
+  "text":"\ud83d\udee2",
+  "name":"Oil Drum"
+},{
+  "text":"\ud83d\udece",
+  "name":"Bellhop Bell"
+},{
+  "text":"\ud83d\udeaa",
+  "name":"Door"
+},{
+  "text":"\ud83d\udecc",
+  "name":"Sleeping Accommodation"
+},{
+  "text":"\ud83d\udecf",
+  "name":"Bed"
+},{
+  "text":"\ud83d\udecb",
+  "name":"Couch and Lamp"
+},{
+  "text":"\ud83d\udebd",
+  "name":"Toilet"
+},{
+  "text":"\ud83d\udebf",
+  "name":"Shower"
+},{
+  "text":"\ud83d\udec1",
+  "name":"Bathtub"
+},{
+  "text":"\u231b",
+  "name":"Hourglass"
+},{
+  "text":"\u23f3",
+  "name":"Hourglass With Flowing Sand"
+},{
+  "text":"\u231a",
+  "name":"Watch"
+},{
+  "text":"\u23f0",
+  "name":"Alarm Clock"
+},{
+  "text":"\u23f1",
+  "name":"Stopwatch"
+},{
+  "text":"\u23f2",
+  "name":"Timer Clock"
+},{
+  "text":"\ud83d\udd70",
+  "name":"Mantelpiece Clock"
+},{
+  "text":"\ud83c\udf21",
+  "name":"Thermometer"
+},{
+  "text":"\u26f1",
+  "name":"Umbrella on Ground"
+},{
+  "text":"\ud83c\udf88",
+  "name":"Balloon"
+},{
+  "text":"\ud83c\udf89",
+  "name":"Party Popper"
+},{
+  "text":"\ud83c\udf8a",
+  "name":"Confetti Ball"
+},{
+  "text":"\ud83c\udf8c",
+  "name":"Crossed Flags"
+},{
+  "text":"\ud83c\udf8e",
+  "name":"Japanese Dolls"
+},{
+  "text":"\ud83c\udf8f",
+  "name":"Carp Streamer"
+},{
+  "text":"\ud83c\udf90",
+  "name":"Wind Chime"
+},{
+  "text":"\ud83c\udf80",
+  "name":"Ribbon"
+},{
+  "text":"\ud83c\udf81",
+  "name":"Wrapped Present"
+},{
+  "text":"\ud83c\udf9e",
+  "name":"Film Frames"
+},{
+  "text":"\ud83c\udff7",
+  "name":"Label"
+},{
+  "text":"\ud83d\udd79",
+  "name":"Joystick"
+},{
+  "text":"\ud83d\udcef",
+  "name":"Postal Horn"
+},{
+  "text":"\ud83c\udf99",
+  "name":"Studio Microphone"
+},{
+  "text":"\ud83c\udf9a",
+  "name":"Level Slider"
+},{
+  "text":"\ud83c\udf9b",
+  "name":"Control Knobs"
+},{
+  "text":"\ud83d\udcfb",
+  "name":"Radio"
+},{
+  "text":"\ud83d\udcf1",
+  "name":"Mobile Phone"
+},{
+  "text":"\ud83d\udcf2",
+  "name":"Mobile Phone With Rightwards Arrow at Left"
+},{
+  "text":"\u260e",
+  "name":"Black Telephone"
+},{
+  "text":"\ud83d\udcde",
+  "name":"Telephone Receiver"
+},{
+  "text":"\ud83d\udcdf",
+  "name":"Pager"
+},{
+  "text":"\ud83d\udce0",
+  "name":"Fax Machine"
+},{
+  "text":"\ud83d\udd0b",
+  "name":"Battery"
+},{
+  "text":"\ud83d\udd0c",
+  "name":"Electric Plug"
+},{
+  "text":"\ud83d\udcbb",
+  "name":"Personal Computer"
+},{
+  "text":"\ud83d\udda5",
+  "name":"Desktop Computer"
+},{
+  "text":"\ud83d\udda8",
+  "name":"Printer"
+},{
+  "text":"\u2328",
+  "name":"Keyboard"
+},{
+  "text":"\ud83d\uddb1",
+  "name":"Three Button Mouse"
+},{
+  "text":"\ud83d\uddb2",
+  "name":"Trackball"
+},{
+  "text":"\ud83d\udcbd",
+  "name":"Minidisc"
+},{
+  "text":"\ud83d\udcbe",
+  "name":"Floppy Disk"
+},{
+  "text":"\ud83d\udcbf",
+  "name":"Optical Disc"
+},{
+  "text":"\ud83d\udcc0",
+  "name":"DVD"
+},{
+  "text":"\ud83c\udfa5",
+  "name":"Movie Camera"
+},{
+  "text":"\ud83d\udcfd",
+  "name":"Film Projector"
+},{
+  "text":"\ud83d\udcfa",
+  "name":"Television"
+},{
+  "text":"\ud83d\udcf7",
+  "name":"Camera"
+},{
+  "text":"\ud83d\udcf8",
+  "name":"Camera With Flash"
+},{
+  "text":"\ud83d\udcf9",
+  "name":"Video Camera"
+},{
+  "text":"\ud83d\udcfc",
+  "name":"Videocassette"
+},{
+  "text":"\ud83d\udd0d",
+  "name":"Left-Pointing Magnifying Glass"
+},{
+  "text":"\ud83d\udd0e",
+  "name":"Right-Pointing Magnifying Glass"
+},{
+  "text":"\ud83d\udd2c",
+  "name":"Microscope"
+},{
+  "text":"\ud83d\udd2d",
+  "name":"Telescope"
+},{
+  "text":"\ud83d\udce1",
+  "name":"Satellite Antenna"
+},{
+  "text":"\ud83d\udd6f",
+  "name":"Candle"
+},{
+  "text":"\ud83d\udca1",
+  "name":"Electric Light Bulb"
+},{
+  "text":"\ud83d\udd26",
+  "name":"Electric Torch"
+},{
+  "text":"\ud83c\udfee",
+  "name":"Izakaya Lantern"
+},{
+  "text":"\ud83d\udcd4",
+  "name":"Notebook With Decorative Cover"
+},{
+  "text":"\ud83d\udcd5",
+  "name":"Closed Book"
+},{
+  "text":"\ud83d\udcd6",
+  "name":"Open Book"
+},{
+  "text":"\ud83d\udcd7",
+  "name":"Green Book"
+},{
+  "text":"\ud83d\udcd8",
+  "name":"Blue Book"
+},{
+  "text":"\ud83d\udcd9",
+  "name":"Orange Book"
+},{
+  "text":"\ud83d\udcda",
+  "name":"Books"
+},{
+  "text":"\ud83d\udcd3",
+  "name":"Notebook"
+},{
+  "text":"\ud83d\udcc3",
+  "name":"Page With Curl"
+},{
+  "text":"\ud83d\udcdc",
+  "name":"Scroll"
+},{
+  "text":"\ud83d\udcc4",
+  "name":"Page Facing Up"
+},{
+  "text":"\ud83d\udcf0",
+  "name":"Newspaper"
+},{
+  "text":"\ud83d\uddde",
+  "name":"Rolled-Up Newspaper"
+},{
+  "text":"\ud83d\udcd1",
+  "name":"Bookmark Tabs"
+},{
+  "text":"\ud83d\udd16",
+  "name":"Bookmark"
+},{
+  "text":"\ud83d\udcb0",
+  "name":"Money Bag"
+},{
+  "text":"\ud83d\udcb4",
+  "name":"Banknote With Yen Sign"
+},{
+  "text":"\ud83d\udcb5",
+  "name":"Banknote With Dollar Sign"
+},{
+  "text":"\ud83d\udcb6",
+  "name":"Banknote With Euro Sign"
+},{
+  "text":"\ud83d\udcb7",
+  "name":"Banknote With Pound Sign"
+},{
+  "text":"\ud83d\udcb8",
+  "name":"Money With Wings"
+},{
+  "text":"\ud83d\udcb3",
+  "name":"Credit Card"
+},{
+  "text":"\u2709",
+  "name":"Envelope"
+},{
+  "text":"\ud83d\udce7",
+  "name":"E-Mail Symbol"
+},{
+  "text":"\ud83d\udce8",
+  "name":"Incoming Envelope"
+},{
+  "text":"\ud83d\udce9",
+  "name":"Envelope With Downwards Arrow Above"
+},{
+  "text":"\ud83d\udce4",
+  "name":"Outbox Tray"
+},{
+  "text":"\ud83d\udce5",
+  "name":"Inbox Tray"
+},{
+  "text":"\ud83d\udce6",
+  "name":"Package"
+},{
+  "text":"\ud83d\udceb",
+  "name":"Closed Mailbox With Raised Flag"
+},{
+  "text":"\ud83d\udcea",
+  "name":"Closed Mailbox With Lowered Flag"
+},{
+  "text":"\ud83d\udcec",
+  "name":"Open Mailbox With Raised Flag"
+},{
+  "text":"\ud83d\udced",
+  "name":"Open Mailbox With Lowered Flag"
+},{
+  "text":"\ud83d\udcee",
+  "name":"Postbox"
+},{
+  "text":"\ud83d\uddf3",
+  "name":"Ballot Box With Ballot"
+},{
+  "text":"\u270f",
+  "name":"Pencil"
+},{
+  "text":"\u2712",
+  "name":"Black Nib"
+},{
+  "text":"\ud83d\udd8b",
+  "name":"Lower Left Fountain Pen"
+},{
+  "text":"\ud83d\udd8a",
+  "name":"Lower Left Ballpoint Pen"
+},{
+  "text":"\ud83d\udd8c",
+  "name":"Lower Left Paintbrush"
+},{
+  "text":"\ud83d\udd8d",
+  "name":"Lower Left Crayon"
+},{
+  "text":"\ud83d\udcdd",
+  "name":"Memo"
+},{
+  "text":"\ud83d\udcc1",
+  "name":"File Folder"
+},{
+  "text":"\ud83d\udcc2",
+  "name":"Open File Folder"
+},{
+  "text":"\ud83d\uddc2",
+  "name":"Card Index Dividers"
+},{
+  "text":"\ud83d\udcc5",
+  "name":"Calendar"
+},{
+  "text":"\ud83d\udcc6",
+  "name":"Tear-Off Calendar"
+},{
+  "text":"\ud83d\uddd2",
+  "name":"Spiral Note Pad"
+},{
+  "text":"\ud83d\uddd3",
+  "name":"Spiral Calendar Pad"
+},{
+  "text":"\ud83d\udcc7",
+  "name":"Card Index"
+},{
+  "text":"\ud83d\udcc8",
+  "name":"Chart With Upwards Trend"
+},{
+  "text":"\ud83d\udcc9",
+  "name":"Chart With Downwards Trend"
+},{
+  "text":"\ud83d\udcca",
+  "name":"Bar Chart"
+},{
+  "text":"\ud83d\udccb",
+  "name":"Clipboard"
+},{
+  "text":"\ud83d\udccc",
+  "name":"Pushpin"
+},{
+  "text":"\ud83d\udccd",
+  "name":"Round Pushpin"
+},{
+  "text":"\ud83d\udcce",
+  "name":"Paperclip"
+},{
+  "text":"\ud83d\udd87",
+  "name":"Linked Paperclips"
+},{
+  "text":"\ud83d\udccf",
+  "name":"Straight Ruler"
+},{
+  "text":"\ud83d\udcd0",
+  "name":"Triangular Ruler"
+},{
+  "text":"\u2702",
+  "name":"Black Scissors"
+},{
+  "text":"\ud83d\uddc3",
+  "name":"Card File Box"
+},{
+  "text":"\ud83d\uddc4",
+  "name":"File Cabinet"
+},{
+  "text":"\ud83d\uddd1",
+  "name":"Wastebasket"
+},{
+  "text":"\ud83d\udd12",
+  "name":"Lock"
+},{
+  "text":"\ud83d\udd13",
+  "name":"Open Lock"
+},{
+  "text":"\ud83d\udd0f",
+  "name":"Lock With Ink Pen"
+},{
+  "text":"\ud83d\udd10",
+  "name":"Closed Lock With Key"
+},{
+  "text":"\ud83d\udd11",
+  "name":"Key"
+},{
+  "text":"\ud83d\udddd",
+  "name":"Old Key"
+},{
+  "text":"\ud83d\udd28",
+  "name":"Hammer"
+},{
+  "text":"\u26cf",
+  "name":"Pick"
+},{
+  "text":"\u2692",
+  "name":"Hammer and Pick"
+},{
+  "text":"\ud83d\udee0",
+  "name":"Hammer and Wrench"
+},{
+  "text":"\ud83d\udd27",
+  "name":"Wrench"
+},{
+  "text":"\ud83d\udd29",
+  "name":"Nut and Bolt"
+},{
+  "text":"\u2699",
+  "name":"Gear"
+},{
+  "text":"\ud83d\udddc",
+  "name":"Compression"
+},{
+  "text":"\u2697",
+  "name":"Alembic"
+},{
+  "text":"\u2696",
+  "name":"Scales"
+},{
+  "text":"\ud83d\udd17",
+  "name":"Link Symbol"
+},{
+  "text":"\u26d3",
+  "name":"Chains"
+},{
+  "text":"\ud83d\udc89",
+  "name":"Syringe"
+},{
+  "text":"\ud83d\udc8a",
+  "name":"Pill"
+},{
+  "text":"\ud83d\udde1",
+  "name":"Dagger Knife"
+},{
+  "text":"\ud83d\udd2a",
+  "name":"Hocho"
+},{
+  "text":"\u2694",
+  "name":"Crossed Swords"
+},{
+  "text":"\ud83d\udd2b",
+  "name":"Pistol"
+},{
+  "text":"\ud83d\udee1",
+  "name":"Shield"
+},{
+  "text":"\ud83d\udeac",
+  "name":"Smoking Symbol"
+},{
+  "text":"\u26b0",
+  "name":"Coffin"
+},{
+  "text":"\u26b1",
+  "name":"Funeral Urn"
+},{
+  "text":"\ud83c\udff3",
+  "name":"Waving White Flag"
+},{
+  "text":"\ud83c\udff4",
+  "name":"Waving Black Flag"
+},{
+  "text":"\ud83d\udea9",
+  "name":"Triangular Flag on Post"
+},{
+  "text":"\ud83d\udd2e",
+  "name":"Crystal Ball"
+},{
+  "text":"\ud83d\udc98",
+  "name":"Heart With Arrow"
+},{
+  "text":"\u2764",
+  "name":"Heavy Black Heart"
+},{
+  "text":"\ud83d\udc93",
+  "name":"Beating Heart"
+},{
+  "text":"\ud83d\udc94",
+  "name":"Broken Heart"
+},{
+  "text":"\ud83d\udc95",
+  "name":"Two Hearts"
+},{
+  "text":"\ud83d\udc96",
+  "name":"Sparkling Heart"
+},{
+  "text":"\ud83d\udc97",
+  "name":"Growing Heart"
+},{
+  "text":"\ud83d\udc99",
+  "name":"Blue Heart"
+},{
+  "text":"\ud83d\udc9a",
+  "name":"Green Heart"
+},{
+  "text":"\ud83d\udc9b",
+  "name":"Yellow Heart"
+},{
+  "text":"\ud83d\udc9c",
+  "name":"Purple Heart"
+},{
+  "text":"\ud83d\udc9d",
+  "name":"Heart With Ribbon"
+},{
+  "text":"\ud83d\udc9e",
+  "name":"Revolving Hearts"
+},{
+  "text":"\ud83d\udc9f",
+  "name":"Heart Decoration"
+},{
+  "text":"\u2763",
+  "name":"Heavy Heart Exclamation Mark Ornament"
+},{
+  "text":"\ud83d\udca4",
+  "name":"Sleeping Symbol"
+},{
+  "text":"\ud83d\udca2",
+  "name":"Anger Symbol"
+},{
+  "text":"\ud83d\udcac",
+  "name":"Speech Balloon"
+},{
+  "text":"\ud83d\udcad",
+  "name":"Thought Balloon"
+},{
+  "text":"\ud83d\uddef",
+  "name":"Right Anger Bubble"
+},{
+  "text":"\ud83d\uded0",
+  "name":"Place of Worship"
+},{
+  "text":"\u2668",
+  "name":"Hot Springs"
+},{
+  "text":"\ud83d\udc88",
+  "name":"Barber Pole"
+},{
+  "text":"\ud83d\udeb3",
+  "name":"No Bicycles"
+},{
+  "text":"\ud83d\udd31",
+  "name":"Trident Emblem"
+},{
+  "text":"\ud83c\udfe7",
+  "name":"Automated Teller Machine"
+},{
+  "text":"\ud83d\udeae",
+  "name":"Put Litter in Its Place Symbol"
+},{
+  "text":"\ud83d\udeab",
+  "name":"No Entry Sign"
+},{
+  "text":"\ud83d\udead",
+  "name":"No Smoking Symbol"
+},{
+  "text":"\ud83d\udeaf",
+  "name":"Do Not Litter Symbol"
+},{
+  "text":"\ud83d\udeb0",
+  "name":"Potable Water Symbol"
+},{
+  "text":"\ud83d\udeb1",
+  "name":"Non-Potable Water Symbol"
+},{
+  "text":"\ud83d\udeb7",
+  "name":"No Pedestrians"
+},{
+  "text":"\ud83d\udeb8",
+  "name":"Children Crossing"
+},{
+  "text":"\u267f",
+  "name":"Wheelchair Symbol"
+},{
+  "text":"\ud83d\udeb9",
+  "name":"Mens Symbol"
+},{
+  "text":"\ud83d\udeba",
+  "name":"Womens Symbol"
+},{
+  "text":"\ud83d\udebb",
+  "name":"Restroom"
+},{
+  "text":"\ud83d\udebc",
+  "name":"Baby Symbol"
+},{
+  "text":"\ud83d\udebe",
+  "name":"Water Closet"
+},{
+  "text":"\u26a0",
+  "name":"Warning Sign"
+},{
+  "text":"\u26d4",
+  "name":"No Entry"
+},{
+  "text":"\ud83d\udd5b",
+  "name":"Clock Face Twelve O'Clock"
+},{
+  "text":"\ud83d\udd67",
+  "name":"Clock Face Twelve-Thirty"
+},{
+  "text":"\ud83d\udd50",
+  "name":"Clock Face One O'Clock"
+},{
+  "text":"\ud83d\udd5c",
+  "name":"Clock Face One-Thirty"
+},{
+  "text":"\ud83d\udd51",
+  "name":"Clock Face Two O'Clock"
+},{
+  "text":"\ud83d\udd5d",
+  "name":"Clock Face Two-Thirty"
+},{
+  "text":"\ud83d\udd52",
+  "name":"Clock Face Three O'Clock"
+},{
+  "text":"\ud83d\udd5e",
+  "name":"Clock Face Three-Thirty"
+},{
+  "text":"\ud83d\udd53",
+  "name":"Clock Face Four O'Clock"
+},{
+  "text":"\ud83d\udd5f",
+  "name":"Clock Face Four-Thirty"
+},{
+  "text":"\ud83d\udd54",
+  "name":"Clock Face Five O'Clock"
+},{
+  "text":"\ud83d\udd60",
+  "name":"Clock Face Five-Thirty"
+},{
+  "text":"\ud83d\udd55",
+  "name":"Clock Face Six O'Clock"
+},{
+  "text":"\ud83d\udd61",
+  "name":"Clock Face Six-Thirty"
+},{
+  "text":"\ud83d\udd56",
+  "name":"Clock Face Seven O'Clock"
+},{
+  "text":"\ud83d\udd62",
+  "name":"Clock Face Seven-Thirty"
+},{
+  "text":"\ud83d\udd57",
+  "name":"Clock Face Eight O'Clock"
+},{
+  "text":"\ud83d\udd63",
+  "name":"Clock Face Eight-Thirty"
+},{
+  "text":"\ud83d\udd58",
+  "name":"Clock Face Nine O'Clock"
+},{
+  "text":"\ud83d\udd64",
+  "name":"Clock Face Nine-Thirty"
+},{
+  "text":"\ud83d\udd59",
+  "name":"Clock Face Ten O'Clock"
+},{
+  "text":"\ud83d\udd65",
+  "name":"Clock Face Ten-Thirty"
+},{
+  "text":"\ud83d\udd5a",
+  "name":"Clock Face Eleven O'Clock"
+},{
+  "text":"\ud83d\udd66",
+  "name":"Clock Face Eleven-Thirty"
+},{
+  "text":"\u2648",
+  "name":"Aries"
+},{
+  "text":"\u2649",
+  "name":"Taurus"
+},{
+  "text":"\u264a",
+  "name":"Gemini"
+},{
+  "text":"\u264b",
+  "name":"Cancer"
+},{
+  "text":"\u264c",
+  "name":"Leo"
+},{
+  "text":"\u264d",
+  "name":"Virgo"
+},{
+  "text":"\u264e",
+  "name":"Libra"
+},{
+  "text":"\u264f",
+  "name":"Scorpius"
+},{
+  "text":"\u2650",
+  "name":"Sagittarius"
+},{
+  "text":"\u2651",
+  "name":"Capricorn"
+},{
+  "text":"\u2652",
+  "name":"Aquarius"
+},{
+  "text":"\u2653",
+  "name":"Pisces"
+},{
+  "text":"\u26ce",
+  "name":"Ophiuchus"
+},{
+  "text":"\ud83c\udf00",
+  "name":"Cyclone"
+},{
+  "text":"\ud83d\udd4e",
+  "name":"Menorah With Nine Branches"
+},{
+  "text":"\ud83c\udfb4",
+  "name":"Flower Playing Cards"
+},{
+  "text":"\u2660",
+  "name":"Black Spade Suit"
+},{
+  "text":"\u2665",
+  "name":"Black Heart Suit"
+},{
+  "text":"\u2666",
+  "name":"Black Diamond Suit"
+},{
+  "text":"\u2663",
+  "name":"Black Club Suit"
+},{
+  "text":"\ud83c\udc04",
+  "name":"Mahjong Tile Red Dragon"
+},{
+  "text":"\ud83d\udd07",
+  "name":"Speaker With Cancellation Stroke"
+},{
+  "text":"\ud83d\udd08",
+  "name":"Speaker"
+},{
+  "text":"\ud83d\udd09",
+  "name":"Speaker With One Sound Wave"
+},{
+  "text":"\ud83d\udd0a",
+  "name":"Speaker With Three Sound Waves"
+},{
+  "text":"\ud83d\udce2",
+  "name":"Public Address Loudspeaker"
+},{
+  "text":"\ud83d\udce3",
+  "name":"Cheering Megaphone"
+},{
+  "text":"\ud83d\udcef",
+  "name":"Postal Horn"
+},{
+  "text":"\ud83d\udd14",
+  "name":"Bell"
+},{
+  "text":"\ud83d\udd15",
+  "name":"Bell With Cancellation Stroke"
+},{
+  "text":"\ud83d\udd00",
+  "name":"Twisted Rightwards Arrows"
+},{
+  "text":"\ud83d\udd01",
+  "name":"Clockwise Rightwards and Leftwards Open Circle Arrows"
+},{
+  "text":"\ud83d\udd02",
+  "name":"Clockwise Rightwards and Leftwards Open Circle Arrows With Circled One Overlay"
+},{
+  "text":"\u25b6",
+  "name":"Black Right-Pointing Triangle"
+},{
+  "text":"\u23e9",
+  "name":"Black Right-Pointing Double Triangle"
+},{
+  "text":"\u25c0",
+  "name":"Black Left-Pointing Triangle"
+},{
+  "text":"\u23ea",
+  "name":"Black Left-Pointing Double Triangle"
+},{
+  "text":"\ud83d\udd3c",
+  "name":"Up-Pointing Small Red Triangle"
+},{
+  "text":"\u23eb",
+  "name":"Black Up-Pointing Double Triangle"
+},{
+  "text":"\ud83d\udd3d",
+  "name":"Down-Pointing Small Red Triangle"
+},{
+  "text":"\u23ec",
+  "name":"Black Down-Pointing Double Triangle"
+},{
+  "text":"\u23f9",
+  "name":"Black Square for Stop"
+},{
+  "text":"\ud83d\udcf3",
+  "name":"Vibration Mode"
+},{
+  "text":"\ud83d\udcf4",
+  "name":"Mobile Phone Off"
+},{
+  "text":"#\u20e3",
+  "name":"Keycap Number Sign"
+},{
+  "text":"0\u20e3",
+  "name":"Keycap Digit Zero"
+},{
+  "text":"1\u20e3",
+  "name":"Keycap Digit One"
+},{
+  "text":"2\u20e3",
+  "name":"Keycap Digit Two"
+},{
+  "text":"3\u20e3",
+  "name":"Keycap Digit Three"
+},{
+  "text":"4\u20e3",
+  "name":"Keycap Digit Four"
+},{
+  "text":"5\u20e3",
+  "name":"Keycap Digit Five"
+},{
+  "text":"6\u20e3",
+  "name":"Keycap Digit Six"
+},{
+  "text":"7\u20e3",
+  "name":"Keycap Digit Seven"
+},{
+  "text":"8\u20e3",
+  "name":"Keycap Digit Eight"
+},{
+  "text":"9\u20e3",
+  "name":"Keycap Digit Nine"
+},{
+  "text":"\ud83d\udd1f",
+  "name":"Keycap Ten"
+},{
+  "text":"\ud83d\udcf6",
+  "name":"Antenna With Bars"
+},{
+  "text":"\ud83c\udfa6",
+  "name":"Cinema"
+},{
+  "text":"\ud83d\udd05",
+  "name":"Low Brightness Symbol"
+},{
+  "text":"\ud83d\udd06",
+  "name":"High Brightness Symbol"
+},{
+  "text":"\u2b06",
+  "name":"Upwards Black Arrow"
+},{
+  "text":"\u2197",
+  "name":"North East Arrow"
+},{
+  "text":"\u27a1",
+  "name":"Black Rightwards Arrow"
+},{
+  "text":"\u2198",
+  "name":"South East Arrow"
+},{
+  "text":"\u2b07",
+  "name":"Downwards Black Arrow"
+},{
+  "text":"\u2199",
+  "name":"South West Arrow"
+},{
+  "text":"\u2b05",
+  "name":"Leftwards Black Arrow"
+},{
+  "text":"\u2196",
+  "name":"North West Arrow"
+},{
+  "text":"\u2195",
+  "name":"Up Down Arrow"
+},{
+  "text":"\u2194",
+  "name":"Left Right Arrow"
+},{
+  "text":"\u21a9",
+  "name":"Leftwards Arrow With Hook"
+},{
+  "text":"\u21aa",
+  "name":"Rightwards Arrow With Hook"
+},{
+  "text":"\u2934",
+  "name":"Arrow Pointing Rightwards Then Curving Upwards"
+},{
+  "text":"\u2935",
+  "name":"Arrow Pointing Rightwards Then Curving Downwards"
+},{
+  "text":"\ud83d\udd03",
+  "name":"Clockwise Downwards and Upwards Open Circle Arrows"
+},{
+  "text":"\ud83d\udd04",
+  "name":"Anticlockwise Downwards and Upwards Open Circle Arrows"
+},{
+  "text":"\ud83d\udd19",
+  "name":"Back With Leftwards Arrow Above"
+},{
+  "text":"\ud83d\udd1a",
+  "name":"End With Leftwards Arrow Above"
+},{
+  "text":"\ud83d\udd1b",
+  "name":"On With Exclamation Mark With Left Right Arrow Above"
+},{
+  "text":"\ud83d\udd1c",
+  "name":"Soon With Rightwards Arrow Above"
+},{
+  "text":"\ud83d\udd1d",
+  "name":"Top With Upwards Arrow Above"
+},{
+  "text":"\ud83d\udd30",
+  "name":"Japanese Symbol for Beginner"
+},{
+  "text":"\u269b",
+  "name":"Atom Symbol"
+},{
+  "text":"\ud83d\udd49",
+  "name":"Om Symbol"
+},{
+  "text":"\u2721",
+  "name":"Star of David"
+},{
+  "text":"\u2638",
+  "name":"Wheel of Dharma"
+},{
+  "text":"\u262f",
+  "name":"Yin Yang"
+},{
+  "text":"\u271d",
+  "name":"Latin Cross"
+},{
+  "text":"\u2626",
+  "name":"Orthodox Cross"
+},{
+  "text":"\u262a",
+  "name":"Star and Crescent"
+},{
+  "text":"\u262e",
+  "name":"Peace Symbol"
+},{
+  "text":"\ud83d\udd2f",
+  "name":"Six Pointed Star With Middle Dot"
+},{
+  "text":"\u267b",
+  "name":"Black Universal Recycling Symbol"
+},{
+  "text":"\u2622",
+  "name":"Radioactive Sign"
+},{
+  "text":"\u2623",
+  "name":"Biohazard Sign"
+},{
+  "text":"\u2b55",
+  "name":"Heavy Large Circle"
+},{
+  "text":"\u2705",
+  "name":"White Heavy Check Mark"
+},{
+  "text":"\u2611",
+  "name":"Ballot Box With Check"
+},{
+  "text":"\u2714",
+  "name":"Heavy Check Mark"
+},{
+  "text":"\u2716",
+  "name":"Heavy Multiplication X"
+},{
+  "text":"\u274c",
+  "name":"Cross Mark"
+},{
+  "text":"\u274e",
+  "name":"Negative Squared Cross Mark"
+},{
+  "text":"\u2795",
+  "name":"Heavy Plus Sign"
+},{
+  "text":"\u2796",
+  "name":"Heavy Minus Sign"
+},{
+  "text":"\u2797",
+  "name":"Heavy Division Sign"
+},{
+  "text":"\u27b0",
+  "name":"Curly Loop"
+},{
+  "text":"\u27bf",
+  "name":"Double Curly Loop"
+},{
+  "text":"\u303d",
+  "name":"Part Alternation Mark"
+},{
+  "text":"\u2733",
+  "name":"Eight Spoked Asterisk"
+},{
+  "text":"\u2734",
+  "name":"Eight Pointed Black Star"
+},{
+  "text":"\u2747",
+  "name":"Sparkle"
+},{
+  "text":"\u203c",
+  "name":"Double Exclamation Mark"
+},{
+  "text":"\u2049",
+  "name":"Exclamation Question Mark"
+},{
+  "text":"\u2753",
+  "name":"Black Question Mark Ornament"
+},{
+  "text":"\u2754",
+  "name":"White Question Mark Ornament"
+},{
+  "text":"\u2755",
+  "name":"White Exclamation Mark Ornament"
+},{
+  "text":"\u2757",
+  "name":"Heavy Exclamation Mark Symbol"
+},{
+  "text":"\u00a9",
+  "name":"Copyright Sign"
+},{
+  "text":"\u00ae",
+  "name":"Registered Sign"
+},{
+  "text":"\u2122",
+  "name":"Trade Mark Sign"
+},{
+  "text":"\ud83d\udcaf",
+  "name":"Hundred Points Symbol"
+},{
+  "text":"\ud83d\udd1e",
+  "name":"No One Under Eighteen Symbol"
+},{
+  "text":"\ud83d\udd20",
+  "name":"Input Symbol for Latin Capital Letters"
+},{
+  "text":"\ud83d\udd21",
+  "name":"Input Symbol for Latin Small Letters"
+},{
+  "text":"\ud83d\udd22",
+  "name":"Input Symbol for Numbers"
+},{
+  "text":"\ud83d\udd23",
+  "name":"Input Symbol for Symbols"
+},{
+  "text":"\ud83d\udd24",
+  "name":"Input Symbol for Latin Letters"
+},{
+  "text":"\ud83c\udd70",
+  "name":"Negative Squared Latin Capital Letter A"
+},{
+  "text":"\ud83c\udd8e",
+  "name":"Negative Squared AB"
+},{
+  "text":"\ud83c\udd71",
+  "name":"Negative Squared Latin Capital Letter B"
+},{
+  "text":"\ud83c\udd91",
+  "name":"Squared CL"
+},{
+  "text":"\ud83c\udd92",
+  "name":"Squared Cool"
+},{
+  "text":"\ud83c\udd93",
+  "name":"Squared Free"
+},{
+  "text":"\u2139",
+  "name":"Information Source"
+},{
+  "text":"\ud83c\udd94",
+  "name":"Squared ID"
+},{
+  "text":"\u24c2",
+  "name":"Circled Latin Capital Letter M"
+},{
+  "text":"\ud83c\udd95",
+  "name":"Squared New"
+},{
+  "text":"\ud83c\udd96",
+  "name":"Squared NG"
+},{
+  "text":"\ud83c\udd7e",
+  "name":"Negative Squared Latin Capital Letter O"
+},{
+  "text":"\ud83c\udd97",
+  "name":"Squared OK"
+},{
+  "text":"\ud83c\udd7f",
+  "name":"Negative Squared Latin Capital Letter P"
+},{
+  "text":"\ud83c\udd98",
+  "name":"Squared SOS"
+},{
+  "text":"\ud83c\udd99",
+  "name":"Squared Up With Exclamation Mark"
+},{
+  "text":"\ud83c\udd9a",
+  "name":"Squared Vs"
+},{
+  "text":"\ud83c\ude01",
+  "name":"Squared Katakana Koko"
+},{
+  "text":"\ud83c\ude02",
+  "name":"Squared Katakana Sa"
+},{
+  "text":"\ud83c\ude37",
+  "name":"Squared CJK Unified Ideograph-6708"
+},{
+  "text":"\ud83c\ude36",
+  "name":"Squared CJK Unified Ideograph-6709"
+},{
+  "text":"\ud83c\ude2f",
+  "name":"Squared CJK Unified Ideograph-6307"
+},{
+  "text":"\ud83c\ude50",
+  "name":"Circled Ideograph Advantage"
+},{
+  "text":"\ud83c\ude39",
+  "name":"Squared CJK Unified Ideograph-5272"
+},{
+  "text":"\ud83c\ude1a",
+  "name":"Squared CJK Unified Ideograph-7121"
+},{
+  "text":"\ud83c\ude32",
+  "name":"Squared CJK Unified Ideograph-7981"
+},{
+  "text":"\ud83c\ude51",
+  "name":"Circled Ideograph Accept"
+},{
+  "text":"\ud83c\ude38",
+  "name":"Squared CJK Unified Ideograph-7533"
+},{
+  "text":"\ud83c\ude34",
+  "name":"Squared CJK Unified Ideograph-5408"
+},{
+  "text":"\ud83c\ude33",
+  "name":"Squared CJK Unified Ideograph-7a7a"
+},{
+  "text":"\u3297",
+  "name":"Circled Ideograph Congratulation"
+},{
+  "text":"\u3299",
+  "name":"Circled Ideograph Secret"
+},{
+  "text":"\ud83c\ude3a",
+  "name":"Squared CJK Unified Ideograph-55b6"
+},{
+  "text":"\ud83c\ude35",
+  "name":"Squared CJK Unified Ideograph-6e80"
+},{
+  "text":"\u25aa",
+  "name":"Black Small Square"
+},{
+  "text":"\u25ab",
+  "name":"White Small Square"
+},{
+  "text":"\u25fb",
+  "name":"White Medium Square"
+},{
+  "text":"\u25fc",
+  "name":"Black Medium Square"
+},{
+  "text":"\u25fd",
+  "name":"White Medium Small Square"
+},{
+  "text":"\u25fe",
+  "name":"Black Medium Small Square"
+},{
+  "text":"\u2b1b",
+  "name":"Black Large Square"
+},{
+  "text":"\u2b1c",
+  "name":"White Large Square"
+},{
+  "text":"\ud83d\udd36",
+  "name":"Large Orange Diamond"
+},{
+  "text":"\ud83d\udd37",
+  "name":"Large Blue Diamond"
+},{
+  "text":"\ud83d\udd38",
+  "name":"Small Orange Diamond"
+},{
+  "text":"\ud83d\udd39",
+  "name":"Small Blue Diamond"
+},{
+  "text":"\ud83d\udd3a",
+  "name":"Up-Pointing Red Triangle"
+},{
+  "text":"\ud83d\udd3b",
+  "name":"Down-Pointing Red Triangle"
+},{
+  "text":"\ud83d\udca0",
+  "name":"Diamond Shape With a Dot Inside"
+},{
+  "text":"\ud83d\udd32",
+  "name":"Black Square Button"
+},{
+  "text":"\ud83d\udd33",
+  "name":"White Square Button"
+},{
+  "text":"\u26aa",
+  "name":"Medium White Circle"
+},{
+  "text":"\u26ab",
+  "name":"Medium Black Circle"
+},{
+  "text":"\ud83d\udd34",
+  "name":"Large Red Circle"
+},{
+  "text":"\ud83d\udd35",
+  "name":"Large Blue Circle"
+},{
+  "text":"\ud83d\udc41\u200d\ud83d\udde8",
+  "name":"Eye in Speech Bubble"
+},{
+  "text":"\ud83c\udde6\ud83c\uddeb",
+  "name":"Flag for Afghanistan"
+},{
+  "text":"\ud83c\udde6\ud83c\uddfd",
+  "name":"Flag for \u00c5land Islands"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf1",
+  "name":"Flag for Albania"
+},{
+  "text":"\ud83c\udde9\ud83c\uddff",
+  "name":"Flag for Algeria"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf8",
+  "name":"Flag for American Samoa"
+},{
+  "text":"\ud83c\udde6\ud83c\udde9",
+  "name":"Flag for Andorra"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf4",
+  "name":"Flag for Angola"
+},{
+  "text":"\ud83c\udde6\ud83c\uddee",
+  "name":"Flag for Anguilla"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf6",
+  "name":"Flag for Antarctica"
+},{
+  "text":"\ud83c\udde6\ud83c\uddec",
+  "name":"Flag for Antigua & Barbuda"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf7",
+  "name":"Flag for Argentina"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf2",
+  "name":"Flag for Armenia"
+},{
+  "text":"\ud83c\udde6\ud83c\uddfc",
+  "name":"Flag for Aruba"
+},{
+  "text":"\ud83c\udde6\ud83c\udde8",
+  "name":"Flag for Ascension Island"
+},{
+  "text":"\ud83c\udde6\ud83c\uddfa",
+  "name":"Flag for Australia"
+},{
+  "text":"\ud83c\udde6\ud83c\uddf9",
+  "name":"Flag for Austria"
+},{
+  "text":"\ud83c\udde6\ud83c\uddff",
+  "name":"Flag for Azerbaijan"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf8",
+  "name":"Flag for Bahamas"
+},{
+  "text":"\ud83c\udde7\ud83c\udded",
+  "name":"Flag for Bahrain"
+},{
+  "text":"\ud83c\udde7\ud83c\udde9",
+  "name":"Flag for Bangladesh"
+},{
+  "text":"\ud83c\udde7\ud83c\udde7",
+  "name":"Flag for Barbados"
+},{
+  "text":"\ud83c\udde7\ud83c\uddfe",
+  "name":"Flag for Belarus"
+},{
+  "text":"\ud83c\udde7\ud83c\uddea",
+  "name":"Flag for Belgium"
+},{
+  "text":"\ud83c\udde7\ud83c\uddff",
+  "name":"Flag for Belize"
+},{
+  "text":"\ud83c\udde7\ud83c\uddef",
+  "name":"Flag for Benin"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf2",
+  "name":"Flag for Bermuda"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf9",
+  "name":"Flag for Bhutan"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf4",
+  "name":"Flag for Bolivia"
+},{
+  "text":"\ud83c\udde7\ud83c\udde6",
+  "name":"Flag for Bosnia & Herzegovina"
+},{
+  "text":"\ud83c\udde7\ud83c\uddfc",
+  "name":"Flag for Botswana"
+},{
+  "text":"\ud83c\udde7\ud83c\uddfb",
+  "name":"Flag for Bouvet Island"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf7",
+  "name":"Flag for Brazil"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf4",
+  "name":"Flag for British Indian Ocean Territory"
+},{
+  "text":"\ud83c\uddfb\ud83c\uddec",
+  "name":"Flag for British Virgin Islands"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf3",
+  "name":"Flag for Brunei"
+},{
+  "text":"\ud83c\udde7\ud83c\uddec",
+  "name":"Flag for Bulgaria"
+},{
+  "text":"\ud83c\udde7\ud83c\uddeb",
+  "name":"Flag for Burkina Faso"
+},{
+  "text":"\ud83c\udde7\ud83c\uddee",
+  "name":"Flag for Burundi"
+},{
+  "text":"\ud83c\uddf0\ud83c\udded",
+  "name":"Flag for Cambodia"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf2",
+  "name":"Flag for Cameroon"
+},{
+  "text":"\ud83c\udde8\ud83c\udde6",
+  "name":"Flag for Canada"
+},{
+  "text":"\ud83c\uddee\ud83c\udde8",
+  "name":"Flag for Canary Islands"
+},{
+  "text":"\ud83c\udde8\ud83c\uddfb",
+  "name":"Flag for Cape Verde"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf6",
+  "name":"Flag for Caribbean Netherlands"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddfe",
+  "name":"Flag for Cayman Islands"
+},{
+  "text":"\ud83c\udde8\ud83c\uddeb",
+  "name":"Flag for Central African Republic"
+},{
+  "text":"\ud83c\uddea\ud83c\udde6",
+  "name":"Flag for Ceuta & Melilla"
+},{
+  "text":"\ud83c\uddf9\ud83c\udde9",
+  "name":"Flag for Chad"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf1",
+  "name":"Flag for Chile"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf3",
+  "name":"Flag for China"
+},{
+  "text":"\ud83c\udde8\ud83c\uddfd",
+  "name":"Flag for Christmas Island"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf5",
+  "name":"Flag for Clipperton Island"
+},{
+  "text":"\ud83c\udde8\ud83c\udde8",
+  "name":"Flag for Cocos Islands"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf4",
+  "name":"Flag for Colombia"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddf2",
+  "name":"Flag for Comoros"
+},{
+  "text":"\ud83c\udde8\ud83c\uddec",
+  "name":"Flag for Congo - Brazzaville"
+},{
+  "text":"\ud83c\udde8\ud83c\udde9",
+  "name":"Flag for Congo - Kinshasa"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf0",
+  "name":"Flag for Cook Islands"
+},{
+  "text":"\ud83c\udde8\ud83c\uddf7",
+  "name":"Flag for Costa Rica"
+},{
+  "text":"\ud83c\udde8\ud83c\uddee",
+  "name":"Flag for C\u00f4te D\u2019Ivoire"
+},{
+  "text":"\ud83c\udded\ud83c\uddf7",
+  "name":"Flag for Croatia"
+},{
+  "text":"\ud83c\udde8\ud83c\uddfa",
+  "name":"Flag for Cuba"
+},{
+  "text":"\ud83c\udde8\ud83c\uddfc",
+  "name":"Flag for Cura\u00e7ao"
+},{
+  "text":"\ud83c\udde8\ud83c\uddfe",
+  "name":"Flag for Cyprus"
+},{
+  "text":"\ud83c\udde8\ud83c\uddff",
+  "name":"Flag for Czech Republic"
+},{
+  "text":"\ud83c\udde9\ud83c\uddf0",
+  "name":"Flag for Denmark"
+},{
+  "text":"\ud83c\udde9\ud83c\uddec",
+  "name":"Flag for Diego Garcia"
+},{
+  "text":"\ud83c\udde9\ud83c\uddef",
+  "name":"Flag for Djibouti"
+},{
+  "text":"\ud83c\udde9\ud83c\uddf2",
+  "name":"Flag for Dominica"
+},{
+  "text":"\ud83c\udde9\ud83c\uddf4",
+  "name":"Flag for Dominican Republic"
+},{
+  "text":"\ud83c\uddea\ud83c\udde8",
+  "name":"Flag for Ecuador"
+},{
+  "text":"\ud83c\uddea\ud83c\uddec",
+  "name":"Flag for Egypt"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddfb",
+  "name":"Flag for El Salvador"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf6",
+  "name":"Flag for Equatorial Guinea"
+},{
+  "text":"\ud83c\uddea\ud83c\uddf7",
+  "name":"Flag for Eritrea"
+},{
+  "text":"\ud83c\uddea\ud83c\uddea",
+  "name":"Flag for Estonia"
+},{
+  "text":"\ud83c\uddea\ud83c\uddf9",
+  "name":"Flag for Ethiopia"
+},{
+  "text":"\ud83c\uddea\ud83c\uddfa",
+  "name":"Flag for European Union"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddf0",
+  "name":"Flag for Falkland Islands"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddf4",
+  "name":"Flag for Faroe Islands"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddef",
+  "name":"Flag for Fiji"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddee",
+  "name":"Flag for Finland"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddf7",
+  "name":"Flag for France"
+},{
+  "text":"\ud83c\uddec\ud83c\uddeb",
+  "name":"Flag for French Guiana"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddeb",
+  "name":"Flag for French Polynesia"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddeb",
+  "name":"Flag for French Southern Territories"
+},{
+  "text":"\ud83c\uddec\ud83c\udde6",
+  "name":"Flag for Gabon"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf2",
+  "name":"Flag for Gambia"
+},{
+  "text":"\ud83c\uddec\ud83c\uddea",
+  "name":"Flag for Georgia"
+},{
+  "text":"\ud83c\udde9\ud83c\uddea",
+  "name":"Flag for Germany"
+},{
+  "text":"\ud83c\uddec\ud83c\udded",
+  "name":"Flag for Ghana"
+},{
+  "text":"\ud83c\uddec\ud83c\uddee",
+  "name":"Flag for Gibraltar"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf7",
+  "name":"Flag for Greece"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf1",
+  "name":"Flag for Greenland"
+},{
+  "text":"\ud83c\uddec\ud83c\udde9",
+  "name":"Flag for Grenada"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf5",
+  "name":"Flag for Guadeloupe"
+},{
+  "text":"\ud83c\uddec\ud83c\uddfa",
+  "name":"Flag for Guam"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf9",
+  "name":"Flag for Guatemala"
+},{
+  "text":"\ud83c\uddec\ud83c\uddec",
+  "name":"Flag for Guernsey"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf3",
+  "name":"Flag for Guinea"
+},{
+  "text":"\ud83c\uddec\ud83c\uddfc",
+  "name":"Flag for Guinea-Bissau"
+},{
+  "text":"\ud83c\uddec\ud83c\uddfe",
+  "name":"Flag for Guyana"
+},{
+  "text":"\ud83c\udded\ud83c\uddf9",
+  "name":"Flag for Haiti"
+},{
+  "text":"\ud83c\udded\ud83c\uddf2",
+  "name":"Flag for Heard & McDonald Islands"
+},{
+  "text":"\ud83c\udded\ud83c\uddf3",
+  "name":"Flag for Honduras"
+},{
+  "text":"\ud83c\udded\ud83c\uddf0",
+  "name":"Flag for Hong Kong"
+},{
+  "text":"\ud83c\udded\ud83c\uddfa",
+  "name":"Flag for Hungary"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf8",
+  "name":"Flag for Iceland"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf3",
+  "name":"Flag for India"
+},{
+  "text":"\ud83c\uddee\ud83c\udde9",
+  "name":"Flag for Indonesia"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf7",
+  "name":"Flag for Iran"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf6",
+  "name":"Flag for Iraq"
+},{
+  "text":"\ud83c\uddee\ud83c\uddea",
+  "name":"Flag for Ireland"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf2",
+  "name":"Flag for Isle of Man"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf1",
+  "name":"Flag for Israel"
+},{
+  "text":"\ud83c\uddee\ud83c\uddf9",
+  "name":"Flag for Italy"
+},{
+  "text":"\ud83c\uddef\ud83c\uddf2",
+  "name":"Flag for Jamaica"
+},{
+  "text":"\ud83c\uddef\ud83c\uddf5",
+  "name":"Flag for Japan"
+},{
+  "text":"\ud83c\uddef\ud83c\uddea",
+  "name":"Flag for Jersey"
+},{
+  "text":"\ud83c\uddef\ud83c\uddf4",
+  "name":"Flag for Jordan"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddff",
+  "name":"Flag for Kazakhstan"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddea",
+  "name":"Flag for Kenya"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddee",
+  "name":"Flag for Kiribati"
+},{
+  "text":"\ud83c\uddfd\ud83c\uddf0",
+  "name":"Flag for Kosovo"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddfc",
+  "name":"Flag for Kuwait"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddec",
+  "name":"Flag for Kyrgyzstan"
+},{
+  "text":"\ud83c\uddf1\ud83c\udde6",
+  "name":"Flag for Laos"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddfb",
+  "name":"Flag for Latvia"
+},{
+  "text":"\ud83c\uddf1\ud83c\udde7",
+  "name":"Flag for Lebanon"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddf8",
+  "name":"Flag for Lesotho"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddf7",
+  "name":"Flag for Liberia"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddfe",
+  "name":"Flag for Libya"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddee",
+  "name":"Flag for Liechtenstein"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddf9",
+  "name":"Flag for Lithuania"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddfa",
+  "name":"Flag for Luxembourg"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf4",
+  "name":"Flag for Macau"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf0",
+  "name":"Flag for Macedonia"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddec",
+  "name":"Flag for Madagascar"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddfc",
+  "name":"Flag for Malawi"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddfe",
+  "name":"Flag for Malaysia"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddfb",
+  "name":"Flag for Maldives"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf1",
+  "name":"Flag for Mali"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf9",
+  "name":"Flag for Malta"
+},{
+  "text":"\ud83c\uddf2\ud83c\udded",
+  "name":"Flag for Marshall Islands"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf6",
+  "name":"Flag for Martinique"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf7",
+  "name":"Flag for Mauritania"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddfa",
+  "name":"Flag for Mauritius"
+},{
+  "text":"\ud83c\uddfe\ud83c\uddf9",
+  "name":"Flag for Mayotte"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddfd",
+  "name":"Flag for Mexico"
+},{
+  "text":"\ud83c\uddeb\ud83c\uddf2",
+  "name":"Flag for Micronesia"
+},{
+  "text":"\ud83c\uddf2\ud83c\udde9",
+  "name":"Flag for Moldova"
+},{
+  "text":"\ud83c\uddf2\ud83c\udde8",
+  "name":"Flag for Monaco"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf3",
+  "name":"Flag for Mongolia"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddea",
+  "name":"Flag for Montenegro"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf8",
+  "name":"Flag for Montserrat"
+},{
+  "text":"\ud83c\uddf2\ud83c\udde6",
+  "name":"Flag for Morocco"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddff",
+  "name":"Flag for Mozambique"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf2",
+  "name":"Flag for Myanmar"
+},{
+  "text":"\ud83c\uddf3\ud83c\udde6",
+  "name":"Flag for Namibia"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddf7",
+  "name":"Flag for Nauru"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddf5",
+  "name":"Flag for Nepal"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddf1",
+  "name":"Flag for Netherlands"
+},{
+  "text":"\ud83c\uddf3\ud83c\udde8",
+  "name":"Flag for New Caledonia"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddff",
+  "name":"Flag for New Zealand"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddee",
+  "name":"Flag for Nicaragua"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddea",
+  "name":"Flag for Niger"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddec",
+  "name":"Flag for Nigeria"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddfa",
+  "name":"Flag for Niue"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddeb",
+  "name":"Flag for Norfolk Island"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddf5",
+  "name":"Flag for Northern Mariana Islands"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddf5",
+  "name":"Flag for North Korea"
+},{
+  "text":"\ud83c\uddf3\ud83c\uddf4",
+  "name":"Flag for Norway"
+},{
+  "text":"\ud83c\uddf4\ud83c\uddf2",
+  "name":"Flag for Oman"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf0",
+  "name":"Flag for Pakistan"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddfc",
+  "name":"Flag for Palau"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf8",
+  "name":"Flag for Palestinian Territories"
+},{
+  "text":"\ud83c\uddf5\ud83c\udde6",
+  "name":"Flag for Panama"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddec",
+  "name":"Flag for Papua New Guinea"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddfe",
+  "name":"Flag for Paraguay"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddea",
+  "name":"Flag for Peru"
+},{
+  "text":"\ud83c\uddf5\ud83c\udded",
+  "name":"Flag for Philippines"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf3",
+  "name":"Flag for Pitcairn Islands"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf1",
+  "name":"Flag for Poland"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf9",
+  "name":"Flag for Portugal"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf7",
+  "name":"Flag for Puerto Rico"
+},{
+  "text":"\ud83c\uddf6\ud83c\udde6",
+  "name":"Flag for Qatar"
+},{
+  "text":"\ud83c\uddf7\ud83c\uddea",
+  "name":"Flag for R\u00e9union"
+},{
+  "text":"\ud83c\uddf7\ud83c\uddf4",
+  "name":"Flag for Romania"
+},{
+  "text":"\ud83c\uddf7\ud83c\uddfa",
+  "name":"Flag for Russia"
+},{
+  "text":"\ud83c\uddf7\ud83c\uddfc",
+  "name":"Flag for Rwanda"
+},{
+  "text":"\ud83c\uddfc\ud83c\uddf8",
+  "name":"Flag for Samoa"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf2",
+  "name":"Flag for San Marino"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf9",
+  "name":"Flag for S\u00e3o Tom\u00e9 & Pr\u00edncipe"
+},{
+  "text":"\ud83c\uddf8\ud83c\udde6",
+  "name":"Flag for Saudi Arabia"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf3",
+  "name":"Flag for Senegal"
+},{
+  "text":"\ud83c\uddf7\ud83c\uddf8",
+  "name":"Flag for Serbia"
+},{
+  "text":"\ud83c\uddf8\ud83c\udde8",
+  "name":"Flag for Seychelles"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf1",
+  "name":"Flag for Sierra Leone"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddec",
+  "name":"Flag for Singapore"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddfd",
+  "name":"Flag for Sint Maarten"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf0",
+  "name":"Flag for Slovakia"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddee",
+  "name":"Flag for Slovenia"
+},{
+  "text":"\ud83c\uddf8\ud83c\udde7",
+  "name":"Flag for Solomon Islands"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf4",
+  "name":"Flag for Somalia"
+},{
+  "text":"\ud83c\uddff\ud83c\udde6",
+  "name":"Flag for South Africa"
+},{
+  "text":"\ud83c\uddec\ud83c\uddf8",
+  "name":"Flag for South Georgia & South Sandwich Islands"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddf7",
+  "name":"Flag for South Korea"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf8",
+  "name":"Flag for South Sudan"
+},{
+  "text":"\ud83c\uddea\ud83c\uddf8",
+  "name":"Flag for Spain"
+},{
+  "text":"\ud83c\uddf1\ud83c\uddf0",
+  "name":"Flag for Sri Lanka"
+},{
+  "text":"\ud83c\udde7\ud83c\uddf1",
+  "name":"Flag for St. Barth\u00e9lemy"
+},{
+  "text":"\ud83c\uddf8\ud83c\udded",
+  "name":"Flag for St. Helena"
+},{
+  "text":"\ud83c\uddf0\ud83c\uddf3",
+  "name":"Flag for St. Kitts & Nevis"
+},{
+  "text":"\ud83c\uddf1\ud83c\udde8",
+  "name":"Flag for St. Lucia"
+},{
+  "text":"\ud83c\uddf2\ud83c\uddeb",
+  "name":"Flag for St. Martin"
+},{
+  "text":"\ud83c\uddf5\ud83c\uddf2",
+  "name":"Flag for St. Pierre & Miquelon"
+},{
+  "text":"\ud83c\uddfb\ud83c\udde8",
+  "name":"Flag for St. Vincent & Grenadines"
+},{
+  "text":"\ud83c\uddf8\ud83c\udde9",
+  "name":"Flag for Sudan"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddf7",
+  "name":"Flag for Suriname"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddef",
+  "name":"Flag for Svalbard & Jan Mayen"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddff",
+  "name":"Flag for Swaziland"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddea",
+  "name":"Flag for Sweden"
+},{
+  "text":"\ud83c\udde8\ud83c\udded",
+  "name":"Flag for Switzerland"
+},{
+  "text":"\ud83c\uddf8\ud83c\uddfe",
+  "name":"Flag for Syria"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddfc",
+  "name":"Flag for Taiwan"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddef",
+  "name":"Flag for Tajikistan"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddff",
+  "name":"Flag for Tanzania"
+},{
+  "text":"\ud83c\uddf9\ud83c\udded",
+  "name":"Flag for Thailand"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf1",
+  "name":"Flag for Timor-Leste"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddec",
+  "name":"Flag for Togo"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf0",
+  "name":"Flag for Tokelau"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf4",
+  "name":"Flag for Tonga"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf9",
+  "name":"Flag for Trinidad & Tobago"
+},{
+  "text":"\ud83c\uddf9\ud83c\udde6",
+  "name":"Flag for Tristan Da Cunha"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf3",
+  "name":"Flag for Tunisia"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf7",
+  "name":"Flag for Turkey"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddf2",
+  "name":"Flag for Turkmenistan"
+},{
+  "text":"\ud83c\uddf9\ud83c\udde8",
+  "name":"Flag for Turks & Caicos Islands"
+},{
+  "text":"\ud83c\uddf9\ud83c\uddfb",
+  "name":"Flag for Tuvalu"
+},{
+  "text":"\ud83c\uddfa\ud83c\uddec",
+  "name":"Flag for Uganda"
+},{
+  "text":"\ud83c\uddfa\ud83c\udde6",
+  "name":"Flag for Ukraine"
+},{
+  "text":"\ud83c\udde6\ud83c\uddea",
+  "name":"Flag for United Arab Emirates"
+},{
+  "text":"\ud83c\uddec\ud83c\udde7",
+  "name":"Flag for United Kingdom"
+},{
+  "text":"\ud83c\uddfa\ud83c\uddf8",
+  "name":"Flag for United States"
+},{
+  "text":"\ud83c\uddfa\ud83c\uddfe",
+  "name":"Flag for Uruguay"
+},{
+  "text":"\ud83c\uddfa\ud83c\uddf2",
+  "name":"Flag for U.S. Outlying Islands"
+},{
+  "text":"\ud83c\uddfb\ud83c\uddee",
+  "name":"Flag for U.S. Virgin Islands"
+},{
+  "text":"\ud83c\uddfa\ud83c\uddff",
+  "name":"Flag for Uzbekistan"
+},{
+  "text":"\ud83c\uddfb\ud83c\uddfa",
+  "name":"Flag for Vanuatu"
+},{
+  "text":"\ud83c\uddfb\ud83c\udde6",
+  "name":"Flag for Vatican City"
+},{
+  "text":"\ud83c\uddfb\ud83c\uddea",
+  "name":"Flag for Venezuela"
+},{
+  "text":"\ud83c\uddfb\ud83c\uddf3",
+  "name":"Flag for Vietnam"
+},{
+  "text":"\ud83c\uddfc\ud83c\uddeb",
+  "name":"Flag for Wallis & Futuna"
+},{
+  "text":"\ud83c\uddea\ud83c\udded",
+  "name":"Flag for Western Sahara"
+},{
+  "text":"\ud83c\uddfe\ud83c\uddea",
+  "name":"Flag for Yemen"
+},{
+  "text":"\ud83c\uddff\ud83c\uddf2",
+  "name":"Flag for Zambia"
+},{
+  "text":"\ud83c\uddff\ud83c\uddfc",
+  "name":"Flag for Zimbabwe"
+}]

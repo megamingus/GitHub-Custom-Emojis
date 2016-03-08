@@ -1,0 +1,349 @@
+[{
+	"name": "Custom Text Emojis",
+	"type": "text",
+	"source": "https://ascii.li/emoticons/happy",
+	"details": "Happy Text Emoticons (so far)",
+	"previewSize": "1em"
+},{
+	"text": "^\u203f^",
+	"name": "simple smile"
+},{
+	"text": "(\uff61\u25d5\u203f\u25d5\uff61)",
+	"name": "kawaii smile"
+},{
+	"text": "\u30fd(\u2018 \u2207\u2018 )\u30ce",
+	"name": "happy celebrate hands"
+},{
+	"text": "\u30d8(^_^\u30d8)",
+	"name": "happy smile hands"
+},{
+	"text": "(\u273f\u25e0\u203f\u25e0)",
+	"name": "flower kawaii smile"
+},{
+	"text": "(\uffe3\uff70\uffe3)",
+	"name": "relaxed chill sleep"
+},{
+	"text": "\u00b4 \u25bd ` )\uff89",
+	"name": "hello smile"
+},{
+	"text": "\u2606(\u2741\u203f\u2741)\u2606",
+	"name": "flower kawaii star smile"
+},{
+	"text": "(\u2229\u2582\u2229)",
+	"name": "worried tired"
+},{
+	"text": "\uff61\u25d5 \u203f \u25d5\uff61",
+	"name": "happy kawaii smile"
+},{
+	"text": "\u00b0\u0662\u00b0",
+	"name": "smile crazy derp"
+},{
+	"text": "( \u0361^ \u035c\u0296 \u0361^)",
+	"name": "happy lenny face"
+},{
+	"text": "(\u2312o\u2312)",
+	"name": "happy yay sing"
+},{
+	"text": "\u263e\u02d9\u2740\u203f\u2740\u02d9\u263d",
+	"name": "flower kawaii smile"
+},{
+	"text": "\u30c5",
+	"name": "simple single smile"
+},{
+	"text": "(^\uff2f^)",
+	"name": "shout yay"
+},{
+	"text": "\u02da\u11ba\u02da",
+	"name": "simple smile"
+},{
+	"text": "q(\u2742\u203f\u2742)p",
+	"name": "smile high"
+},{
+	"text": "(^L^)",
+	"name": "happy lucky"
+},{
+	"text": "(\u2022\u203f\u2022)",
+	"name": "simple smile"
+},{
+	"text": "(*^ -^*)",
+	"name": "simple smile"
+},{
+	"text": "\u1555( \u141b )\u1557",
+	"name": "happy hands garry walk"
+},{
+	"text": "^L^",
+	"name": "simple smile"
+},{
+	"text": "\u0669(-\u032e\u032e\u0303\u2022\u0303)",
+	"name": "hello smile hands blink"
+},{
+	"text": "\uff3c(\u25cf~\u25bd~\u25cf)",
+	"name": "hello mouth smile hands"
+},{
+	"text": "\u250f(\uff3e0\uff3e)\u251b\u2517(\uff3e0\uff3e) \u2513",
+	"name": "happy fun friends hands"
+},{
+	"text": "(\u10e6\u02d8\u2323\u02d8\u10e6)",
+	"name": "happy smile"
+},{
+	"text": "( \u0361o \u035c\u0296 \u0361o)",
+	"name": "smile lenny face"
+},{
+	"text": "\u2606(\u2741\u203f\u2741)\u2606",
+	"name": "happy flower"
+},{
+	"text": "(\u2609\u203f\u2609\u273f)",
+	"name": "happy flower stare"
+},{
+	"text": "(\u2267\u25e1\u2266)",
+	"name": "happy lucky smile"
+},{
+	"text": "\u30fe(\uff20\u2312\u25bd\u2312\uff20)\uff89",
+	"name": "happy celebrate hands"
+},{
+	"text": "\uff08\u3000\u00b4\u2200\uff40\uff09",
+	"name": "happy smile"
+},{
+	"text": "(\u114c\u1d17\u114c* )",
+	"name": "kawaii smile cute"
+},{
+	"text": "\u00f4\u30ee\u00f4",
+	"name": "happy lol"
+},{
+	"text": "\u2606(\u25d2\u203f\u25d2)\u2606",
+	"name": "smile star cool"
+},{
+	"text": "\u25ce[\u25aa\u203f\u25aa]\u25ce",
+	"name": "kawaii smile cute"
+},{
+	"text": "\u0298\u203f\u0298",
+	"name": "stare smile"
+},{
+	"text": "^( '\u203f' )^",
+	"name": "smile hands ghost"
+},{
+	"text": "(\u3003^\u2207^)\uff89",
+	"name": "hello smile laughing hands"
+},{
+	"text": "(\uff89\u25d5\u30ee\u25d5)\uff89*:\uff65\uff9f\u2727",
+	"name": "happy celebrate throw hands"
+},{
+	"text": "\uff61(\u273f\u203f\u273f)\uff61",
+	"name": "flower kawaii"
+},{
+	"text": "(\u261e\uff9f\u2200\uff9f)\u261e",
+	"name": "happy hello yay"
+},{
+	"text": "\u30fd(\u25c9\u25e1\u25d4)\uff89",
+	"name": "happy party dance"
+},{
+	"text": "(\u25d5\u03c9\u25d5\u273f)",
+	"name": "flower kawaii"
+},{
+	"text": "\u2229(\ufe36\u25bd\ufe36)\u2229",
+	"name": "happy relaxed hands"
+},{
+	"text": "\uff08\u2609\u2200\u2609\uff09",
+	"name": "happy crazy"
+},{
+	"text": "\u252c\u2534\u252c\u2534\u2524( \u0361\u00b0 \u035c\u0296\u251c\u252c\u2534\u252c\u2534",
+	"name": "smile lenny face wall"
+},{
+	"text": "(\u222a \u25e1 \u222a)",
+	"name": "smile relaxed chill sleep"
+},{
+	"text": "\uff3c(*^\u25bd^*)/",
+	"name": "happy hello hands celebrate"
+},{
+	"text": "(*\u02d8\ufe36\u02d8*)",
+	"name": "lucky smile proud"
+},{
+	"text": "(\u25cf\u2312\u2207\u2312\u25cf)",
+	"name": "happy smile"
+},{
+	"text": "(\u2299\ufe4f\u2299\u273f)",
+	"name": "flower kawaii worried"
+},{
+	"text": "(\u2299\u03c9\u2299\u273f)",
+	"name": "flower kawaii smile cute"
+},{
+	"text": "(\u2500\u203f\u203f\u2500)",
+	"name": "smile relaxed chill"
+},{
+	"text": "\u2256\u203f\u2256",
+	"name": "smile stoned high"
+},{
+	"text": "\u273f\u25d5 \u203f \u25d5\u273f",
+	"name": "flower kawaii smile"
+},{
+	"text": "(*~\u25bd~)",
+	"name": "happy lucky"
+},{
+	"text": "\u30fd(\u309c\u2207\u309c)\u30ce",
+	"name": "fun celebrate hands"
+},{
+	"text": "|\u25d4\u25e1\u25c9|",
+	"name": "smile crazy"
+},{
+	"text": "(=\uff9f\u03c9\uff9f)\uff89",
+	"name": "hello smile"
+},{
+	"text": "^.^",
+	"name": "simple smile"
+},{
+	"text": "( \u0361\u00b0\u256d\u035c\u0296\u256e\u0361\u00b0 )",
+	"name": "lenny face beard"
+},{
+	"text": "(\uff61\u273f\u203f\u273f\uff61)",
+	"name": "flower kawaii smile"
+},{
+	"text": "(\u2740\u203f\u2740)",
+	"name": "flower kawaii"
+},{
+	"text": "\u00af\\_(\u30c4)_/\u00af",
+	"name": "smile meh"
+},{
+	"text": "\u25c3\u2506\u25c9\u25e1\u25c9\u2506\u25b7",
+	"name": "smile robot"
+},{
+	"text": "(\u00ac\u203f\u00ac)",
+	"name": "smile evil"
+},{
+	"text": "(\u00b4\u03c9\uff40)",
+	"name": "smile relaxed chill"
+},{
+	"text": "(^\u25bd^)",
+	"name": "happy mouth"
+},{
+	"text": "\u2570(\u25e1\u203f\u25e1\u273f\u2570)",
+	"name": "happy kawaii relaxed thankful hands"
+},{
+	"text": "{\u25d5 \u25e1 \u25d5}",
+	"name": "happy smile"
+},{
+	"text": "\u30fe(\u25cf\u2312\u2207\u2312\u25cf)\uff89",
+	"name": "happy hello hands celebrate"
+},{
+	"text": "\\(\ufb41\u06ba\ufb41\u064e` )/\u06dc",
+	"name": "happy smile"
+},{
+	"text": "\u30fd(\u3000\u00b4\u3000\u2207\u3000\uff40\u3000)\u30ce",
+	"name": "happy fun celebrate hands"
+},{
+	"text": "\u0669(\u0361\u0e4f\u032e\u0361\u0e4f)\u06f6",
+	"name": "smile crap hands crazy"
+},{
+	"text": "(\u2022 \u03b5 \u2022)",
+	"name": "smile"
+},{
+	"text": "\u30fd(^\u25c7^*)/",
+	"name": "happy celebrate hello hands"
+},{
+	"text": "\u25d5\u203f\u25d5",
+	"name": "simple smile"
+},{
+	"text": "(*\u30fb\u2200\u30fb*)\u4eba(*\u30fb\u2200\u30fb*)",
+	"name": "friends hello hands"
+},{
+	"text": "(. \uff9f\u30fc\uff9f)",
+	"name": "worried thinking"
+},{
+	"text": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+	"name": "smile lenny face"
+},{
+	"text": "\u00f3\u203f\u00f3",
+	"name": "simple smile"
+},{
+	"text": "(\u25e0\ufe4f\u25e0\u273f)",
+	"name": "happy lucky flower"
+},{
+	"text": "\u2022(\u231a_\u231a)\u2022",
+	"name": "worried hands"
+},{
+	"text": "v( \u2018.\u2019 )v",
+	"name": "worried hands huh"
+},{
+	"text": "( \u0361~ \u035c\u0296 \u0361\u00b0)",
+	"name": "blink lenny face"
+},{
+	"text": "(\u25e0\u203f\u25e0\u273f)",
+	"name": "flower kawaii smile"
+},{
+	"text": "\u25cf\u203f\u25cf",
+	"name": "simple smile"
+},{
+	"text": "(\u3065\uff61\u25d5\u203f\u203f\u25d5\uff61)\u3065",
+	"name": "smile yay hands"
+},{
+	"text": "(\u0ca0\u25e1\u0ca0)",
+	"name": "smile approve"
+},{
+	"text": "\uff08\uff0a\uff3e\uff35\uff3e\uff09\u4eba\uff08\u2267\uff36\u2266\uff0a\uff09/",
+	"name": "happy fun friends hands"
+},{
+	"text": "\uff08\uff3e\u2286\uff3e\uff09",
+	"name": "happy nose"
+},{
+	"text": "(\u25b0\u02d8\u25e1\u02d8\u25b0)",
+	"name": "happy smile delightful"
+},{
+	"text": "< (^^,) >",
+	"name": "simple smile hug"
+},{
+	"text": "\uff08 \u00b4_\u2283\uff40\uff09",
+	"name": "nose meh"
+},{
+	"text": "(^\uff70^)",
+	"name": "happy lucky proud"
+},{
+	"text": "\u25d5 \u25e1 \u25d5",
+	"name": "simple smile"
+},{
+	"text": "\u062a",
+	"name": "simple single"
+},{
+	"text": "\u2652(\u2605\u203f\u2605)\u2652",
+	"name": "kawaii smile"
+},{
+	"text": "( \u00ac\u203f\u00ac)",
+	"name": "smile hehe"
+},{
+	"text": "(\uff9f\u30ee\uff9f)",
+	"name": "mouth laughing"
+},{
+	"text": "\u25d9\u203f\u25d9",
+	"name": "smile block"
+},{
+	"text": "\uff3c\uff08\uff3e\u25cb\uff3e\uff09\u4eba\uff08\uff3e\u25cb\uff3e\uff09\uff0f",
+	"name": "happy fun friends celebrate hands"
+},{
+	"text": "(~\uffe3\u25bd\uffe3)~",
+	"name": "hug"
+},{
+	"text": "\u1566( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u1564",
+	"name": "lenny face flex"
+},{
+	"text": "(\u25d5\u203f\u25d5\u273f)",
+	"name": "happy flower"
+},{
+	"text": "(/\u25d4 \u25e1 \u25d4)/",
+	"name": "happy smile"
+},{
+	"text": "(\u25e1\u203f\u25e1\u273f)",
+	"name": "kawaii smile relaxed chill"
+},{
+	"text": "\u1566( \u0361\u00b0\u256d\u035c\u0296\u256e\u0361\u00b0 )\u1564",
+	"name": "lenny face flex beard"
+},{
+	"text": "\u2740\u203f\u2740",
+	"name": "flower simple smile"
+},{
+	"text": "(\u00b0\u2200\u00b0)",
+	"name": "happy fun"
+},{
+	"text": "\uff3c(^-^)\uff0f",
+	"name": "happy hello hands hug"
+},{
+	"text": "\u30fe(\uff20\uff3e\u25bd\uff3e\uff20)\uff89",
+	"name": "fun celebrate hello"
+}]
