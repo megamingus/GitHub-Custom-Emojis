@@ -184,6 +184,9 @@
         return $(this).attr('data-url');
       }).get();
 
+      // update case-sensitive regex
+      this.setRegex();
+
       debug('Updating user settings', settings);
       this.updateStyleSheet();
       this.isUpdating = false;
@@ -971,6 +974,25 @@
       '</div>'
     ].join(''),
 
+    setRegex : function() {
+      var isCS = this.settings.caseSensitive,
+        // parts = [':_', ':']
+        parts = this.vars.emojiTemplate.split('${name}');
+
+      // emojiFilter = /:_([a-z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
+      // used by atwho.js autocomplete
+      this.regex.emojiFilter = new RegExp(
+        parts[0] + '([a-z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
+        parts[0] + '([^\\x00-\\xff]*)$',
+        (isCS ? 'g' : 'gi')
+      );
+
+      this.regex.nameRegex = new RegExp(
+        parts[0] + '([\\w_]+)' + parts[1],
+        (isCS ? 'g' : 'gi')
+      );
+    },
+
     init : function() {
       debug('GitHub-Emoji Script initializing!');
 
@@ -981,26 +1003,10 @@
       this.loadEmojiJson();
       this.updateStyleSheet();
       this.isUpdating = true;
+      // regex based on case sensitive setting
+      this.setRegex();
 
-      var targets = document.querySelectorAll(this.containers.join(',')),
-        // parts = [':_', ':']
-        parts = this.vars.emojiTemplate.split('${name}');
-
-      // emojiFilter = /:_([a-z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
-      // used by atwho.js autocomplete
-      this.regex.emojiFilter = new RegExp(
-        parts[0] + '([a-z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
-        parts[0] + '([^\\x00-\\xff]*)$', 'gi'
-      );
-
-      // used by
-      this.regex.nameRegex = new RegExp(
-        parts[0].replace(ghe.regex.charsToEsc, '\\$&') +
-        '([\\w_]+)' +
-        parts[1].replace(ghe.regex.charsToEsc, '\\$&'), 'g' +
-        (ghe.settings.caseSensitive ? 'i' : '')
-      );
-
+      var targets = document.querySelectorAll(this.containers.join(','));
       Array.prototype.forEach.call(targets, function(target) {
         new MutationObserver(function(mutations) {
           mutations.forEach(function(mutation) {
