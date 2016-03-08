@@ -345,10 +345,12 @@
       if (query === '') {
         return 1;
       }
+      labels = labels || '';
       var i, partial,
         count = 0,
-        arry = (labels || '').split(/[\s,_]+/),
-        parts = query.split(/[,_]/),
+        isCS = this.settings.caseSensitive,
+        arry = (isCS ? labels : labels.toUpperCase()).split(/[\s,_]+/),
+        parts = (isCS ? query : query.toUpperCase()).split(/[,_]/),
         len = parts.length;
       for (i = 0; i < len; i++) {
         // full match or partial
@@ -982,10 +984,10 @@
         // parts = [':_', ':']
         parts = this.vars.emojiTemplate.split('${name}');
 
-      // emojiFilter = /:_([a-z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
+      // emojiFilter = /:_([a-zA-Z\u00c0-\u00ff0-9_,'.+-]*)$|:_([^\x00-\xff]*)$/gi
       // used by atwho.js autocomplete
       this.regex.emojiFilter = new RegExp(
-        parts[0] + '([a-z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
+        parts[0] + '([a-zA-Z\u00c0-\u00ff0-9_,\'\.\+\-]*)$|' +
         parts[0] + '([^\\x00-\\xff]*)$',
         (isCS ? 'g' : 'gi')
       );
