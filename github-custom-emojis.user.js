@@ -207,6 +207,7 @@
           ghe.promises = [];
           ghe.settings.date = new Date().getTime();
           GM_setValue('date', ghe.settings.date);
+          GM_setValue('collections', ghe.collections);
         });
       }
     },
