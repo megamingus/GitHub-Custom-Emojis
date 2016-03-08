@@ -272,7 +272,7 @@
     },
 
     findEmoji : function(node) {
-      var indx, len, group, match, matchesLen,
+      var indx, len, group, match, matchesLen, name,
         regex = ghe.regex.nameRegex,
         matches = [],
         emojis = this.collections,
@@ -285,9 +285,10 @@
         for (group in emojis) {
           if (emojis.hasOwnProperty(group)) {
             len = emojis[group].length;
-            for (indx = 0; indx < len; indx++) {
+            for (indx = 1; indx < len; indx++) {
+              name = emojis[group][indx].name;
               for (match = 0; match < matchesLen; match++) {
-                if (matches[match] === emojis[group][indx].name) {
+                if (name === matches[match]) {
                   debug('found "' + matches[match] + '" in "' + node.textContent + '"');
                   ghe.replaceText(node, emojis[group][indx]);
                 }
