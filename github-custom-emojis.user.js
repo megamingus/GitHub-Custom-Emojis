@@ -206,6 +206,7 @@
           ghe.checkPage();
           ghe.promises = [];
           ghe.settings.date = new Date().getTime();
+          GM_setValue('date', ghe.settings.date);
         });
       }
     },
