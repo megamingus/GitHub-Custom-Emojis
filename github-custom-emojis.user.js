@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitHub Custom Emojis
-// @version      0.1.7
+// @version      0.1.8
 // @description  Add custom emojis from json source
 // @namespace    https://github.com/StylishThemes
 // @include      /https?://((gist)\.)?github\.com/
