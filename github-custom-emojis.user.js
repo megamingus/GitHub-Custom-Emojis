@@ -245,19 +245,15 @@
     //   XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null).snapshotItem(0);
     // to find matching content as it is much faster than scanning each node
     // sometimes it misses things...
-    checkPage : function(node) {
+    checkPage : function() {
       this.isUpdating = true;
-      // not sure why but document evaluate doesn't work on wiki page
-      // preview tab, so we need to search the entire document
-      if ($('#wiki-wrapper').length) {
-        node = null;
-      }
-      var indx = 0,
+      var node,
+        indx = 0,
         parts = this.vars.emojiTemplate.split('${name}'), // parts = [':_', ':']
         // adding "//" starts from document, so if node is defined, don't
         // include it so the search starts from the node
-        path = (node ? '' : '//') + '*[text()[contains(.,"' + parts[0] + '")]]',
-        nodes = document.evaluate(path, node || document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null),
+        path = '//*[text()[contains(.,"' + parts[0] + '")]]',
+        nodes = document.evaluate(path, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null),
         len = nodes.snapshotLength;
       try {
         node = nodes.snapshotItem(indx);
@@ -462,7 +458,7 @@
           mutations.forEach(function(mutation) {
             // preform checks before adding code wrap to minimize function calls
             if (mutation.target === target && !ghe.isUpdating) {
-              ghe.checkPage(target);
+              ghe.checkPage();
             }
           });
         });
@@ -816,12 +812,12 @@
       }
     },
 
-    update : function(target) {
+    update : function() {
       this.isUpdating = true;
       this.setupPreviews();
       this.addToolbarIcon();
       // checkPage clears isUpdating flag
-      this.checkPage(target);
+      this.checkPage();
     },
 
     addPanels : function() {
@@ -1018,7 +1014,7 @@
             // preform checks before adding code wrap to minimize function calls
             if (mutation.target === target && !$.isEmptyObject(ghe.collections) &&
               !(ghe.isUpdating || target.querySelector('.ghe-processed'))) {
-              ghe.update(target);
+              ghe.update();
             }
           });
         }).observe(target, {
