@@ -256,7 +256,7 @@
         parts = this.vars.emojiTemplate.split('${name}'), // parts = [':_', ':']
         // adding "//" starts from document, so if node is defined, don't
         // include it so the search starts from the node
-        path = (node ? '' : '//') + '//*[text()[contains(.,"' + parts[0] + '")]]',
+        path = (node ? '' : '//') + '*[text()[contains(.,"' + parts[0] + '")]]',
         nodes = document.evaluate(path, node || document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null),
         len = nodes.snapshotLength;
       try {
