@@ -14,7 +14,7 @@ Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubuse
 
 * [Insert emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki) & changing settings.
 * [Install](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Install) browser specific user script addons.
-* Full list of [emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis).
+* Full list of [image emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image) and [text emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-text).
 * How to [add emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Add-Emojis).
 * How to [remove emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Remove-Emojis) & collections.
 * Artist [permissions](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Permissions).
@@ -22,6 +22,14 @@ Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubuse
 
 # Screenshots
 
+## Insert text emojis
+
+![start typing](https://cloud.githubusercontent.com/assets/136959/13732283/1c30c08e-e94d-11e5-9cd0-94bfea349071.gif)
+
+## Insert image emojis
+
 ![start typing](https://cloud.githubusercontent.com/assets/136959/13545878/262057ba-e260-11e5-864c-377d63f2065a.gif)
+
+## Settings panel
 
 ![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13548428/ca089004-e2b5-11e5-8718-61343908bf15.png)
