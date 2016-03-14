@@ -24,14 +24,20 @@ Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubuse
 
 # Screenshots
 
-### Insert text emojis (use `~` to open dropdown)
+### Insert text emojis
+
+Use `~` to open the dropdown
 
 ![start typing](https://cloud.githubusercontent.com/assets/136959/13732283/1c30c08e-e94d-11e5-9cd0-94bfea349071.gif)
 
-### Insert image emojis (use `:_` to open the dropdown)
+### Insert image emojis
+
+Use `:_` to open the dropdown
 
 ![start typing](https://cloud.githubusercontent.com/assets/136959/13545878/262057ba-e260-11e5-864c-377d63f2065a.gif)
 
 ### Settings panel
+
+Open by pressing <kbd>g</kbd> + <kbd>=</kbd> (equals) within one second of each other.
 
 ![emoji-settings](https://cloud.githubusercontent.com/assets/136959/13548428/ca089004-e2b5-11e5-8718-61343908bf15.png)
