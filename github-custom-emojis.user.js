@@ -143,6 +143,9 @@
             s.sources[s.sources.length] = d.sources[indx];
           }
         }
+      } else if (reset === false) {
+        // Refresh sources, so clear out collections
+        this.collections = {};
       }
       tmp = s.sources;
       len = tmp.length;
@@ -167,7 +170,11 @@
       if (reset) {
         this.updateSettings();
       }
-
+      if (typeof reset === 'boolean') {
+        // reset autocomplete after refresh or restore so we're using the
+        // most up-to-date collection data
+        $('.comment-form-textarea').atwho('destroy');
+      }
       debug((reset ? 'Resetting' : 'Saving') + ' current values & updating panel', s);
       ghe.busy = false;
     },
