@@ -2,7 +2,9 @@
 
 This userscript allows you to use and add custom emojis to GitHub.
 
-It replaces text that follow this template `:_{name}:`, so as not to interfere with the default GitHub emojis. Custom emojis can be added anywhere on the page, and provide an autocomplete method in issue comments.
+Image emojis replace text that follow this template `:_{name}:`, so as not to interfere with the default GitHub emojis. Custom emojis can be added anywhere on the page, and provide an autocomplete method in issue comments.
+
+Text emojis, both unicode and [kaomoji](https://en.wikipedia.org/wiki/Emoticon#Japanese_style), can be added using an autocomplete dropdown by typing a tilde symbol (`~`). Or, by opening up the collections and selecting the desired emoji.
 
 # Installation
 
