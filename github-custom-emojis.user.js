@@ -75,7 +75,8 @@
       '#js-pjax-container',
       '#js-repo-pjax-container',
       '.js-contribution-activity',
-      '.more-repos'
+      '.more-repos', // loading "more" of "Your repositories"
+      '#dashboard .news' // loading "more" news
     ],
 
     // mutant observers to disconnect after ajax load
@@ -190,7 +191,7 @@
       settings.activeZoom    = $panel.find('.ghe-zoom').val();
       settings.insertAsImage = $panel.find('.ghe-image').is(':checked');
       settings.caseSensitive = $panel.find('.ghe-case').is(':checked');
-      settings.sources = $panel.find('.ghe-source-input').map(function(){
+      settings.sources = $panel.find('.ghe-source-input').map(function() {
         return $(this).attr('data-url');
       }).get();
 
@@ -212,7 +213,7 @@
         for (indx = 0; indx < len; indx++) {
           promises[promises.length] = this.fetchCustomEmojis(sources[indx]);
         }
-        $.when.apply(null, promises).done(function(){
+        $.when.apply(null, promises).done(function() {
           ghe.checkPage();
           ghe.promises = [];
           ghe.settings.date = new Date().getTime();
@@ -663,7 +664,7 @@
         ghe.updateSettings();
       });
       // go back - switch from single collection to showing all collections
-      $('#ghe-popup .ghe-back').on('click', function(){
+      $('#ghe-popup .ghe-back').on('click', function() {
         $('.ghe-single-collection, .ghe-back').hide();
         $('.ghe-all-collections').show();
       });
@@ -713,7 +714,7 @@
 
       // Remove source input - delegated binding
       $('.ghe-settings-wrapper')
-        .on('click', '.ghe-remove', function(e) {
+        .on('click', '.ghe-remove', function() {
           var $wrapper = $(this).closest('.ghe-source'),
             url = $wrapper.find('.ghe-source-input').attr('data-url');
           ghe.removeSource(url);
@@ -730,7 +731,7 @@
             case 'focus':
             case 'focusin':
               // show entire url when focused
-              $this.val( $this.attr('data-url') );
+              $this.val($this.attr('data-url'));
               break;
             case 'blur':
             case 'focusout':
@@ -756,7 +757,7 @@
 
     showFileName : function($el) {
       var str = $el.attr('data-url'),
-        v = str.substring( str.lastIndexOf('/') + 1, str.length );
+        v = str.substring(str.lastIndexOf('/') + 1, str.length);
       // show only the file name in the input when blurred
       // unless there is no file name
       $el.val(v === '' ? str : '...' + v);
@@ -831,9 +832,7 @@
     showCollection : function(name) {
       var indx, emoji,
         range = ghe.settings.rangeHeight.split(';'),
-        group = ghe.collections[name].slice(1).sort(function(a, b) {
-          return a.name > b.name ? 1 : ( a.name < b.name ? -1 : 0 );
-        }),
+        group = ghe.collections[name].slice(1).sort(ghe.emojiSort),
         list = [],
         len = group.length;
       for (indx = 1; indx < len; indx++) {
