@@ -1,5 +1,9 @@
 ## Crazy Rabbit Emoticons
 
+### Full list:
+
+Check out the [Emojis Image](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image#tuzki-crazy-rabbit) page.
+
 ### Source:
 
 http://emoticoner.com/emoticons/crazy-rabbit

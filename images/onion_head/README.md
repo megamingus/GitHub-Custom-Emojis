@@ -1,5 +1,9 @@
 ## Onion Head Emoticons
 
+### Full list:
+
+Check out the [Emojis Image](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image#onion-head) page.
+
 ### Source:
 
 http://emoticoner.com/emoticons/onion-head

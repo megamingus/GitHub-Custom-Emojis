@@ -1,12 +1,16 @@
 ## Miscellaneous Emoticons
 
+### Full list:
+
+Check out the [Custom Image Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image#custom) page.
+
 ### Source:
 
-As listed on the [Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis#custom) page
+As listed on the [Custom Image Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image#custom) page
 
 ### License:
 
-As listed on the [Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis#custom) page
+As listed on the [Custom Image Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Emojis-image#custom) page
 
 ----
 
