@@ -76,11 +76,10 @@
       '#js-repo-pjax-container',
       '.js-contribution-activity',
       '.more-repos', // loading "more" of "Your repositories"
-      '#dashboard .news' // loading "more" news
+      '#dashboard .news', // loading "more" news
+      '.js-preview-body' // comment previews
     ],
 
-    // mutant observers to disconnect after ajax load
-    previewObserver : [],
     // promises used when loading JSON
     promises : {},
 
@@ -517,33 +516,6 @@
       }
     },
 
-    setupPreviews : function() {
-      // Add mutant observer to previews
-      var previews = document.querySelectorAll('.preview-content .comment-body');
-      if (ghe.previewObserver.length) {
-        // disconnect previous observers
-        $.each(ghe.previewObserver, function() {
-          this.disconnect();
-        });
-        ghe.previewObserver = [];
-      }
-      Array.prototype.forEach.call(previews, function(target) {
-        var obs = new MutationObserver(function(mutations) {
-          mutations.forEach(function(mutation) {
-            // preform checks before adding code wrap to minimize function calls
-            if (mutation.target === target && !ghe.isUpdating) {
-              ghe.checkPage();
-            }
-          });
-        });
-        obs.observe(target, {
-          childList : true,
-          subtree : false
-        });
-        ghe.previewObserver[ghe.previewObserver.length] = obs;
-      });
-    },
-
     addToolbarIcon : function() {
       // add Emoji setting icons
       var indx, $el,
@@ -910,7 +882,6 @@
 
     update : function() {
       this.isUpdating = true;
-      this.setupPreviews();
       this.addToolbarIcon();
       // checkPage clears isUpdating flag
       this.checkPage();
@@ -1133,7 +1104,6 @@
       this.addPanels();
 
       // Add emoji autocomplete & watch for preview rendering
-      this.setupPreviews();
       this.addToolbarIcon();
       this.addBindings();
       // update panel values after bindings (rangeslider)
