@@ -9,6 +9,7 @@
 // @grant        GM_setValue
 // @grant        GM_xmlhttpRequest
 // @grant        GM_info
+// @connect      *
 // @run-at       document-end
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
 // @require      https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=106431
