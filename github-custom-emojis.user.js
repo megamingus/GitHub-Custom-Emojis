@@ -12,8 +12,8 @@
 // @connect      *
 // @run-at       document-end
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
-// @require      https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=106431
-// @require      https://greasyfork.org/scripts/16996-ichord-at-js-mod/code/ichord-Atjs-mod.js?version=109194
+// @require      https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=138639
+// @require      https://greasyfork.org/scripts/16996-ichord-at-js-mod/code/ichord-Atjs-mod.js?version=138632
 // @require      https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.1.2/js/ion.rangeSlider.min.js
 // @updateURL    https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
 // @downloadURL  https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
@@ -909,7 +909,7 @@
         '#ghe-settings .boxed-group-inner { padding:0; }',
         '#ghe-settings .ghe-footer { padding: 10px; border-top: #555 solid 1px; }',
         '#ghe-settings .ghe-min-height, #ghe-settings .ghe-max-height, .ghe-zoom { width: 5em; }',
-        '#ghe-settings .ghe-source-input { width: 90%; padding:3px; margin:3px 0 }',
+        '#ghe-settings .ghe-source-input { width: 90%; padding:3px; margin:3px 0; border-style:solid; border-width:1px }',
         '#ghe-settings .ghe-slider-wrapper { height:40px; }',
         '#ghe-settings .ghe-slider-wrapper label { position:relative; top:22px }',
         '#ghe-settings .ghe-range-slider, #ghe-settings .ghe-zoom-slider { position:relative; height:40px; width:250px; float:right }',
@@ -923,15 +923,15 @@
         '#ghe-popup .select-menu-item.ghe-text-emoji { line-height:inherit; position:relative; padding-right:45px }',
         '#ghe-popup .select-menu-item.ghe-text-emoji .ghe-text { position:absolute; right:10px; top:0 }',
         '#ghe-popup .select-menu-item .ghe-text, .atwho-view .ghe-text { font-size:1.6em }',
-        '.ghe-settings-icon, #ghe-popup.in { display:inline-block }',
+        '.ghe-settings-icon, #ghe-popup.in { display:inline-block; vertical-align:middle }',
 
         // autocomplete popup in comment
-        '.atwho-view { position:absolute; top:0; left:0; display:none; margin-top:18px; background:#fff; color:#000; border:1px solid #ddd; border-radius:3px; box-shadow:0 0 5px rgba(0,0,0,.1); min-width:300px; max-width:none!important; max-height:225px; overflow:auto; z-index:11110!important }',
-        '.atwho-view .navigation-focus { background:#36f; color:#fff }',
-        '.atwho-view .navigation-focus small { color:#fff }',
+        '.atwho-view { position:absolute; top:0; left:0; display:none; margin-top:18px; border:1px solid #ddd; border-radius:3px; box-shadow:0 0 5px rgba(0,0,0,.1); min-width:300px; max-width:none!important; max-height:225px; overflow:auto; z-index:11110!important }',
+        '.atwho-view .cur { background:#36f; color:#fff }',
+        '.atwho-view .cur small { color:#fff }',
         '.atwho-view strong { color:#36F }',
-        '.atwho-view .navigation-focus strong { color:#fff; font:700 }',
-        '.atwho-view ul { list-style:none; padding:0; margin:auto }',
+        '.atwho-view .cur strong { color:#fff; font:700 }',
+        '.atwho-view ul { list-style:none; padding:0; margin:auto; max-height:200px; overflow-y:auto; }',
         '.atwho-view ul li { display:block; padding:5px 10px; border-bottom:1px solid #ddd; cursor:pointer }',
         '.atwho-view li span { display:inline-block; min-width:60px; padding-right:4px }',
         '.atwho-view small { font-size:smaller; color:#777; font-weight:400 }',
