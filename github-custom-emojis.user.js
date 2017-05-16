@@ -1,22 +1,24 @@
 // ==UserScript==
-// @name         GitHub Custom Emojis
-// @version      0.2.5
-// @description  Add custom emojis from json source
-// @namespace    https://github.com/StylishThemes
-// @include      /https?://((gist)\.)?github\.com/
-// @grant        GM_addStyle
-// @grant        GM_getValue
-// @grant        GM_setValue
-// @grant        GM_xmlhttpRequest
-// @grant        GM_info
-// @connect      *
-// @run-at       document-end
-// @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
-// @require      https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=138639
-// @require      https://greasyfork.org/scripts/16996-ichord-at-js-mod/code/ichord-Atjs-mod.js?version=138632
-// @require      https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.1.2/js/ion.rangeSlider.min.js
-// @updateURL    https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
-// @downloadURL  https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
+// @name        GitHub Custom Emojis
+// @version     0.2.6
+// @description Add custom emojis from json source
+// @license     MIT
+// @author      Rob Garrison
+// @namespace   https://github.com/StylishThemes
+// @include     /https?://((gist)\.)?github\.com/
+// @grant       GM_addStyle
+// @grant       GM_getValue
+// @grant       GM_setValue
+// @grant       GM_xmlhttpRequest
+// @grant       GM_info
+// @connect     *
+// @run-at      document-end
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+// @require     https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=138639
+// @require     https://greasyfork.org/scripts/16996-ichord-at-js-mod/code/ichord-Atjs-mod.js?version=138632
+// @require     https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.1.2/js/ion.rangeSlider.min.js
+// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
+// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
 // ==/UserScript==
 /* global jQuery, GM_addStyle, GM_getValue, GM_setValue, GM_xmlhttpRequest, GM_info */
 /* eslint-disable indent, quotes */
