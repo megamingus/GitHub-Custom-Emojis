@@ -4,7 +4,7 @@
 // @description Add custom emojis from json source
 // @license     MIT
 // @author      Rob Garrison
-// @namespace   https://github.com/StylishThemes
+// @namespace   https://github.com/megamingus
 // @include     /https?://((gist)\.)?github\.com/
 // @grant       GM_addStyle
 // @grant       GM_getValue
@@ -17,8 +17,8 @@
 // @require     https://greasyfork.org/scripts/16936-ichord-caret-js/code/ichord-Caretjs.js?version=138639
 // @require     https://greasyfork.org/scripts/16996-ichord-at-js-mod/code/ichord-Atjs-mod.js?version=138632
 // @require     https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.1.2/js/ion.rangeSlider.min.js
-// @updateURL   https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
-// @downloadURL https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
+// @updateURL   https://raw.githubusercontent.com/megamingus/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
+// @downloadURL https://raw.githubusercontent.com/megamingus/GitHub-Custom-Emojis/master/github-custom-emojis.user.js
 // ==/UserScript==
 /* global jQuery, GM_addStyle, GM_getValue, GM_setValue, GM_xmlhttpRequest, GM_info */
 /* eslint-disable indent, quotes */
@@ -34,7 +34,7 @@
       delay : 8.64e7, // 24 hours in milliseconds
 
       // base url to fetch package.json
-      root : 'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/',
+      root : 'https://raw.githubusercontent.com/megamingus/GitHub-Custom-Emojis/master/',
       emojiClass : 'ghe-custom-emoji',
       emojiTxtTemplate : '~${name}',
       emojiImgTemplate : ':_${name}:',
@@ -66,7 +66,8 @@
         'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-crazy-rabbit.json',
         'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-onion-head.json',
         'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-unicode.json',
-        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-custom-text.json'
+        'https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/collections/emoji-custom-text.json',
+        'https://raw.githubusercontent.com/megamingus/GitHub-Custom-Emojis/master/collections/emoji-megamingus-custom.json'
       ]
     },
 

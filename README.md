@@ -10,7 +10,9 @@ Text emojis, both unicode and [kaomoji](https://en.wikipedia.org/wiki/Emoticon#J
 
 Make sure to install a userscript engine like [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [compatible](https://github.com/StylishThemes/GitHub-Custom-Emojis/wiki/Install).
 
-Install "GitHub Custom Emojis" by clicking here: [install](https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js).
+Install the original "GitHub Custom Emojis" by clicking here: [install](https://raw.githubusercontent.com/StylishThemes/GitHub-Custom-Emojis/master/github-custom-emojis.user.js).
+
+Install this fork of "GitHub Custom Emojis" by clicking here: [install](https://raw.githubusercontent.com/megamingus/GitHub-Custom-Emojis/master/github-custom-emojis.user.js).
 
 # Documentation
 
